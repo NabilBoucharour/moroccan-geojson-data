@@ -1,9 +1,6 @@
 # moroccan-geojson-data
 A comprehensive collection of GeoJSON data for Morocco, including administrative boundaries (regions, provinces, communes), points of interest, road networks, and more. This dataset is useful for geographic analysis, visualizations, and mapping applications. Maintained and curated to ensure accuracy and completeness.
 
-# Moroccan GeoJSON Data
-
-Moroccan GeoJSON Data is an open-source repository providing accurate and up-to-date geographical data for Morocco. It includes a wide range of spatial data to facilitate geographic analysis, mapping, and visualization projects.
 
 ## 📌 Features
 - **Administrative Boundaries**: Regions, provinces, and communes
