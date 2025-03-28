@@ -1,0 +1,380 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-5.80251642813866, 35.7884513792599]
+        },
+        "properties": {
+          "OBJECTID": 1,
+          "NOM_AERO": "TANGER",
+          "VILLE": "TANGER",
+          "PORT_ID": 8,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": 2825766,
+          "ANNEE": 2000,
+          "DIRIGEANT": "Mr. Mounir SENNOUNI",
+          "FONCTION_ID": "Directeur d'Exploitation",
+          "ADRESSE_PORT": "Port de tanger 90000 -TANGER-",
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": "175, bd Mohamed Zerktouni 20100 , Casablanca  ",
+          "TELEPHONE_SIEGE": "05 39 93 60 40 / 05 39 93 60 41",
+          "FAX_SIEGE": "05 39 93 15 05",
+          "F13": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-2.92149648891181, 35.2596664948553]
+        },
+        "properties": {
+          "OBJECTID": 2,
+          "NOM_AERO": "NADOR",
+          "VILLE": "NADOR",
+          "PORT_ID": 9,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": 2009768,
+          "ANNEE": 2000,
+          "DIRIGEANT": "Mr. Hassan OUBAHA",
+          "FONCTION_ID": "Directeur d'Exploitation",
+          "ADRESSE_PORT": "Port Beni Enzar -BENI ENZAR-",
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": "175, bd Mohamed Zerktouni 20100 , Casablanca  ",
+          "TELEPHONE_SIEGE": "05 36 60 86 47 / 05 36 60 85 18",
+          "FAX_SIEGE": "05 36 60 85 31",
+          "F13": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-3.92362285514867, 35.2458529523151]
+        },
+        "properties": {
+          "OBJECTID": 3,
+          "NOM_AERO": "Al HOCEIMA",
+          "VILLE": "Al HOCEIMA",
+          "PORT_ID": 10,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": null,
+          "ANNEE": null,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "ADRESSE_PORT": "Port d'Al Houceima -AL HOUCEIMA-",
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": null,
+          "TELEPHONE_SIEGE": "05 39 98 33 74 / 05 39 98 40 43 ",
+          "FAX_SIEGE": "05 39 98 30 47",
+          "F13": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-4.65227380496868, 35.2118520289449]
+        },
+        "properties": {
+          "OBJECTID": 4,
+          "NOM_AERO": "JEBHA",
+          "VILLE": "JEBHA",
+          "PORT_ID": 18,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": 1456,
+          "ANNEE": 2003,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "ADRESSE_PORT": null,
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": null,
+          "TELEPHONE_SIEGE": null,
+          "FAX_SIEGE": null,
+          "F13": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-5.31523922974819, 35.6825930790158]
+        },
+        "properties": {
+          "OBJECTID": 5,
+          "NOM_AERO": "M'DIQ",
+          "VILLE": "M'DIQ",
+          "PORT_ID": 16,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": null,
+          "ANNEE": null,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "ADRESSE_PORT": "Port de M'diq, Province de Tétouan -M'DIQ-",
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": null,
+          "TELEPHONE_SIEGE": "05 39 97 51 41 / 05 39 97 51 40 ",
+          "FAX_SIEGE": "05 39 97 51 41 / 05 39 66 38 81 ",
+          "F13": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-9.77437665539293, 31.5090107233701]
+        },
+        "properties": {
+          "OBJECTID": 6,
+          "NOM_AERO": "ESSAOUIRA",
+          "VILLE": "ESSAOUIRA",
+          "PORT_ID": 15,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": null,
+          "ANNEE": null,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "ADRESSE_PORT": "Port de Pêche Ancienne Medina -ESSAOUIRA-",
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": null,
+          "TELEPHONE_SIEGE": "05 24 47 61 59",
+          "FAX_SIEGE": "05 24 78 43 75",
+          "F13": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-5.34293527001956, 35.7549422497718]
+        },
+        "properties": {
+          "OBJECTID": 7,
+          "NOM_AERO": "MARINASMIR",
+          "VILLE": "MARINASMIR",
+          "PORT_ID": 17,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": null,
+          "ANNEE": null,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "ADRESSE_PORT": "BP n°83, M'DIQ",
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": null,
+          "TELEPHONE_SIEGE": "05 39 97 72 50 / 05 39 97 72 51",
+          "FAX_SIEGE": "05 39 97 72 65",
+          "F13": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 8,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-15.9260391047991, 23.6984025397909]
+        },
+        "properties": {
+          "OBJECTID": 8,
+          "NOM_AERO": "DAKHLA",
+          "VILLE": "DAKHLA",
+          "PORT_ID": 6,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": 41782,
+          "ANNEE": 2000,
+          "DIRIGEANT": "Mr. Nabil BOUMEZZOUGH",
+          "FONCTION_ID": "Directeur d'Exploitation",
+          "ADRESSE_PORT": "Rte, du Nouveau port -DAKHLA-",
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": "175, bd Mohamed Zerktouni 20100 , Casablanca  ",
+          "TELEPHONE_SIEGE": "05 28 89 88 17 / 05 28 89 88 18",
+          "FAX_SIEGE": "05 28 89 88 25",
+          "F13": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 9,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-13.4130314580115, 27.0931080048415]
+        },
+        "properties": {
+          "OBJECTID": 9,
+          "NOM_AERO": "LAAYOUNE",
+          "VILLE": "LAAYOUNE",
+          "PORT_ID": 7,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": 3034330,
+          "ANNEE": 2000,
+          "DIRIGEANT": "Mr. Al alamine BOUASSAM",
+          "FONCTION_ID": "Directeur d'Exploitation",
+          "ADRESSE_PORT": "Port  de Laâyoune 70001 -LAAYOUNE-",
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": "175, bd Mohamed Zerktouni 20100 , Casablanca  ",
+          "TELEPHONE_SIEGE": "05 28 99 88 88",
+          "FAX_SIEGE": "05 28 99 80 65",
+          "F13": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 10,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.66513431307244, 34.2623288506324]
+        },
+        "properties": {
+          "OBJECTID": 10,
+          "NOM_AERO": "KENITRA-MEHDIA",
+          "VILLE": "KENITRA-MEHDIA",
+          "PORT_ID": 11,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": 363282,
+          "ANNEE": 2000,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "ADRESSE_PORT": "Port de Kénitra Quartier la Ville (centre)",
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": null,
+          "TELEPHONE_SIEGE": "05 37 37 57 54 ",
+          "FAX_SIEGE": null,
+          "F13": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 11,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-11.3395089638361, 28.4866623959644]
+        },
+        "properties": {
+          "OBJECTID": 11,
+          "NOM_AERO": "TAN TAN",
+          "VILLE": "TAN TAN",
+          "PORT_ID": 12,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": 62973,
+          "ANNEE": 2000,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "ADRESSE_PORT": "Port, Tan Tan Plage -TAN TAN-",
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": null,
+          "TELEPHONE_SIEGE": "05 28 87 90 68  / 05 28 87 95 00",
+          "FAX_SIEGE": "05 28 87 92 51",
+          "F13": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 12,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-12.9244390676546, 27.939947500388]
+        },
+        "properties": {
+          "OBJECTID": 12,
+          "NOM_AERO": "TARFAYA",
+          "VILLE": "TARFAYA",
+          "PORT_ID": 13,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": 35564,
+          "ANNEE": 2003,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "ADRESSE_PORT": null,
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": null,
+          "TELEPHONE_SIEGE": "048-8950-04",
+          "FAX_SIEGE": "048-8950-04",
+          "F13": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 13,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-8.49400890861005, 33.2454506592219]
+        },
+        "properties": {
+          "OBJECTID": 13,
+          "NOM_AERO": "EL JADIDA",
+          "VILLE": "EL JADIDA",
+          "PORT_ID": 14,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": null,
+          "ANNEE": null,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "ADRESSE_PORT": "Port d'El Jadida 24000 -EL JADIDA-",
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": null,
+          "TELEPHONE_SIEGE": "05 23 34 03 67",
+          "FAX_SIEGE": "05 23 34 03 67",
+          "F13": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 14,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-2.42303445764863, 35.1462564432557]
+        },
+        "properties": {
+          "OBJECTID": 14,
+          "NOM_AERO": "RAS KEBDANA",
+          "VILLE": "RAS KEBDANA",
+          "PORT_ID": 19,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": 3061,
+          "ANNEE": 2003,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "ADRESSE_PORT": null,
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": null,
+          "TELEPHONE_SIEGE": "056 60 53 12 / 056 60 70 45",
+          "FAX_SIEGE": "056 60 63 87",
+          "F13": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 15,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-7.60776519785493, 33.6068515774063]
+        },
+        "properties": {
+          "OBJECTID": 15,
+          "NOM_AERO": "CASABLANCA",
+          "VILLE": "CASABLANCA",
+          "PORT_ID": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_MARCHANDISE": null,
+          "ANNEE": null,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "ADRESSE_PORT": "Port d'El Jadida 24000 -EL JADIDA-",
+          "LOCALITE_ID": null,
+          "ADRESSE_SIEGE": null,
+          "TELEPHONE_SIEGE": "05 23 34 03 67",
+          "FAX_SIEGE": "05 23 34 03 67",
+          "F13": null
+        }
+      }
+    ]
+  }

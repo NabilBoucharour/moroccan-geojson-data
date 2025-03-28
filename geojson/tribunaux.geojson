@@ -1,0 +1,29 @@
+{"type":"FeatureCollection", "features": [
+   
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-9.759898680673349,31.5017342]},"properties":{"ID":"w101570979","NATURE":"Palais de justice","NOM":"Tribunal de 1° Instance","SOURCE":"OpenStreetMap","DATE_MAJ":"2011-02-25"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.636868649144788,34.52445395]},"properties":{"ID":"w167448270","NATURE":"Palais de justice","NOM":"Cour de premiere instance","SOURCE":"OpenStreetMap","DATE_MAJ":"2012-06-16"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.99806805,34.032173]},"properties":{"ID":"w186942881","NATURE":"Palais de justice","NOM":"Tribunal de Première Instance","SOURCE":"OpenStreetMap","DATE_MAJ":"2018-03-28"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.7359266,32.680051500000005]},"properties":{"ID":"n1329813391","NATURE":"Palais de justice","NOM":"Tribunal de Première Instance","SOURCE":"OpenStreetMap","DATE_MAJ":"2016-01-11"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-7.5646883,33.559282200000006]},"properties":{"ID":"n2405446768","NATURE":"Palais de justice","NOM":"Tribunal Commercial Casablanca","SOURCE":"OpenStreetMap","DATE_MAJ":"2013-08-02"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.4258164,31.933669700000003]},"properties":{"ID":"n2649086493","NATURE":"Palais de justice","NOM":"Tribunal de Première Instance","SOURCE":"OpenStreetMap","DATE_MAJ":"2022-05-11"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-7.5299043,33.600532900000005]},"properties":{"ID":"n2892400963","NATURE":"Palais de justice","NOM":"Tribunal 1er instance Aïn Sebaa","SOURCE":"OpenStreetMap","DATE_MAJ":"2014-05-31"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-1.9203438000000002,34.6738821]},"properties":{"ID":"n2936019453","NATURE":"Palais de justice","NOM":"Cour Régionale des Comptes de Oujda","SOURCE":"OpenStreetMap","DATE_MAJ":"2014-07-27"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-1.9136932000000002,34.677891100000004]},"properties":{"ID":"n3269781222","NATURE":"Palais de justice","NOM":"Tribunal De Mariages","SOURCE":"OpenStreetMap","DATE_MAJ":"2018-07-29"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.8065385,35.776574700000005]},"properties":{"ID":"n4023701558","NATURE":"Palais de justice","NOM":"Tribunal de première instance","SOURCE":"OpenStreetMap","DATE_MAJ":"2017-09-13"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.3618458,32.330951400000004]},"properties":{"ID":"n4230374589","NATURE":"Palais de justice","NOM":"Cour D'appel","SOURCE":"OpenStreetMap","DATE_MAJ":"2016-06-07"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.3615284,32.330277200000005]},"properties":{"ID":"n4230375736","NATURE":"Palais de justice","NOM":"Tribunal de Premiere Instance","SOURCE":"OpenStreetMap","DATE_MAJ":"2016-06-07"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.029000000000001,35.470558100000005]},"properties":{"ID":"n4476534053","NATURE":"Palais de justice","NOM":"Palais de Justice","SOURCE":"OpenStreetMap","DATE_MAJ":"2023-02-24"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-1.9150649000000002,34.6608395]},"properties":{"ID":"n4502813363","NATURE":"Palais de justice","NOM":"Palais de Justice","SOURCE":"OpenStreetMap","DATE_MAJ":"2016-11-15"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-9.737109,29.695167]},"properties":{"ID":"n4674461891","NATURE":"Palais de justice","NOM":"المحكمة الابتدائية تيزنيت","SOURCE":"OpenStreetMap","DATE_MAJ":"2017-02-08"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.9970588000000005,34.0421227]},"properties":{"ID":"n4725814092","NATURE":"Palais de justice","NOM":"Conseil juridique","SOURCE":"OpenStreetMap","DATE_MAJ":"2017-03-16"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.002339200000001,34.0276517]},"properties":{"ID":"n4740522525","NATURE":"Palais de justice","NOM":"Annexe à la cour d'appel de Fès","SOURCE":"OpenStreetMap","DATE_MAJ":"2017-10-13"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.579673100000001,34.255757700000004]},"properties":{"ID":"n4743677921","NATURE":"Palais de justice","NOM":"Tribunal de la famille","SOURCE":"OpenStreetMap","DATE_MAJ":"2017-06-13"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-11.1103377,28.448510400000004]},"properties":{"ID":"n8213844853","NATURE":"Palais de justice","NOM":"Tribunal Première Instance De Tantan","SOURCE":"OpenStreetMap","DATE_MAJ":"2020-12-10"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.9653457,34.000507500000005]},"properties":{"ID":"n8244893627","NATURE":"Palais de justice","NOM":"Palais de justice","SOURCE":"OpenStreetMap","DATE_MAJ":"2020-12-20"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.9512412,34.573791400000005]},"properties":{"ID":"n9453315263","NATURE":"Palais de justice","NOM":"Elementary court","SOURCE":"OpenStreetMap","DATE_MAJ":"2022-01-27"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-3.3916783,34.978218000000005]},"properties":{"ID":"n9882194417","NATURE":"Palais de justice","NOM":"Tribunal de première instance Driouch","SOURCE":"OpenStreetMap","DATE_MAJ":"2022-07-12"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-7.2437082,33.065908300000004]},"properties":{"ID":"n9914160010","NATURE":"Palais de justice","NOM":"قسم قضاء الاسرة","SOURCE":"OpenStreetMap","DATE_MAJ":"2022-07-27"}}
+   
+
+
+]}

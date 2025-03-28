@@ -1,0 +1,594 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-7.57221641864475, 33.3797154650266]
+        },
+        "properties": {
+          "OBJECTID": 1,
+          "NOM_AERO": "AEROPORT MOHAMMED V",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": 3,
+          "TRAFIC_VOYAGEURS_1": 581093,
+          "TRAFIC_FRET_TONNES_1": 3956.77,
+          "ANNEE_1": 2010,
+          "CAPACITE_VOYAGEURS": 11400000,
+          "ADRESSE_AEROPORT": "Nouasseur (30 km de casablanca)",
+          "LOCALITE_ID": null,
+          "Adresse": "ONDA, siège social Nouasseur Casablanca",
+          "DIRIGEANT": "M. Anas LAHKIM",
+          "FONCTION_ID": "Directeur",
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": "05 22 53 90 40",
+          "FAX_SIEGE": "05 22 53 90 51",
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.75125648477553, 34.0502074150037]
+        },
+        "properties": {
+          "OBJECTID": 2,
+          "NOM_AERO": "AEROPORT RABAT_ SALE",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": 2,
+          "TRAFIC_VOYAGEURS_1": 34782,
+          "TRAFIC_FRET_TONNES_1": 71.73,
+          "ANNEE_1": 2010,
+          "CAPACITE_VOYAGEURS": 500000,
+          "ADRESSE_AEROPORT": "Aéroport de Rabat salé",
+          "LOCALITE_ID": null,
+          "Adresse": null,
+          "DIRIGEANT": "Mr. Abdelaziz KINANY",
+          "FONCTION_ID": "Directeur Délégué",
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": "05 37 80 80 90 / 06 60 10 10 21",
+          "FAX_SIEGE": "05 37 80 80 94",
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-9.54918017612986, 30.3815483909209]
+        },
+        "properties": {
+          "OBJECTID": 4,
+          "NOM_AERO": "AEROPORT AGADIR -AL MASSIRA-",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": 2,
+          "TRAFIC_VOYAGEURS_1": 127484,
+          "TRAFIC_FRET_TONNES_1": 17.21,
+          "ANNEE_1": 2010,
+          "CAPACITE_VOYAGEURS": 3000000,
+          "ADRESSE_AEROPORT": "à 25 km de la ville",
+          "LOCALITE_ID": null,
+          "Adresse": "BP 2000 Agadir",
+          "DIRIGEANT": "Mr.Bouchta MOUSSAID",
+          "FONCTION_ID": "Directeur Délégué",
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": "05 28 83 91 12 ",
+          "FAX_SIEGE": "05 28 83 91 49",
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-4.39978927328686, 31.9479888900244]
+        },
+        "properties": {
+          "OBJECTID": 5,
+          "NOM_AERO": "AEROPORT ERRACHIDIA",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": null,
+          "TRAFIC_VOYAGEURS_1": 1538,
+          "TRAFIC_FRET_TONNES_1": null,
+          "ANNEE_1": 2010,
+          "CAPACITE_VOYAGEURS": null,
+          "ADRESSE_AEROPORT": null,
+          "LOCALITE_ID": null,
+          "Adresse": null,
+          "DIRIGEANT": "Mr. Brahim HATERBOUCH",
+          "FONCTION_ID": "Commandant",
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": "05 35 57 23 50",
+          "FAX_SIEGE": null,
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-9.71467155386366, 31.4842948638795]
+        },
+        "properties": {
+          "OBJECTID": 6,
+          "NOM_AERO": "AEROPORT ESSAOUIRA -MOGADOR-",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": 1,
+          "TRAFIC_VOYAGEURS_1": 1810,
+          "TRAFIC_FRET_TONNES_1": null,
+          "ANNEE_1": 2010,
+          "CAPACITE_VOYAGEURS": 300000,
+          "ADRESSE_AEROPORT": "à 16 km de la ville",
+          "LOCALITE_ID": null,
+          "Adresse": "BP 131 Essaouira",
+          "DIRIGEANT": "Mr. Majd RADI",
+          "FONCTION_ID": "Commandant",
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": "05 24 47 67 04",
+          "FAX_SIEGE": "05 24 47 67 05",
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-13.2310875427486, 27.1426312006131]
+        },
+        "properties": {
+          "OBJECTID": 7,
+          "NOM_AERO": "AEROPORT LAAYOUNE -HASSAN I-",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": 2,
+          "TRAFIC_VOYAGEURS_1": 9950,
+          "TRAFIC_FRET_TONNES_1": 77.7,
+          "ANNEE_1": 2010,
+          "CAPACITE_VOYAGEURS": 500000,
+          "ADRESSE_AEROPORT": null,
+          "LOCALITE_ID": null,
+          "Adresse": "BP 198 Laâyoune",
+          "DIRIGEANT": "Mr. Mohamed EL MARDI",
+          "FONCTION_ID": "Commandant",
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": "05 28 89 37 91",
+          "FAX_SIEGE": "05 28 89 37 65",
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 8,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.91188381941911, 30.9400992986523]
+        },
+        "properties": {
+          "OBJECTID": 8,
+          "NOM_AERO": "AEROPORT DE OUARZAZATE",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": 1,
+          "TRAFIC_VOYAGEURS_1": 7862,
+          "TRAFIC_FRET_TONNES_1": 1.44,
+          "ANNEE_1": 2010,
+          "CAPACITE_VOYAGEURS": 260000,
+          "ADRESSE_AEROPORT": null,
+          "LOCALITE_ID": null,
+          "Adresse": "BP 30 Ouarzazate",
+          "DIRIGEANT": "Mr. Abdelkrim BOUGUIRI",
+          "FONCTION_ID": "Directeur Délégué",
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": "05 24 88 22 97",
+          "FAX_SIEGE": "05 24 88 21 12",
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 9,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-4.97756850890556, 33.9274356348101]
+        },
+        "properties": {
+          "OBJECTID": 9,
+          "NOM_AERO": "AEROPORT FES_SAISS",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": 2,
+          "TRAFIC_VOYAGEURS_1": 72317,
+          "TRAFIC_FRET_TONNES_1": 29.79,
+          "ANNEE_1": 2010,
+          "CAPACITE_VOYAGEURS": 500000,
+          "ADRESSE_AEROPORT": null,
+          "LOCALITE_ID": null,
+          "Adresse": "BP A 11 Fés",
+          "DIRIGEANT": "Mme. Saadia LOQA",
+          "FONCTION_ID": "Directeur Délégué",
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": "05 35 62 48 00",
+          "FAX_SIEGE": "05 35 65 26 64",
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 10,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.92519253971427, 34.7862702430663]
+        },
+        "properties": {
+          "OBJECTID": 10,
+          "NOM_AERO": "AEROPORT OUJDA -ANGAD-",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": 2,
+          "TRAFIC_VOYAGEURS_1": 34396,
+          "TRAFIC_FRET_TONNES_1": 22.01,
+          "ANNEE_1": 2010,
+          "CAPACITE_VOYAGEURS": 3000000,
+          "ADRESSE_AEROPORT": null,
+          "LOCALITE_ID": null,
+          "Adresse": "BP 3137 Takadoum Oujda",
+          "DIRIGEANT": "Mr. Mohcine BENHADOUCHE",
+          "FONCTION_ID": "Directeur Délégué",
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": "05 36 68 36 36",
+          "FAX_SIEGE": "05 36 68 44 61",
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 11,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-3.93860716012631, 35.2484218296801]
+        },
+        "properties": {
+          "OBJECTID": 11,
+          "NOM_AERO": "AEROPORT AL HOCEIMA -CHERIF AL IDRISSI-",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": 2,
+          "TRAFIC_VOYAGEURS_1": 1365,
+          "TRAFIC_FRET_TONNES_1": 0.11,
+          "ANNEE_1": 2010,
+          "CAPACITE_VOYAGEURS": 400000,
+          "ADRESSE_AEROPORT": "à 17 km de la ville",
+          "LOCALITE_ID": null,
+          "Adresse": null,
+          "DIRIGEANT": "Mr. Abdellatif BENKADOUR",
+          "FONCTION_ID": "Commandant",
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": "05 39 98 25 60",
+          "FAX_SIEGE": null,
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 12,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-5.31990976584475, 35.5938837791932]
+        },
+        "properties": {
+          "OBJECTID": 12,
+          "NOM_AERO": "AEROPORT TETOUAN -SANIA R'MEL-",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": 1,
+          "TRAFIC_VOYAGEURS_1": 161,
+          "TRAFIC_FRET_TONNES_1": null,
+          "ANNEE_1": 2010,
+          "CAPACITE_VOYAGEURS": 300000,
+          "ADRESSE_AEROPORT": null,
+          "LOCALITE_ID": null,
+          "Adresse": "BP 114 Tetouan",
+          "DIRIGEANT": "M. Azeddine BENCHANE",
+          "FONCTION_ID": "Directeur Délégué",
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": "05 39 97 18 76",
+          "FAX_SIEGE": "05 39 97 10 98",
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 13,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-5.91486260678968, 35.7309984967329]
+        },
+        "properties": {
+          "OBJECTID": 13,
+          "NOM_AERO": "AEROPORT TANGER -IBN BATOUTA-",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": 2,
+          "TRAFIC_VOYAGEURS_1": 60902,
+          "TRAFIC_FRET_TONNES_1": 29.43,
+          "ANNEE_1": 2010,
+          "CAPACITE_VOYAGEURS": 450000,
+          "ADRESSE_AEROPORT": "à 11 km de Tanger",
+          "LOCALITE_ID": null,
+          "Adresse": "Aéroport de Tanger/Boukhalef",
+          "DIRIGEANT": "Mr. Abdelmajid BAKIZ",
+          "FONCTION_ID": "Directeur Délégué",
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": "05 39 39 36 49/50",
+          "FAX_SIEGE": "05 39 39 36 76",
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 14,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-8.02519347720535, 31.6034504648467]
+        },
+        "properties": {
+          "OBJECTID": 14,
+          "NOM_AERO": "AEROPORT MARRAKECH- MENARA",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": null,
+          "TRAFIC_VOYAGEURS_1": null,
+          "TRAFIC_FRET_TONNES_1": null,
+          "ANNEE_1": null,
+          "CAPACITE_VOYAGEURS": null,
+          "ADRESSE_AEROPORT": null,
+          "LOCALITE_ID": null,
+          "Adresse": null,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": null,
+          "FAX_SIEGE": null,
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 15,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-3.02895804662707, 34.9932597342803]
+        },
+        "properties": {
+          "OBJECTID": 15,
+          "NOM_AERO": "Aéroport Nador - Al Aaroui",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": null,
+          "TRAFIC_VOYAGEURS_1": null,
+          "TRAFIC_FRET_TONNES_1": null,
+          "ANNEE_1": null,
+          "CAPACITE_VOYAGEURS": null,
+          "ADRESSE_AEROPORT": null,
+          "LOCALITE_ID": null,
+          "Adresse": null,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": null,
+          "FAX_SIEGE": null,
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 16,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-11.1587309619713, 28.4456697056614]
+        },
+        "properties": {
+          "OBJECTID": 16,
+          "NOM_AERO": "Aéroport de Tan-Tan - LA PLAGE BLANCHE",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": null,
+          "TRAFIC_VOYAGEURS_1": null,
+          "TRAFIC_FRET_TONNES_1": null,
+          "ANNEE_1": null,
+          "CAPACITE_VOYAGEURS": null,
+          "ADRESSE_AEROPORT": null,
+          "LOCALITE_ID": null,
+          "Adresse": null,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": null,
+          "FAX_SIEGE": null,
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 17,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-7.22940317790986, 33.6523752785366]
+        },
+        "properties": {
+          "OBJECTID": 17,
+          "NOM_AERO": "Aéroport de Benslimane",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": null,
+          "TRAFIC_VOYAGEURS_1": null,
+          "TRAFIC_FRET_TONNES_1": null,
+          "ANNEE_1": null,
+          "CAPACITE_VOYAGEURS": null,
+          "ADRESSE_AEROPORT": null,
+          "LOCALITE_ID": null,
+          "Adresse": null,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": null,
+          "FAX_SIEGE": null,
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 18,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.32818934501641, 32.3963806077072]
+        },
+        "properties": {
+          "OBJECTID": 18,
+          "NOM_AERO": "Aéroport de Béni Mellal",
+          "NOMBRE_TERMINAL": null,
+          "TRAFIC_VOYAGEURS": null,
+          "TRAFIC_FRET_TONNES": null,
+          "ANNEE": null,
+          "NOMBRE_TERMINAL_1": null,
+          "TRAFIC_VOYAGEURS_1": null,
+          "TRAFIC_FRET_TONNES_1": null,
+          "ANNEE_1": null,
+          "CAPACITE_VOYAGEURS": null,
+          "ADRESSE_AEROPORT": null,
+          "LOCALITE_ID": null,
+          "Adresse": null,
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": null,
+          "FAX_SIEGE": null,
+          "F16": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 19,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-15.9290359904257, 23.714625532571]
+        },
+        "properties": {
+          "OBJECTID": 19,
+          "NOM_AERO": "DAKHLA",
+          "NOMBRE_TERMINAL": "01",
+          "TRAFIC_VOYAGEURS": "3300",
+          "TRAFIC_FRET_TONNES": "250000",
+          "ANNEE": "2010",
+          "NOMBRE_TERMINAL_1": 1,
+          "TRAFIC_VOYAGEURS_1": 3300,
+          "TRAFIC_FRET_TONNES_1": 250000,
+          "ANNEE_1": 20100,
+          "CAPACITE_VOYAGEURS": 33000,
+          "ADRESSE_AEROPORT": "Bd EL WALAE",
+          "LOCALITE_ID": "Dakhla",
+          "Adresse": "Bd EL WALAE",
+          "DIRIGEANT": "El Mokhtar",
+          "FONCTION_ID": "Directeur",
+          "TELEPHONE_AEROPORT": "052889000",
+          "FAX_AEROPORT": "0528890007",
+          "TELEPHONE_SIEGE": "0528890007",
+          "FAX_SIEGE": "0528890007",
+          "F16": "0528890007"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": 20,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-9.22944649953639, 32.3003022705675]
+        },
+        "properties": {
+          "OBJECTID": 20,
+          "NOM_AERO": "salka hassna",
+          "NOMBRE_TERMINAL": "50",
+          "TRAFIC_VOYAGEURS": "2500",
+          "TRAFIC_FRET_TONNES": "20000",
+          "ANNEE": "2023",
+          "NOMBRE_TERMINAL_1": null,
+          "TRAFIC_VOYAGEURS_1": null,
+          "TRAFIC_FRET_TONNES_1": null,
+          "ANNEE_1": null,
+          "CAPACITE_VOYAGEURS": 200,
+          "ADRESSE_AEROPORT": "safi",
+          "LOCALITE_ID": null,
+          "Adresse": "av omar ib khattab",
+          "DIRIGEANT": null,
+          "FONCTION_ID": null,
+          "TELEPHONE_AEROPORT": null,
+          "FAX_AEROPORT": null,
+          "TELEPHONE_SIEGE": null,
+          "FAX_SIEGE": null,
+          "F16": null
+        }
+      }
+    ]
+  }

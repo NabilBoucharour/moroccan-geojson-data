@@ -1,0 +1,2901 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9328664,
+                    33.9245085
+                ]
+            },
+            "properties": {
+                "osm_id": "2361972018",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Expert Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6398065,
+                    33.5881429
+                ]
+            },
+            "properties": {
+                "osm_id": "2903103369",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Maiuvue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6567208,
+                    33.5731871
+                ]
+            },
+            "properties": {
+                "osm_id": "2903614168",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Axe Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6512491,
+                    33.5707579
+                ]
+            },
+            "properties": {
+                "osm_id": "2903614195",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Gola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8274403,
+                    34.0202394
+                ]
+            },
+            "properties": {
+                "osm_id": "3111468653",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Côté Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6242125,
+                    33.5933612
+                ]
+            },
+            "properties": {
+                "osm_id": "3199803561",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique Rousseau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6184618,
+                    33.5941896
+                ]
+            },
+            "properties": {
+                "osm_id": "3505973417",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "opticien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8442292,
+                    34.0202396
+                ]
+            },
+            "properties": {
+                "osm_id": "3701004580",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8470246,
+                    34.000163
+                ]
+            },
+            "properties": {
+                "osm_id": "3702119347",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2616477,
+                    35.1677998
+                ]
+            },
+            "properties": {
+                "osm_id": "3773518941",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique Issa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2686012,
+                    35.1682933
+                ]
+            },
+            "properties": {
+                "osm_id": "3778338706",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Abtal Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2641254,
+                    35.1681825
+                ]
+            },
+            "properties": {
+                "osm_id": "3779743178",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8305889,
+                    34.0206268
+                ]
+            },
+            "properties": {
+                "osm_id": "3787408570",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Vunette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2700742,
+                    35.1694533
+                ]
+            },
+            "properties": {
+                "osm_id": "3807018534",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Lotfi Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8497965,
+                    34.0173404
+                ]
+            },
+            "properties": {
+                "osm_id": "3901583623",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Boute Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.0341651,
+                    20.9451181
+                ]
+            },
+            "properties": {
+                "osm_id": "4183737350",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "مركز البصريات الريان"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6173095,
+                    33.5948863
+                ]
+            },
+            "properties": {
+                "osm_id": "4193873618",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Option d'optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3621232,
+                    32.3320733
+                ]
+            },
+            "properties": {
+                "osm_id": "4228604164",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "OTadla optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3608411,
+                    32.3330433
+                ]
+            },
+            "properties": {
+                "osm_id": "4228604165",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique Day"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.355373,
+                    32.3320942
+                ]
+            },
+            "properties": {
+                "osm_id": "4228739025",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "basariyat fahd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3565474,
+                    32.333475
+                ]
+            },
+            "properties": {
+                "osm_id": "4228803930",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Perle Vision"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3641126,
+                    32.3320245
+                ]
+            },
+            "properties": {
+                "osm_id": "4230585126",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Top Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8345937,
+                    34.0177086
+                ]
+            },
+            "properties": {
+                "osm_id": "4230710907",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Rabat Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3670117,
+                    32.3358495
+                ]
+            },
+            "properties": {
+                "osm_id": "4232075266",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Basaryate ozode"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3641981,
+                    32.3354552
+                ]
+            },
+            "properties": {
+                "osm_id": "4232079449",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Anwar Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5706606,
+                    34.2632281
+                ]
+            },
+            "properties": {
+                "osm_id": "4291851198",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "World Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.830991,
+                    34.018663
+                ]
+            },
+            "properties": {
+                "osm_id": "4510819792",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6182277,
+                    32.9990504
+                ]
+            },
+            "properties": {
+                "osm_id": "4538611862",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8482435,
+                    34.0202638
+                ]
+            },
+            "properties": {
+                "osm_id": "4560743816",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optic El Hamd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8468412,
+                    34.0219942
+                ]
+            },
+            "properties": {
+                "osm_id": "4560744004",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Eye Boutique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8497286,
+                    34.0198113
+                ]
+            },
+            "properties": {
+                "osm_id": "4560794689",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Espace Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5062954,
+                    32.258204
+                ]
+            },
+            "properties": {
+                "osm_id": "4639636501",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5364507,
+                    30.3705667
+                ]
+            },
+            "properties": {
+                "osm_id": "4678253253",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9973583,
+                    34.0451057
+                ]
+            },
+            "properties": {
+                "osm_id": "4711871590",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optic kattani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9968658,
+                    34.0455949
+                ]
+            },
+            "properties": {
+                "osm_id": "4711873392",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Chic optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0012777,
+                    34.0412439
+                ]
+            },
+            "properties": {
+                "osm_id": "4711934595",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9976743,
+                    34.043082
+                ]
+            },
+            "properties": {
+                "osm_id": "4720263189",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Nile Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0084097,
+                    34.0318406
+                ]
+            },
+            "properties": {
+                "osm_id": "4723832292",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Crys"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0044813,
+                    34.035679
+                ]
+            },
+            "properties": {
+                "osm_id": "4732175623",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Doc khaoulla Hbid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0004084,
+                    34.0388756
+                ]
+            },
+            "properties": {
+                "osm_id": "4733699331",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Iris optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0007457,
+                    34.0383869
+                ]
+            },
+            "properties": {
+                "osm_id": "4734114522",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Avocat moukhliss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.999104,
+                    34.0390597
+                ]
+            },
+            "properties": {
+                "osm_id": "4737798225",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Doha optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9966706,
+                    34.0408971
+                ]
+            },
+            "properties": {
+                "osm_id": "4737844824",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Mirage Vision"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0010731,
+                    34.0420405
+                ]
+            },
+            "properties": {
+                "osm_id": "4744847226",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0081528,
+                    34.0369808
+                ]
+            },
+            "properties": {
+                "osm_id": "4746725921",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Planète Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9962051,
+                    34.0410399
+                ]
+            },
+            "properties": {
+                "osm_id": "4746752522",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Réparation lunette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9964353,
+                    34.0408579
+                ]
+            },
+            "properties": {
+                "osm_id": "4746777621",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Halage optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0001892,
+                    34.0390904
+                ]
+            },
+            "properties": {
+                "osm_id": "4746848728",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Vision unik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9994535,
+                    34.0386102
+                ]
+            },
+            "properties": {
+                "osm_id": "4746978422",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Rayan optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.002577,
+                    34.0448076
+                ]
+            },
+            "properties": {
+                "osm_id": "4748584023",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Dayae Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0017843,
+                    34.0422967
+                ]
+            },
+            "properties": {
+                "osm_id": "4748622928",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Kohen optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0064318,
+                    34.0316496
+                ]
+            },
+            "properties": {
+                "osm_id": "4750702124",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Secret d'optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.006276,
+                    34.0315235
+                ]
+            },
+            "properties": {
+                "osm_id": "4750800922",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique jnane palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9997992,
+                    34.0381589
+                ]
+            },
+            "properties": {
+                "osm_id": "4757711656",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Clin d'oeil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0030917,
+                    34.0441313
+                ]
+            },
+            "properties": {
+                "osm_id": "4757735765",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Fajr optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9982221,
+                    34.038023
+                ]
+            },
+            "properties": {
+                "osm_id": "4763865121",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Lyasri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.008547,
+                    34.0384063
+                ]
+            },
+            "properties": {
+                "osm_id": "4763912521",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Alain Afflelou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0038511,
+                    34.0423242
+                ]
+            },
+            "properties": {
+                "osm_id": "4772745323",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Centre Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9990807,
+                    34.0399744
+                ]
+            },
+            "properties": {
+                "osm_id": "4776554324",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Iris optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9988372,
+                    34.03945
+                ]
+            },
+            "properties": {
+                "osm_id": "4776637425",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Souda optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9985452,
+                    34.0407173
+                ]
+            },
+            "properties": {
+                "osm_id": "4786998026",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optic Mouslimoptic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.997814,
+                    34.0365492
+                ]
+            },
+            "properties": {
+                "osm_id": "4787953122",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique le soleil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9975704,
+                    34.0346875
+                ]
+            },
+            "properties": {
+                "osm_id": "4788016324",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique mansouri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0085005,
+                    34.0404223
+                ]
+            },
+            "properties": {
+                "osm_id": "4788240123",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Alami Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0025286,
+                    34.0427142
+                ]
+            },
+            "properties": {
+                "osm_id": "4788747923",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Lamtioui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0253235,
+                    34.0282925
+                ]
+            },
+            "properties": {
+                "osm_id": "4791397021",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Statio Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0056803,
+                    34.0248197
+                ]
+            },
+            "properties": {
+                "osm_id": "4794163623",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9981011,
+                    34.038414
+                ]
+            },
+            "properties": {
+                "osm_id": "4798434821",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Opticien desbois"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0002077,
+                    34.0374524
+                ]
+            },
+            "properties": {
+                "osm_id": "4800932622",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optic Neu Era"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0240597,
+                    34.0307971
+                ]
+            },
+            "properties": {
+                "osm_id": "4801204721",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Claire vision"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0351903,
+                    34.0493791
+                ]
+            },
+            "properties": {
+                "osm_id": "4802070123",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Sun planet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9991973,
+                    34.0373296
+                ]
+            },
+            "properties": {
+                "osm_id": "4805376221",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9976112,
+                    34.0376637
+                ]
+            },
+            "properties": {
+                "osm_id": "4813188225",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Prince optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.997334,
+                    34.0344852
+                ]
+            },
+            "properties": {
+                "osm_id": "4815413522",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Souda optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9973413,
+                    34.0345146
+                ]
+            },
+            "properties": {
+                "osm_id": "4815421221",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Mod optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0057573,
+                    34.0404575
+                ]
+            },
+            "properties": {
+                "osm_id": "4818943421",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Sekkaki Optic Chahrazad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9969684,
+                    34.0365091
+                ]
+            },
+            "properties": {
+                "osm_id": "4820089822",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "El Hanafi Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0010557,
+                    34.0420405
+                ]
+            },
+            "properties": {
+                "osm_id": "4820487221",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Opticien yacout"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0119529,
+                    34.043086
+                ]
+            },
+            "properties": {
+                "osm_id": "4826191122",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optic Imam Ali Berrada Lamyae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9993138,
+                    34.0369641
+                ]
+            },
+            "properties": {
+                "osm_id": "4830743921",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Top 0ptic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0048146,
+                    34.0386761
+                ]
+            },
+            "properties": {
+                "osm_id": "4832543832",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Jawhara Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0241256,
+                    34.0274351
+                ]
+            },
+            "properties": {
+                "osm_id": "4841412724",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9972029,
+                    34.0371853
+                ]
+            },
+            "properties": {
+                "osm_id": "4843419021",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Centre Acoustique et optique FES"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9969132,
+                    34.0344535
+                ]
+            },
+            "properties": {
+                "osm_id": "4847249824",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Hajar optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0105584,
+                    34.041857
+                ]
+            },
+            "properties": {
+                "osm_id": "4852802826",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "L' Habitat Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9997073,
+                    34.0370065
+                ]
+            },
+            "properties": {
+                "osm_id": "4859403923",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Mounia optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.99899,
+                    34.035346
+                ]
+            },
+            "properties": {
+                "osm_id": "4859545633",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique Abid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0053806,
+                    34.0247441
+                ]
+            },
+            "properties": {
+                "osm_id": "4861633323",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Fadili optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0056796,
+                    34.0242412
+                ]
+            },
+            "properties": {
+                "osm_id": "4869558922",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique BenJeloun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0069089,
+                    34.0221297
+                ]
+            },
+            "properties": {
+                "osm_id": "4871882122",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique Belcadi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0070233,
+                    34.0219237
+                ]
+            },
+            "properties": {
+                "osm_id": "4871937721",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Opticien Luxe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0067484,
+                    34.0198393
+                ]
+            },
+            "properties": {
+                "osm_id": "4873949225",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique Fatima Zahra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0065885,
+                    34.0203369
+                ]
+            },
+            "properties": {
+                "osm_id": "4899669525",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Saidi optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0059823,
+                    34.0243772
+                ]
+            },
+            "properties": {
+                "osm_id": "4952368527",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "V.des Lunettes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0125239,
+                    34.0221746
+                ]
+            },
+            "properties": {
+                "osm_id": "4971325329",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Hassani Fatima Zahra Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5908831,
+                    34.2617998
+                ]
+            },
+            "properties": {
+                "osm_id": "4978038725",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9979191,
+                    34.0236133
+                ]
+            },
+            "properties": {
+                "osm_id": "5022131624",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Beauty Eyes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0185024,
+                    34.0198864
+                ]
+            },
+            "properties": {
+                "osm_id": "5043818729",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Sun Optic Benzakour Siham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0091821,
+                    34.0224745
+                ]
+            },
+            "properties": {
+                "osm_id": "5083472223",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Opticien El Kods"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9982226,
+                    34.0307842
+                ]
+            },
+            "properties": {
+                "osm_id": "5130443131",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Excellence Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.997728,
+                    34.0246488
+                ]
+            },
+            "properties": {
+                "osm_id": "5132881424",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Retinaris Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9950009,
+                    34.0265592
+                ]
+            },
+            "properties": {
+                "osm_id": "5147264927",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Société Fashion -- Optic Trachen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0037773,
+                    34.026247
+                ]
+            },
+            "properties": {
+                "osm_id": "5149387221",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Amethyst Vision"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0104572,
+                    34.0009879
+                ]
+            },
+            "properties": {
+                "osm_id": "5174359221",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Kindyeye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.997485,
+                    34.0445518
+                ]
+            },
+            "properties": {
+                "osm_id": "5174376722",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Diamo optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0114027,
+                    33.9983917
+                ]
+            },
+            "properties": {
+                "osm_id": "5183348926",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Ghita optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0073355,
+                    34.0029049
+                ]
+            },
+            "properties": {
+                "osm_id": "5190463421",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Lunette Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8286905,
+                    34.0170882
+                ]
+            },
+            "properties": {
+                "osm_id": "5195003822",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "optique la capitale بصريات العاصمة"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9238488,
+                    35.1775174
+                ]
+            },
+            "properties": {
+                "osm_id": "5198021222",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique El Baz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9795055,
+                    34.0173818
+                ]
+            },
+            "properties": {
+                "osm_id": "5202121621",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Vendeur des lunettes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3455879,
+                    34.2255836
+                ]
+            },
+            "properties": {
+                "osm_id": "5208312288",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Effet optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3451533,
+                    34.2271876
+                ]
+            },
+            "properties": {
+                "osm_id": "5208839775",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Ilham Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9813812,
+                    34.0179551
+                ]
+            },
+            "properties": {
+                "osm_id": "5216084028",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Narjis optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9919254,
+                    33.0483216
+                ]
+            },
+            "properties": {
+                "osm_id": "5216299518",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Al Mawra Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9870285,
+                    34.0122501
+                ]
+            },
+            "properties": {
+                "osm_id": "5231444727",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Aiouch Sanae Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9862532,
+                    34.0185692
+                ]
+            },
+            "properties": {
+                "osm_id": "5239189540",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Mamounia optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9877508,
+                    34.018416
+                ]
+            },
+            "properties": {
+                "osm_id": "5239191537",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Opticien Belle vision"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2033718,
+                    30.576723
+                ]
+            },
+            "properties": {
+                "osm_id": "5245874232",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Taznakhte Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9757455,
+                    34.0129885
+                ]
+            },
+            "properties": {
+                "osm_id": "5250159921",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Safae Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9704395,
+                    34.0130748
+                ]
+            },
+            "properties": {
+                "osm_id": "5251966325",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Amine Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8795824,
+                    30.4708648
+                ]
+            },
+            "properties": {
+                "osm_id": "5254332141",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique Noor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9667593,
+                    34.0104513
+                ]
+            },
+            "properties": {
+                "osm_id": "5255643621",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Opticien Salih"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9749134,
+                    34.0165181
+                ]
+            },
+            "properties": {
+                "osm_id": "5293614728",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique Al Majd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9743792,
+                    34.0169394
+                ]
+            },
+            "properties": {
+                "osm_id": "5293630422",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique Arrazi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9314463,
+                    23.6986641
+                ]
+            },
+            "properties": {
+                "osm_id": "5305115631",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optic Adil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.931075,
+                    23.6978857
+                ]
+            },
+            "properties": {
+                "osm_id": "5306696012",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Iris Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.936273,
+                    23.6950347
+                ]
+            },
+            "properties": {
+                "osm_id": "5309099827",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Dakhla Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.98464,
+                    34.006061
+                ]
+            },
+            "properties": {
+                "osm_id": "5309133128",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Société Abderrahman Optic SARL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0530958,
+                    34.0181943
+                ]
+            },
+            "properties": {
+                "osm_id": "5358812325",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Centre optical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0552673,
+                    34.0245817
+                ]
+            },
+            "properties": {
+                "osm_id": "5358820422",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Opticien Monde Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0503148,
+                    34.014519
+                ]
+            },
+            "properties": {
+                "osm_id": "5377585921",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Dounia optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0470765,
+                    34.0330309
+                ]
+            },
+            "properties": {
+                "osm_id": "5389606221",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Claire Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0351427,
+                    34.0252282
+                ]
+            },
+            "properties": {
+                "osm_id": "5409608322",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Opticien Jawahir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0197939,
+                    34.0172547
+                ]
+            },
+            "properties": {
+                "osm_id": "5428830222",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Opticien Fares"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0515715,
+                    34.0151805
+                ]
+            },
+            "properties": {
+                "osm_id": "5429013821",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Opticien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.012867,
+                    34.0150304
+                ]
+            },
+            "properties": {
+                "osm_id": "5446674521",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Société IMEDICA Optic Sup Vision"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0275976,
+                    34.017179
+                ]
+            },
+            "properties": {
+                "osm_id": "5480309721",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Opticien Mohammed Amine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0594511,
+                    33.9936767
+                ]
+            },
+            "properties": {
+                "osm_id": "5515308531",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Société Raha Optic SARL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5918724,
+                    30.4259679
+                ]
+            },
+            "properties": {
+                "osm_id": "5525171015",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Lynx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.976536,
+                    34.0646729
+                ]
+            },
+            "properties": {
+                "osm_id": "5553013621",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Mottakei optic المتقي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.99887,
+                    34.0389823
+                ]
+            },
+            "properties": {
+                "osm_id": "5575778857",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Doha Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6155907,
+                    33.5751331
+                ]
+            },
+            "properties": {
+                "osm_id": "5579516426",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Maison d'Opticia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8216876,
+                    35.757958
+                ]
+            },
+            "properties": {
+                "osm_id": "5579609007",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6138312,
+                    33.5717765
+                ]
+            },
+            "properties": {
+                "osm_id": "5579637829",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Lens Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5999648,
+                    33.5398745
+                ]
+            },
+            "properties": {
+                "osm_id": "5582923418",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Notroptic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9045009,
+                    35.7061455
+                ]
+            },
+            "properties": {
+                "osm_id": "5610334729",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Yanit Optical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6186506,
+                    33.5889742
+                ]
+            },
+            "properties": {
+                "osm_id": "5633168166",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Mail Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6264831,
+                    33.5672085
+                ]
+            },
+            "properties": {
+                "osm_id": "5636182869",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Guessous Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6258649,
+                    33.5773209
+                ]
+            },
+            "properties": {
+                "osm_id": "5636182900",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Gam'Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6254009,
+                    33.5567808
+                ]
+            },
+            "properties": {
+                "osm_id": "5636182962",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "New Vision"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6182354,
+                    33.5873863
+                ]
+            },
+            "properties": {
+                "osm_id": "5636207691",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique Optemetrie Miri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6195885,
+                    33.5874757
+                ]
+            },
+            "properties": {
+                "osm_id": "5636207693",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Alpha Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.621503,
+                    33.5866501
+                ]
+            },
+            "properties": {
+                "osm_id": "5636207745",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Prim Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6196972,
+                    33.5835721
+                ]
+            },
+            "properties": {
+                "osm_id": "5636207806",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "La Lanette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6215559,
+                    33.5847173
+                ]
+            },
+            "properties": {
+                "osm_id": "5636207823",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Opti Plus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6261096,
+                    33.5817901
+                ]
+            },
+            "properties": {
+                "osm_id": "5638347871",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Phénix Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9876308,
+                    31.6251719
+                ]
+            },
+            "properties": {
+                "osm_id": "5640101423",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6373823,
+                    33.5743912
+                ]
+            },
+            "properties": {
+                "osm_id": "5649874867",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optical Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6149845,
+                    33.5862289
+                ]
+            },
+            "properties": {
+                "osm_id": "5657167265",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Soft Optical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6159447,
+                    33.5846491
+                ]
+            },
+            "properties": {
+                "osm_id": "5657167271",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optic Lux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6187946,
+                    33.5857194
+                ]
+            },
+            "properties": {
+                "osm_id": "5657167307",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique Hoidou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6079531,
+                    33.5894095
+                ]
+            },
+            "properties": {
+                "osm_id": "5657171563",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Nabiha Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.680649,
+                    33.5581186
+                ]
+            },
+            "properties": {
+                "osm_id": "5664725431",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Tahiri Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6827908,
+                    33.556887
+                ]
+            },
+            "properties": {
+                "osm_id": "5664725436",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Ophtalmologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6834895,
+                    33.5560689
+                ]
+            },
+            "properties": {
+                "osm_id": "5664725439",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6828296,
+                    33.5570697
+                ]
+            },
+            "properties": {
+                "osm_id": "5664725448",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Ophtalmologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6770803,
+                    33.5421721
+                ]
+            },
+            "properties": {
+                "osm_id": "5685795288",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optic Free Vision"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8465026,
+                    34.0231246
+                ]
+            },
+            "properties": {
+                "osm_id": "5714482063",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Look Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8464136,
+                    34.0230974
+                ]
+            },
+            "properties": {
+                "osm_id": "5758378652",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8320222,
+                    34.0178604
+                ]
+            },
+            "properties": {
+                "osm_id": "5768820353",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Grande Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8505657,
+                    34.0168422
+                ]
+            },
+            "properties": {
+                "osm_id": "5771379790",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Dinia Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8504906,
+                    34.0152959
+                ]
+            },
+            "properties": {
+                "osm_id": "5771379795",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Ere Optique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8507011,
+                    34.0145289
+                ]
+            },
+            "properties": {
+                "osm_id": "5771379806",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Med Optic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8253315,
+                    34.020581
+                ]
+            },
+            "properties": {
+                "osm_id": "5779779494",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optic Benyass"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.84958,
+                    33.9955311
+                ]
+            },
+            "properties": {
+                "osm_id": "5782555416",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Cabinet d'Ophtalmologie Atlas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5025389,
+                    30.3460841
+                ]
+            },
+            "properties": {
+                "osm_id": "5821758754",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "WADI OPTIQUE بصريات الوادي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9166812,
+                    34.6580624
+                ]
+            },
+            "properties": {
+                "osm_id": "6134800098",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optic Taïba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2750896,
+                    35.6165251
+                ]
+            },
+            "properties": {
+                "osm_id": "6251847699",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Opticien Rania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7264502,
+                    33.536808
+                ]
+            },
+            "properties": {
+                "osm_id": "6411421121",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Opticien Errahma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.654435,
+                    33.5140932
+                ]
+            },
+            "properties": {
+                "osm_id": "6593172836",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "Optique Al Hamd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.539567,
+                    33.5698486
+                ]
+            },
+            "properties": {
+                "osm_id": "6670464386",
+                "code": 2519,
+                "fclass": "optician",
+                "NOM": "مسجد الامام مالك"
+            }
+        }
+    ]
+}

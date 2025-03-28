@@ -1,0 +1,2789 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9192672,
+                    30.9226497
+                ]
+            },
+            "properties": {
+                "osm_id": "2329883190",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8118993,
+                    35.7751939
+                ]
+            },
+            "properties": {
+                "osm_id": "2338840835",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Full Esthetic Dental Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2249419,
+                    32.2835155
+                ]
+            },
+            "properties": {
+                "osm_id": "2717322548",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6330638,
+                    33.6014374
+                ]
+            },
+            "properties": {
+                "osm_id": "2777458153",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "M. Noubriq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6387453,
+                    33.5916689
+                ]
+            },
+            "properties": {
+                "osm_id": "2879158760",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Médico dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5345047,
+                    34.9384904
+                ]
+            },
+            "properties": {
+                "osm_id": "3025061227",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2639555,
+                    35.16669
+                ]
+            },
+            "properties": {
+                "osm_id": "3191421803",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr Khadijia Ahrimch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6254107,
+                    33.5924713
+                ]
+            },
+            "properties": {
+                "osm_id": "3229636314",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Centre Dentaire Rachidi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8886561,
+                    34.6653943
+                ]
+            },
+            "properties": {
+                "osm_id": "3272813280",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Hajar Hamzaoui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.919703,
+                    34.6795825
+                ]
+            },
+            "properties": {
+                "osm_id": "3639340299",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Centre Dentaire Oujda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9156157,
+                    34.6502829
+                ]
+            },
+            "properties": {
+                "osm_id": "3648720959",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Docteur Chirurgien Dentiste Salima Rhafes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2651421,
+                    35.166607
+                ]
+            },
+            "properties": {
+                "osm_id": "3770569365",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr El Alami Mustapha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2686796,
+                    35.1677129
+                ]
+            },
+            "properties": {
+                "osm_id": "3773525907",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2690686,
+                    35.1692815
+                ]
+            },
+            "properties": {
+                "osm_id": "3775325876",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2689281,
+                    35.1704906
+                ]
+            },
+            "properties": {
+                "osm_id": "3795380377",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr Bnaiou Ijlal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2640792,
+                    35.170006
+                ]
+            },
+            "properties": {
+                "osm_id": "3795380393",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3834101,
+                    33.6873088
+                ]
+            },
+            "properties": {
+                "osm_id": "3899360875",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste El Hassouni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8495716,
+                    34.0183768
+                ]
+            },
+            "properties": {
+                "osm_id": "3937814595",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0013579,
+                    34.0428131
+                ]
+            },
+            "properties": {
+                "osm_id": "3971916590",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9210625,
+                    30.5322309
+                ]
+            },
+            "properties": {
+                "osm_id": "4051504013",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Prothésiste Dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9251132,
+                    30.5330129
+                ]
+            },
+            "properties": {
+                "osm_id": "4051504172",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9244996,
+                    30.5330857
+                ]
+            },
+            "properties": {
+                "osm_id": "4051504177",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6177806,
+                    33.5829186
+                ]
+            },
+            "properties": {
+                "osm_id": "4190909079",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3598165,
+                    32.3335283
+                ]
+            },
+            "properties": {
+                "osm_id": "4228604150",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr.Tarik Sabir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3610235,
+                    32.3329708
+                ]
+            },
+            "properties": {
+                "osm_id": "4228604153",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr.zine abdelhakim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.363019,
+                    32.3323962
+                ]
+            },
+            "properties": {
+                "osm_id": "4228671143",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3566332,
+                    32.3335838
+                ]
+            },
+            "properties": {
+                "osm_id": "4228803931",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr.Hayat Moukrim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3653229,
+                    32.3355064
+                ]
+            },
+            "properties": {
+                "osm_id": "4228811235",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Safrani Mustapha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3646027,
+                    32.3346254
+                ]
+            },
+            "properties": {
+                "osm_id": "4228858574",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste Lamia Aachibate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.364199,
+                    32.331988
+                ]
+            },
+            "properties": {
+                "osm_id": "4230327478",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3601995,
+                    32.3337167
+                ]
+            },
+            "properties": {
+                "osm_id": "4230338173",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste MOUFJI Mouhamed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3615049,
+                    32.3332515
+                ]
+            },
+            "properties": {
+                "osm_id": "4230367389",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste HAMRI Karim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3624184,
+                    32.331637
+                ]
+            },
+            "properties": {
+                "osm_id": "4230595021",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3632505,
+                    32.3341938
+                ]
+            },
+            "properties": {
+                "osm_id": "4232074226",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste KHATOUF Aziz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3607681,
+                    32.3348136
+                ]
+            },
+            "properties": {
+                "osm_id": "4232144215",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste CHAHID Fatima Ezzahra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3593264,
+                    32.3345496
+                ]
+            },
+            "properties": {
+                "osm_id": "4232148156",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Laboratoire de Protese Dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3607775,
+                    32.3338992
+                ]
+            },
+            "properties": {
+                "osm_id": "4232152405",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste Messa Dent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5778237,
+                    31.9555929
+                ]
+            },
+            "properties": {
+                "osm_id": "4232915408",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "docteur Kabir Fatima Zahra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3616485,
+                    32.3332068
+                ]
+            },
+            "properties": {
+                "osm_id": "4233975640",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste KABBAJ Amina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3617579,
+                    32.3331643
+                ]
+            },
+            "properties": {
+                "osm_id": "4233978880",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet Medical Jarti Fouade GHALI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3621322,
+                    32.3330385
+                ]
+            },
+            "properties": {
+                "osm_id": "4234021397",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste BENLAMLIH Souad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3626804,
+                    32.332845
+                ]
+            },
+            "properties": {
+                "osm_id": "4234077196",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste CHAHID Mouhamed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3632335,
+                    32.3333257
+                ]
+            },
+            "properties": {
+                "osm_id": "4234096689",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste OUIZZOU Mouhamed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3634562,
+                    32.3336155
+                ]
+            },
+            "properties": {
+                "osm_id": "4234127606",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste Nadia BAALA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3638379,
+                    32.3341179
+                ]
+            },
+            "properties": {
+                "osm_id": "4234735220",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste Soumia ZAHIR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3664454,
+                    32.3357426
+                ]
+            },
+            "properties": {
+                "osm_id": "4242829299",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste Ilham Argabi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8303774,
+                    35.7705392
+                ]
+            },
+            "properties": {
+                "osm_id": "4362212489",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr Safae El-hajjaji"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8300569,
+                    35.7710206
+                ]
+            },
+            "properties": {
+                "osm_id": "4362319489",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet dentaire Dr Safae El-hajjaji"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6818258,
+                    33.5470541
+                ]
+            },
+            "properties": {
+                "osm_id": "4368517200",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "centre dentiste spécialisé مركز طب الأسنان"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8516965,
+                    33.9952362
+                ]
+            },
+            "properties": {
+                "osm_id": "4460447917",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Odentologie Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6386713,
+                    33.5978607
+                ]
+            },
+            "properties": {
+                "osm_id": "4469809895",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet dentaire Kadmiri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5793986,
+                    34.2613353
+                ]
+            },
+            "properties": {
+                "osm_id": "4487729907",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Medecin Dentiste Dr. Yousra BOUHOUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8086548,
+                    35.7783815
+                ]
+            },
+            "properties": {
+                "osm_id": "4530726182",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8498172,
+                    34.019694
+                ]
+            },
+            "properties": {
+                "osm_id": "4560743894",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet D'Horthodontie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8464406,
+                    34.022148
+                ]
+            },
+            "properties": {
+                "osm_id": "4560786293",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet Dentaire عيادة طب الأسنان"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.6721862,
+                    30.4968565
+                ]
+            },
+            "properties": {
+                "osm_id": "4561668189",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet Dentaire Aourir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5038594,
+                    32.257778
+                ]
+            },
+            "properties": {
+                "osm_id": "4639676493",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9994389,
+                    34.0442509
+                ]
+            },
+            "properties": {
+                "osm_id": "4723778608",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet dentaire ayda belkadi abassi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0000518,
+                    34.0431203
+                ]
+            },
+            "properties": {
+                "osm_id": "4732131022",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9975602,
+                    34.0405983
+                ]
+            },
+            "properties": {
+                "osm_id": "4733932224",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0007382,
+                    34.0421454
+                ]
+            },
+            "properties": {
+                "osm_id": "4737879421",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "cabinet dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9967259,
+                    34.0410836
+                ]
+            },
+            "properties": {
+                "osm_id": "4737899921",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9967923,
+                    34.0423259
+                ]
+            },
+            "properties": {
+                "osm_id": "4744784122",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995847,
+                    34.0386352
+                ]
+            },
+            "properties": {
+                "osm_id": "4744844922",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr Fatima El Jaabri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9963988,
+                    34.0405895
+                ]
+            },
+            "properties": {
+                "osm_id": "4746819921",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9998948,
+                    34.0388678
+                ]
+            },
+            "properties": {
+                "osm_id": "4746984421",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9963922,
+                    34.0402604
+                ]
+            },
+            "properties": {
+                "osm_id": "4748547421",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9981707,
+                    34.0412978
+                ]
+            },
+            "properties": {
+                "osm_id": "4748640724",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0036514,
+                    34.0418207
+                ]
+            },
+            "properties": {
+                "osm_id": "4750875624",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.004073,
+                    34.045898
+                ]
+            },
+            "properties": {
+                "osm_id": "4761917682",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Maroc Dentaire Benjelloun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9989866,
+                    34.0397997
+                ]
+            },
+            "properties": {
+                "osm_id": "4776607522",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Docteur dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9984253,
+                    34.0407591
+                ]
+            },
+            "properties": {
+                "osm_id": "4786102024",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.001982,
+                    34.0425123
+                ]
+            },
+            "properties": {
+                "osm_id": "4788863621",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chbihi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0022404,
+                    34.042618
+                ]
+            },
+            "properties": {
+                "osm_id": "4788910322",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Lahlou wisal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.998203,
+                    34.0391041
+                ]
+            },
+            "properties": {
+                "osm_id": "4790398322",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgie dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9978832,
+                    34.0381074
+                ]
+            },
+            "properties": {
+                "osm_id": "4793451222",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgie dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.005746,
+                    34.0247643
+                ]
+            },
+            "properties": {
+                "osm_id": "4794174722",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "عيادة طب و جراحة الأسنان"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9983723,
+                    34.0387028
+                ]
+            },
+            "properties": {
+                "osm_id": "4801091531",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9982651,
+                    34.0383361
+                ]
+            },
+            "properties": {
+                "osm_id": "4801321726",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9715423,
+                    34.0140915
+                ]
+            },
+            "properties": {
+                "osm_id": "4801892922",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet de chirurgie dentaire عيادة جراحة الأسنان"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.003916,
+                    34.0427672
+                ]
+            },
+            "properties": {
+                "osm_id": "4803022626",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet de Chirurgie Dentaire Benbrahim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9994015,
+                    34.037142
+                ]
+            },
+            "properties": {
+                "osm_id": "4803331423",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Soins dentaires"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9975952,
+                    34.036526
+                ]
+            },
+            "properties": {
+                "osm_id": "4803586121",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Docteur dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9975529,
+                    34.0363565
+                ]
+            },
+            "properties": {
+                "osm_id": "4805531621",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Docteur dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9988214,
+                    34.0374569
+                ]
+            },
+            "properties": {
+                "osm_id": "4805532321",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0240957,
+                    34.0323465
+                ]
+            },
+            "properties": {
+                "osm_id": "4808191229",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Hicham Ouanich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9965991,
+                    34.037829
+                ]
+            },
+            "properties": {
+                "osm_id": "4813355622",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9951887,
+                    34.0381394
+                ]
+            },
+            "properties": {
+                "osm_id": "4815763021",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0095022,
+                    34.0404136
+                ]
+            },
+            "properties": {
+                "osm_id": "4816962821",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "D'inauguration benjelloun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9973709,
+                    34.034336
+                ]
+            },
+            "properties": {
+                "osm_id": "4817962724",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.617079,
+                    33.0025716
+                ]
+            },
+            "properties": {
+                "osm_id": "4820119324",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr Daoui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0000156,
+                    34.0379005
+                ]
+            },
+            "properties": {
+                "osm_id": "4820227424",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet Chirugien Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9968569,
+                    34.0360706
+                ]
+            },
+            "properties": {
+                "osm_id": "4820521721",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Orthodontie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9967237,
+                    34.0357524
+                ]
+            },
+            "properties": {
+                "osm_id": "4830467723",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0241657,
+                    34.0289123
+                ]
+            },
+            "properties": {
+                "osm_id": "4841380321",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr Barja Jounaid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0096589,
+                    34.0418847
+                ]
+            },
+            "properties": {
+                "osm_id": "4844669972",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien dentiste Slaoui Karim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0003433,
+                    34.0362867
+                ]
+            },
+            "properties": {
+                "osm_id": "4859403926",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0000746,
+                    34.0365846
+                ]
+            },
+            "properties": {
+                "osm_id": "4859421522",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Docteur dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9983303,
+                    34.0352106
+                ]
+            },
+            "properties": {
+                "osm_id": "4859434922",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Docteur dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9934864,
+                    34.0291442
+                ]
+            },
+            "properties": {
+                "osm_id": "4885720921",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Docteur dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0107569,
+                    34.0217093
+                ]
+            },
+            "properties": {
+                "osm_id": "4971325333",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Sebti Laila Cabinet Dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6370592,
+                    33.5800593
+                ]
+            },
+            "properties": {
+                "osm_id": "5031507624",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "الدكتورة ياسمينة ابن المليح"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0039031,
+                    34.0189805
+                ]
+            },
+            "properties": {
+                "osm_id": "5050901305",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "chi dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.006416,
+                    34.0180834
+                ]
+            },
+            "properties": {
+                "osm_id": "5097390921",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0051382,
+                    34.0175972
+                ]
+            },
+            "properties": {
+                "osm_id": "5097543029",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0097233,
+                    34.0237104
+                ]
+            },
+            "properties": {
+                "osm_id": "5112719526",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9966497,
+                    34.0323593
+                ]
+            },
+            "properties": {
+                "osm_id": "5112806722",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Docteur dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9808022,
+                    34.0123364
+                ]
+            },
+            "properties": {
+                "osm_id": "5173841428",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Bensouda Hanae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9234996,
+                    35.1761357
+                ]
+            },
+            "properties": {
+                "osm_id": "5198021237",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr. Abarchan Fouad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3476035,
+                    34.2247421
+                ]
+            },
+            "properties": {
+                "osm_id": "5208312280",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr. Saouri Kaoutar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9897987,
+                    33.0471409
+                ]
+            },
+            "properties": {
+                "osm_id": "5214920455",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr. Sadki Mohamed Amine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9862106,
+                    34.0153935
+                ]
+            },
+            "properties": {
+                "osm_id": "5220362621",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Zahraoui Mohamed Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9286724,
+                    23.7022546
+                ]
+            },
+            "properties": {
+                "osm_id": "5303397558",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7578536,
+                    31.5009015
+                ]
+            },
+            "properties": {
+                "osm_id": "5304818704",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien Dentiste Dr. Harif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9471606,
+                    23.6904906
+                ]
+            },
+            "properties": {
+                "osm_id": "5315113760",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Centre Dentaire Dakhla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0529434,
+                    34.0192292
+                ]
+            },
+            "properties": {
+                "osm_id": "5356852721",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0523324,
+                    34.0181438
+                ]
+            },
+            "properties": {
+                "osm_id": "5358875221",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0021152,
+                    31.633623
+                ]
+            },
+            "properties": {
+                "osm_id": "5364263021",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0352258,
+                    34.0251828
+                ]
+            },
+            "properties": {
+                "osm_id": "5409587327",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.035087,
+                    34.0252654
+                ]
+            },
+            "properties": {
+                "osm_id": "5409608324",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0373006,
+                    34.023651
+                ]
+            },
+            "properties": {
+                "osm_id": "5409846821",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.128051,
+                    31.2399522
+                ]
+            },
+            "properties": {
+                "osm_id": "5411166321",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.027719,
+                    34.0238136
+                ]
+            },
+            "properties": {
+                "osm_id": "5427591221",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0282063,
+                    34.0106411
+                ]
+            },
+            "properties": {
+                "osm_id": "5472786221",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0299251,
+                    34.0169987
+                ]
+            },
+            "properties": {
+                "osm_id": "5490822421",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0333224,
+                    34.017458
+                ]
+            },
+            "properties": {
+                "osm_id": "5491246429",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.033118,
+                    34.0169011
+                ]
+            },
+            "properties": {
+                "osm_id": "5491323923",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0364358,
+                    34.0230484
+                ]
+            },
+            "properties": {
+                "osm_id": "5505799721",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0354173,
+                    34.0212619
+                ]
+            },
+            "properties": {
+                "osm_id": "5507936422",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1301179,
+                    33.624502
+                ]
+            },
+            "properties": {
+                "osm_id": "5518261129",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste Ghizlan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9712553,
+                    29.7189099
+                ]
+            },
+            "properties": {
+                "osm_id": "5559450531",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9992456,
+                    34.0382228
+                ]
+            },
+            "properties": {
+                "osm_id": "5564044413",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "DR Hicham MIKO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8323636,
+                    35.7603184
+                ]
+            },
+            "properties": {
+                "osm_id": "5565641795",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "El Alaoi dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8140305,
+                    35.7764076
+                ]
+            },
+            "properties": {
+                "osm_id": "5575040876",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Clinique Dentaire Abadi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8162911,
+                    35.7810094
+                ]
+            },
+            "properties": {
+                "osm_id": "5579562761",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Centre Dentaire Specialise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8207822,
+                    35.7705735
+                ]
+            },
+            "properties": {
+                "osm_id": "5581696411",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8215736,
+                    35.7712984
+                ]
+            },
+            "properties": {
+                "osm_id": "5581696416",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5828966,
+                    33.5425387
+                ]
+            },
+            "properties": {
+                "osm_id": "5588875982",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Jannati Dental Lab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5836751,
+                    33.5430121
+                ]
+            },
+            "properties": {
+                "osm_id": "5588875987",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5932452,
+                    33.56553
+                ]
+            },
+            "properties": {
+                "osm_id": "5590930821",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8208837,
+                    35.7816019
+                ]
+            },
+            "properties": {
+                "osm_id": "5593629063",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet Dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8214074,
+                    35.7827307
+                ]
+            },
+            "properties": {
+                "osm_id": "5605449465",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8376677,
+                    35.7478503
+                ]
+            },
+            "properties": {
+                "osm_id": "5605589414",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8074682,
+                    35.7694112
+                ]
+            },
+            "properties": {
+                "osm_id": "5605681336",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet Dentaire Pour Enfants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8518928,
+                    35.7525998
+                ]
+            },
+            "properties": {
+                "osm_id": "5608265485",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.905611,
+                    35.7066761
+                ]
+            },
+            "properties": {
+                "osm_id": "5610334792",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8035664,
+                    35.7626714
+                ]
+            },
+            "properties": {
+                "osm_id": "5620338090",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0007367,
+                    34.0356581
+                ]
+            },
+            "properties": {
+                "osm_id": "5621940387",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr Chaymae SEBTI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6190574,
+                    33.5883733
+                ]
+            },
+            "properties": {
+                "osm_id": "5636207736",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgie Dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6211315,
+                    33.5850139
+                ]
+            },
+            "properties": {
+                "osm_id": "5636207798",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6330653,
+                    33.5802427
+                ]
+            },
+            "properties": {
+                "osm_id": "5638347915",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6358159,
+                    33.5796326
+                ]
+            },
+            "properties": {
+                "osm_id": "5640584425",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Center Dentaire Orthodonté and Sons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6411293,
+                    33.5734951
+                ]
+            },
+            "properties": {
+                "osm_id": "5640584530",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Centre Dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5830401,
+                    33.5443087
+                ]
+            },
+            "properties": {
+                "osm_id": "5652589237",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Clinique Dentaire El Qods"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.604076,
+                    33.56865
+                ]
+            },
+            "properties": {
+                "osm_id": "5656943161",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet Dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6478161,
+                    33.57161
+                ]
+            },
+            "properties": {
+                "osm_id": "5657021376",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Centre Dentaire Oxford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6129688,
+                    33.5878678
+                ]
+            },
+            "properties": {
+                "osm_id": "5657167239",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Centre Dentaire Liberté"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.615073,
+                    33.5862412
+                ]
+            },
+            "properties": {
+                "osm_id": "5657167264",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgienne Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6827827,
+                    33.5569217
+                ]
+            },
+            "properties": {
+                "osm_id": "5664725435",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Centre Dentaire & d'Orthdontie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6864211,
+                    33.5549614
+                ]
+            },
+            "properties": {
+                "osm_id": "5664725443",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet De Chirurgie Dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6734272,
+                    33.5604286
+                ]
+            },
+            "properties": {
+                "osm_id": "5665038522",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6726802,
+                    33.5680846
+                ]
+            },
+            "properties": {
+                "osm_id": "5668012062",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6919505,
+                    33.5394989
+                ]
+            },
+            "properties": {
+                "osm_id": "5670403207",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Centre Dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6539557,
+                    33.5081328
+                ]
+            },
+            "properties": {
+                "osm_id": "5673410114",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Centre Dentaire Sidi Maârouf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6818842,
+                    33.5474417
+                ]
+            },
+            "properties": {
+                "osm_id": "5683229603",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet De Chirurgie Dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6889692,
+                    33.5417948
+                ]
+            },
+            "properties": {
+                "osm_id": "5683231036",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6823348,
+                    33.5459093
+                ]
+            },
+            "properties": {
+                "osm_id": "5683231054",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet Dentaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6436868,
+                    33.5303088
+                ]
+            },
+            "properties": {
+                "osm_id": "5688433272",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Clinique Dentaire Maroc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6422814,
+                    33.5388192
+                ]
+            },
+            "properties": {
+                "osm_id": "5688915495",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "La Colline"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4990996,
+                    33.2450507
+                ]
+            },
+            "properties": {
+                "osm_id": "5691213547",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Chirurgien Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6748531,
+                    33.5720787
+                ]
+            },
+            "properties": {
+                "osm_id": "5839039186",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Dr. Hicham Taoussi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5709832,
+                    34.2658377
+                ]
+            },
+            "properties": {
+                "osm_id": "6137388487",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "أناس علا"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5706797,
+                    34.2659911
+                ]
+            },
+            "properties": {
+                "osm_id": "6137525885",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "أناس علا"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3708529,
+                    30.2190634
+                ]
+            },
+            "properties": {
+                "osm_id": "6413535769",
+                "code": 2121,
+                "fclass": "dentist",
+                "NOM": "Cabinet Dentaire"
+            }
+        }
+    ]
+}

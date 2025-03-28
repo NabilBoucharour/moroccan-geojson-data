@@ -1,0 +1,7029 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9876704,
+                    31.6257137
+                ]
+            },
+            "properties": {
+                "osm_id": "660578101",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Croissant Rouge Marocain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7628157,
+                    31.5053204
+                ]
+            },
+            "properties": {
+                "osm_id": "1187553976",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2811268,
+                    34.8787729
+                ]
+            },
+            "properties": {
+                "osm_id": "1290967708",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre de Santé Communal Moulay Bousselham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0050938,
+                    34.0399752
+                ]
+            },
+            "properties": {
+                "osm_id": "2328748924",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "docteur annie burg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6381552,
+                    33.5905786
+                ]
+            },
+            "properties": {
+                "osm_id": "2879158752",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr.Lahlou Abdelali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9826457,
+                    31.6324575
+                ]
+            },
+            "properties": {
+                "osm_id": "3009789817",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre de Santé Urbain Mokef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6254094,
+                    33.5924926
+                ]
+            },
+            "properties": {
+                "osm_id": "3229636315",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Cardiologie : Dr Roughaleb Faycal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8446021,
+                    34.0203552
+                ]
+            },
+            "properties": {
+                "osm_id": "3700915096",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Dr Essadel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8521364,
+                    34.0022276
+                ]
+            },
+            "properties": {
+                "osm_id": "3705833330",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre de Cardiologie Shems"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2647816,
+                    35.1663187
+                ]
+            },
+            "properties": {
+                "osm_id": "3770569363",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Amina Bissoufa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2651097,
+                    35.1666113
+                ]
+            },
+            "properties": {
+                "osm_id": "3770569367",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Faouzi Cherradi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2689217,
+                    35.1678333
+                ]
+            },
+            "properties": {
+                "osm_id": "3773518937",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Khaddidi Abdelmjid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2689025,
+                    35.1704728
+                ]
+            },
+            "properties": {
+                "osm_id": "3795380378",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Karim Akaaboune"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9421844,
+                    33.9338428
+                ]
+            },
+            "properties": {
+                "osm_id": "3922131746",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre De Kinesitherapie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6364793,
+                    33.5975507
+                ]
+            },
+            "properties": {
+                "osm_id": "4011384596",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre de kinésitherapie et rééducation fonctionelle, Dr.Kourkmadi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9239618,
+                    30.5320894
+                ]
+            },
+            "properties": {
+                "osm_id": "4048509938",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6377982,
+                    33.5770691
+                ]
+            },
+            "properties": {
+                "osm_id": "4188292439",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire El Manzah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6167958,
+                    33.5828104
+                ]
+            },
+            "properties": {
+                "osm_id": "4194268649",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire Bouzoubaa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3587195,
+                    32.3332949
+                ]
+            },
+            "properties": {
+                "osm_id": "4228604144",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Granne abdeljalil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3597065,
+                    32.3334218
+                ]
+            },
+            "properties": {
+                "osm_id": "4228604148",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr.smail abdelwahed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3610423,
+                    32.3329742
+                ]
+            },
+            "properties": {
+                "osm_id": "4228604154",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr.Sannouni Anisa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3610275,
+                    32.3330025
+                ]
+            },
+            "properties": {
+                "osm_id": "4228604155",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr.Haddadi Mohammed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3610785,
+                    32.3326852
+                ]
+            },
+            "properties": {
+                "osm_id": "4228604156",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr.slimani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3614097,
+                    32.3329526
+                ]
+            },
+            "properties": {
+                "osm_id": "4228604157",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr.Derkaoui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3622868,
+                    32.3322705
+                ]
+            },
+            "properties": {
+                "osm_id": "4228604161",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr.Ghalloudi Abdelwahed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3622761,
+                    32.3322603
+                ]
+            },
+            "properties": {
+                "osm_id": "4228604162",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr.benlahcen abdelhamid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.362504,
+                    32.3315925
+                ]
+            },
+            "properties": {
+                "osm_id": "4228622714",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Fatiha BZAMI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3624633,
+                    32.3316115
+                ]
+            },
+            "properties": {
+                "osm_id": "4228626091",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Drs. CHABBAK Abdllatif et ESSAIH Merouane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3556971,
+                    32.3324779
+                ]
+            },
+            "properties": {
+                "osm_id": "4228803926",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr.hormali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3566868,
+                    32.333611
+                ]
+            },
+            "properties": {
+                "osm_id": "4228803932",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr.Mourabit Soumiya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.35666,
+                    32.3335657
+                ]
+            },
+            "properties": {
+                "osm_id": "4228803933",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr.Hassan Smayni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.365068,
+                    32.3350894
+                ]
+            },
+            "properties": {
+                "osm_id": "4230043406",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical Sqalli Hossini Khalid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3660891,
+                    32.3353942
+                ]
+            },
+            "properties": {
+                "osm_id": "4230059037",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur Abdelmajid Raji"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3643001,
+                    32.3322995
+                ]
+            },
+            "properties": {
+                "osm_id": "4230087700",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical Fatima zahra Afif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3643001,
+                    32.3322995
+                ]
+            },
+            "properties": {
+                "osm_id": "4230096242",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur Fatima zahra Afif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3628921,
+                    32.3323435
+                ]
+            },
+            "properties": {
+                "osm_id": "4230332661",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dermato-vénéréologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3615714,
+                    32.33323
+                ]
+            },
+            "properties": {
+                "osm_id": "4230392901",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Medical KIRAMI Rachid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3642607,
+                    32.3323154
+                ]
+            },
+            "properties": {
+                "osm_id": "4230428442",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical Mustapha Draissi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3640515,
+                    32.3324061
+                ]
+            },
+            "properties": {
+                "osm_id": "4230434375",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical Jebbar Tahar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3653229,
+                    32.3354928
+                ]
+            },
+            "properties": {
+                "osm_id": "4230451502",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical Mohamed Al idrissi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3657118,
+                    32.3355721
+                ]
+            },
+            "properties": {
+                "osm_id": "4230462482",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical Salima Khallaayoune"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3665072,
+                    32.3357473
+                ]
+            },
+            "properties": {
+                "osm_id": "4230558161",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical Quasm Donyaoui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3668988,
+                    32.3382289
+                ]
+            },
+            "properties": {
+                "osm_id": "4230570830",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical Abdelaziz El Hassani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3655523,
+                    32.3379728
+                ]
+            },
+            "properties": {
+                "osm_id": "4230577484",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical Zineb Bougadoum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3633181,
+                    32.3356998
+                ]
+            },
+            "properties": {
+                "osm_id": "4230584651",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical Gamouh Mohamed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3634683,
+                    32.3356476
+                ]
+            },
+            "properties": {
+                "osm_id": "4230587004",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical Khadija Farid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3615677,
+                    32.332933
+                ]
+            },
+            "properties": {
+                "osm_id": "4231695340",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3616509,
+                    32.332899
+                ]
+            },
+            "properties": {
+                "osm_id": "4231695341",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "bentoumi Taher"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3615882,
+                    32.3332227
+                ]
+            },
+            "properties": {
+                "osm_id": "4231881988",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Medical ABDENBAOUI Said"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3629152,
+                    32.3340601
+                ]
+            },
+            "properties": {
+                "osm_id": "4232109133",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical KABIRI Ahmed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.570115,
+                    31.9604446
+                ]
+            },
+            "properties": {
+                "osm_id": "4232878964",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5722876,
+                    31.9589518
+                ]
+            },
+            "properties": {
+                "osm_id": "4232906411",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "médecin géneral"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3621547,
+                    32.3330252
+                ]
+            },
+            "properties": {
+                "osm_id": "4234010799",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Medical Aicha ZOUHAIR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3634468,
+                    32.3335973
+                ]
+            },
+            "properties": {
+                "osm_id": "4234120867",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical BADIR Ahmed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3634418,
+                    32.3335894
+                ]
+            },
+            "properties": {
+                "osm_id": "4234123989",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical BOUKILI Hassan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3634518,
+                    32.3336054
+                ]
+            },
+            "properties": {
+                "osm_id": "4234130195",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical JESSOUS Touria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3638672,
+                    32.3341481
+                ]
+            },
+            "properties": {
+                "osm_id": "4234548894",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet medical Hanaa MANSOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.364317,
+                    32.3347602
+                ]
+            },
+            "properties": {
+                "osm_id": "4234548895",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Medical FARES Mouhamed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3601743,
+                    32.331008
+                ]
+            },
+            "properties": {
+                "osm_id": "4235527850",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre ARREDA -dr.Mehdi Asanhaji Elghazi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9286844,
+                    34.2596791
+                ]
+            },
+            "properties": {
+                "osm_id": "4291833197",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0094497,
+                    31.6351643
+                ]
+            },
+            "properties": {
+                "osm_id": "4330843195",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "نبيل برادة"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6554066,
+                    33.5793638
+                ]
+            },
+            "properties": {
+                "osm_id": "4344285989",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Domicile Dr Baghdadi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6817344,
+                    33.5473567
+                ]
+            },
+            "properties": {
+                "osm_id": "4368515792",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "centre kine forme"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9117626,
+                    34.6754038
+                ]
+            },
+            "properties": {
+                "osm_id": "4410014860",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Hicham Ramdani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5458171,
+                    33.8982775
+                ]
+            },
+            "properties": {
+                "osm_id": "4411201314",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "ophtalmologue Abaik Taoufik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0266255,
+                    34.0097038
+                ]
+            },
+            "properties": {
+                "osm_id": "4481662589",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur Barrada Firdaous الدكتورة برادة فردوس"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5475386,
+                    33.8932584
+                ]
+            },
+            "properties": {
+                "osm_id": "4484038091",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre régional d oncologie lalla salam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.544705,
+                    33.8917993
+                ]
+            },
+            "properties": {
+                "osm_id": "4484057892",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Hôpital Moulay Ismail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6325637,
+                    33.6014071
+                ]
+            },
+            "properties": {
+                "osm_id": "4486728186",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre de rein moulay youssef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5931591,
+                    34.2561265
+                ]
+            },
+            "properties": {
+                "osm_id": "4487714794",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Pediatre Docteur Debbagh Siham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5839244,
+                    34.2575666
+                ]
+            },
+            "properties": {
+                "osm_id": "4487715340",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dermatologue Kénitra Dr El Cadi Jihane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6228354,
+                    34.255669
+                ]
+            },
+            "properties": {
+                "osm_id": "4487719458",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dentiste Adil ZARKOUNI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.582,
+                    34.2555991
+                ]
+            },
+            "properties": {
+                "osm_id": "4487727489",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet d'ophtalmologie Dr. Loughzail Khalid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5832923,
+                    34.2602995
+                ]
+            },
+            "properties": {
+                "osm_id": "4487732743",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet De Dermatologie - Dr Mohamed El Ouazzani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5899898,
+                    34.2625335
+                ]
+            },
+            "properties": {
+                "osm_id": "4487738768",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Dentaire Dr. Benzekri Mohamed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5802031,
+                    34.2606869
+                ]
+            },
+            "properties": {
+                "osm_id": "4487742996",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Gynécologue Docteur Berraho Halim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6257448,
+                    33.5698239
+                ]
+            },
+            "properties": {
+                "osm_id": "4492311991",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Endocrinologue tazi otman طبيب الغدد تازي عثمان"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8486961,
+                    33.9892433
+                ]
+            },
+            "properties": {
+                "osm_id": "4498470222",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8498253,
+                    33.9883226
+                ]
+            },
+            "properties": {
+                "osm_id": "4498470223",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.823219,
+                    34.0334269
+                ]
+            },
+            "properties": {
+                "osm_id": "4499276290",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Gastro Enterology De Salé"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8247842,
+                    34.0334687
+                ]
+            },
+            "properties": {
+                "osm_id": "4499280590",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire Rhazali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6257502,
+                    33.5690864
+                ]
+            },
+            "properties": {
+                "osm_id": "4501565189",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Endocrinologue Tazi Otmane طبيب الغدد تازي عثمان"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9281468,
+                    33.9304766
+                ]
+            },
+            "properties": {
+                "osm_id": "4508499492",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire médicale international مختبر التحاليل الدولي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9300393,
+                    33.9249017
+                ]
+            },
+            "properties": {
+                "osm_id": "4508520189",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire médical مختبر التحاليل"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5855212,
+                    34.2596031
+                ]
+            },
+            "properties": {
+                "osm_id": "4510391092",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet de Gastro Enterologie Et Hepatologie - Dr. Alami Mohamed Bachir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.582812,
+                    34.257161
+                ]
+            },
+            "properties": {
+                "osm_id": "4510483992",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre New Vision-Chirurgien Ophtalmologue - Dr. Jalal Khechach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.580752,
+                    34.2609779
+                ]
+            },
+            "properties": {
+                "osm_id": "4511043696",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Pédiatre Bennani Iman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5906921,
+                    34.2600967
+                ]
+            },
+            "properties": {
+                "osm_id": "4511052795",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet d'Orthodontie de Réhabilitation Dento-Faciale (C.o.r.d.f.)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5819173,
+                    34.2539059
+                ]
+            },
+            "properties": {
+                "osm_id": "4517195183",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Medicins Generalistes - Dr. Arnaud Christine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5808122,
+                    34.2609896
+                ]
+            },
+            "properties": {
+                "osm_id": "4517205872",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Medecins Urologie - Dr. Elbouchikhi Hassan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.588692,
+                    34.258527
+                ]
+            },
+            "properties": {
+                "osm_id": "4517218824",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cardiologie - Dr. Idrani Fatna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5934792,
+                    34.2569706
+                ]
+            },
+            "properties": {
+                "osm_id": "4517227278",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Chirugie - Dr. Kadmiri Nacir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5961892,
+                    34.254842
+                ]
+            },
+            "properties": {
+                "osm_id": "4517241490",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Medecins Generalistes - Dr. Mourid Abdellatif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5936089,
+                    34.2569474
+                ]
+            },
+            "properties": {
+                "osm_id": "4517272414",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Nephrologie - Dr. Tahiri Ahmed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5863394,
+                    34.2591352
+                ]
+            },
+            "properties": {
+                "osm_id": "4517292978",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cardiologie - Dr. Sourat Abderrahim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5833231,
+                    34.2588847
+                ]
+            },
+            "properties": {
+                "osm_id": "4517302204",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Chirugie-infantile - Dr. Tazzit Azeddine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5842577,
+                    34.2600314
+                ]
+            },
+            "properties": {
+                "osm_id": "4517308257",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Gynecologie-obstetrique - Dr. Terrab Nouzha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5866034,
+                    34.2582748
+                ]
+            },
+            "properties": {
+                "osm_id": "4517311676",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Pediatrie - Dr. Zouhry Omar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5840001,
+                    34.2596828
+                ]
+            },
+            "properties": {
+                "osm_id": "4517328679",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Debbagh Khadija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5863732,
+                    34.2563059
+                ]
+            },
+            "properties": {
+                "osm_id": "4518865196",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Ophtalmologiste Dr. Fellahi Azeddine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.634866,
+                    33.5804307
+                ]
+            },
+            "properties": {
+                "osm_id": "4552429589",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "docteur adil araqi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5970624,
+                    33.5936355
+                ]
+            },
+            "properties": {
+                "osm_id": "4554695990",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "LABORATOIRE EMILE ZOLA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9248896,
+                    35.1776012
+                ]
+            },
+            "properties": {
+                "osm_id": "4558010193",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Al manzeh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8474136,
+                    34.021379
+                ]
+            },
+            "properties": {
+                "osm_id": "4560744003",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Saghrou Medical أجهزة طببة"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9998386,
+                    34.0387551
+                ]
+            },
+            "properties": {
+                "osm_id": "4579937691",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR SQUALLI HOUSSANI SAAD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8483379,
+                    33.995305
+                ]
+            },
+            "properties": {
+                "osm_id": "4584498190",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Taoufik Bouhmidi Généraliste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8456127,
+                    33.9952121
+                ]
+            },
+            "properties": {
+                "osm_id": "4611781989",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "دكتورة كريمة بن بوعزة"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3102872,
+                    35.8874438
+                ]
+            },
+            "properties": {
+                "osm_id": "4628380193",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Consulta Dr Lupiani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5036928,
+                    32.2580924
+                ]
+            },
+            "properties": {
+                "osm_id": "4639676290",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "عيادة د.مرتو طب عام"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.846289,
+                    34.0067521
+                ]
+            },
+            "properties": {
+                "osm_id": "4651057497",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr benzineb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8481239,
+                    34.0045929
+                ]
+            },
+            "properties": {
+                "osm_id": "4652737090",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr benzineb asmae psy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6089159,
+                    33.5789058
+                ]
+            },
+            "properties": {
+                "osm_id": "4677830490",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "CUPE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6255118,
+                    33.5775823
+                ]
+            },
+            "properties": {
+                "osm_id": "4693053089",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur BENLYAZID ORL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.82498,
+                    35.7459656
+                ]
+            },
+            "properties": {
+                "osm_id": "4694004827",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre de Santé Bni Ouriaghel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9982071,
+                    34.0436708
+                ]
+            },
+            "properties": {
+                "osm_id": "4711935090",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire D'analyses médicales Agdal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6199559,
+                    33.5821745
+                ]
+            },
+            "properties": {
+                "osm_id": "4720305016",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Radiologie ksiyer الفحص بالأشعة قصير"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9978127,
+                    34.0429022
+                ]
+            },
+            "properties": {
+                "osm_id": "4720321291",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire de analyses médicales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0069869,
+                    34.0317546
+                ]
+            },
+            "properties": {
+                "osm_id": "4723726591",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR Berada rachid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0051392,
+                    34.0336667
+                ]
+            },
+            "properties": {
+                "osm_id": "4723988089",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet pediatrique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0075374,
+                    34.0324404
+                ]
+            },
+            "properties": {
+                "osm_id": "4725630991",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Rital Aboulem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9970308,
+                    34.0421176
+                ]
+            },
+            "properties": {
+                "osm_id": "4725877089",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Hind Hamoumi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3834443,
+                    32.328204
+                ]
+            },
+            "properties": {
+                "osm_id": "4726012492",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Hamdani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0044735,
+                    34.0353597
+                ]
+            },
+            "properties": {
+                "osm_id": "4732118527",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Dermatologue Vénérologue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0044761,
+                    34.0355311
+                ]
+            },
+            "properties": {
+                "osm_id": "4732172122",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Aghoutan loubna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0044813,
+                    34.035679
+                ]
+            },
+            "properties": {
+                "osm_id": "4732175623",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Doc khaoulla Hbid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0006106,
+                    34.0385611
+                ]
+            },
+            "properties": {
+                "osm_id": "4733722026",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.004621,
+                    34.0358305
+                ]
+            },
+            "properties": {
+                "osm_id": "4733877521",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Professeur en Neurologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9975167,
+                    34.0406033
+                ]
+            },
+            "properties": {
+                "osm_id": "4733915534",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9975224,
+                    34.0404762
+                ]
+            },
+            "properties": {
+                "osm_id": "4733940222",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Ophtalmologue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9975598,
+                    34.0406349
+                ]
+            },
+            "properties": {
+                "osm_id": "4733940321",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cardiologue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9975213,
+                    34.0404888
+                ]
+            },
+            "properties": {
+                "osm_id": "4733948721",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Chirurgie général"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9974096,
+                    34.0397813
+                ]
+            },
+            "properties": {
+                "osm_id": "4735874122",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Spécialiste en radiologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9970587,
+                    34.039696
+                ]
+            },
+            "properties": {
+                "osm_id": "4735894044",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Kinésithérapeute"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9970281,
+                    34.0397213
+                ]
+            },
+            "properties": {
+                "osm_id": "4735900125",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Spécialiste pulmonaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9970202,
+                    34.03974
+                ]
+            },
+            "properties": {
+                "osm_id": "4735900126",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Ste Bouyachtat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9994814,
+                    34.0392739
+                ]
+            },
+            "properties": {
+                "osm_id": "4736025422",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995001,
+                    34.0393009
+                ]
+            },
+            "properties": {
+                "osm_id": "4736026021",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9991093,
+                    34.0391178
+                ]
+            },
+            "properties": {
+                "osm_id": "4737821728",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9989653,
+                    34.0390541
+                ]
+            },
+            "properties": {
+                "osm_id": "4737893423",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Kinésithérapeute"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9966441,
+                    34.0411236
+                ]
+            },
+            "properties": {
+                "osm_id": "4737899922",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Chirurgie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9987451,
+                    34.0389492
+                ]
+            },
+            "properties": {
+                "osm_id": "4738001323",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Nouzha Iraki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9987521,
+                    34.0389729
+                ]
+            },
+            "properties": {
+                "osm_id": "4738003921",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Achahchah Mohamed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9984792,
+                    34.0386408
+                ]
+            },
+            "properties": {
+                "osm_id": "4738031425",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Aslaf Bouchta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5461236,
+                    33.8998772
+                ]
+            },
+            "properties": {
+                "osm_id": "4739412908",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Urologue Abouchiba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5483401,
+                    33.8989266
+                ]
+            },
+            "properties": {
+                "osm_id": "4739423659",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Urologue Slimani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9968227,
+                    34.0422719
+                ]
+            },
+            "properties": {
+                "osm_id": "4744770126",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Pédiatrie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.996545,
+                    34.0426601
+                ]
+            },
+            "properties": {
+                "osm_id": "4744882621",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Gynécologue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9964763,
+                    34.0419886
+                ]
+            },
+            "properties": {
+                "osm_id": "4744884322",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Hipato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995221,
+                    34.0386129
+                ]
+            },
+            "properties": {
+                "osm_id": "4744983421",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr El Azrek M-R"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995602,
+                    34.0386363
+                ]
+            },
+            "properties": {
+                "osm_id": "4744983423",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Médecin générale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0016265,
+                    34.0423341
+                ]
+            },
+            "properties": {
+                "osm_id": "4745039123",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire belkadi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.996463,
+                    34.0411728
+                ]
+            },
+            "properties": {
+                "osm_id": "4746707423",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Spécialiste de nez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9964672,
+                    34.0412117
+                ]
+            },
+            "properties": {
+                "osm_id": "4746707424",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Spécialiste d asthme poumon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0000824,
+                    34.0389302
+                ]
+            },
+            "properties": {
+                "osm_id": "4746747124",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr El Medelssi Fatima Zahra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.996389,
+                    34.0408298
+                ]
+            },
+            "properties": {
+                "osm_id": "4746777722",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Chirurgie Général"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9964156,
+                    34.0407045
+                ]
+            },
+            "properties": {
+                "osm_id": "4746800421",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Orthopediste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0001333,
+                    34.0391581
+                ]
+            },
+            "properties": {
+                "osm_id": "4746891322",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9999157,
+                    34.0394163
+                ]
+            },
+            "properties": {
+                "osm_id": "4746912623",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0053593,
+                    34.0344386
+                ]
+            },
+            "properties": {
+                "osm_id": "4748945622",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Amine Lamghari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0053934,
+                    34.034471
+                ]
+            },
+            "properties": {
+                "osm_id": "4748983021",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Youssef El Harti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0037845,
+                    34.0388467
+                ]
+            },
+            "properties": {
+                "osm_id": "4750745421",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Podologue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0056614,
+                    34.0320497
+                ]
+            },
+            "properties": {
+                "osm_id": "4757645443",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre hémodialyse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0028884,
+                    34.044668
+                ]
+            },
+            "properties": {
+                "osm_id": "4757661022",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Agri Labo12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9978955,
+                    34.0408001
+                ]
+            },
+            "properties": {
+                "osm_id": "4757661424",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9979545,
+                    34.0406306
+                ]
+            },
+            "properties": {
+                "osm_id": "4757717552",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire médical Alfath"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9999789,
+                    34.0381475
+                ]
+            },
+            "properties": {
+                "osm_id": "4757735776",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur rheumatologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0031546,
+                    34.0440886
+                ]
+            },
+            "properties": {
+                "osm_id": "4757744634",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Yasmina Boughali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9978879,
+                    34.0407613
+                ]
+            },
+            "properties": {
+                "osm_id": "4757792234",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Orthoptiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0009335,
+                    34.0379159
+                ]
+            },
+            "properties": {
+                "osm_id": "4757915537",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0008486,
+                    34.0379297
+                ]
+            },
+            "properties": {
+                "osm_id": "4757952032",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.000841,
+                    34.037921
+                ]
+            },
+            "properties": {
+                "osm_id": "4757969026",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur maladie respiratoire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9978622,
+                    34.0407595
+                ]
+            },
+            "properties": {
+                "osm_id": "4758759021",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9979102,
+                    34.0405316
+                ]
+            },
+            "properties": {
+                "osm_id": "4759470154",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur cardiologue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9978994,
+                    34.040511
+                ]
+            },
+            "properties": {
+                "osm_id": "4759474325",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur appdigesti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9978897,
+                    34.040492
+                ]
+            },
+            "properties": {
+                "osm_id": "4759496722",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9978789,
+                    34.0404702
+                ]
+            },
+            "properties": {
+                "osm_id": "4759511624",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Pédiatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9985471,
+                    34.0399557
+                ]
+            },
+            "properties": {
+                "osm_id": "4759521930",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Notaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9996156,
+                    34.0381113
+                ]
+            },
+            "properties": {
+                "osm_id": "4759553322",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur orthoptiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995418,
+                    34.0381441
+                ]
+            },
+            "properties": {
+                "osm_id": "4759560729",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.99785,
+                    34.0404621
+                ]
+            },
+            "properties": {
+                "osm_id": "4759591822",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Médecin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.999228,
+                    34.0382237
+                ]
+            },
+            "properties": {
+                "osm_id": "4761581122",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR Spécialiste en ophtalmologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.999205,
+                    34.0382093
+                ]
+            },
+            "properties": {
+                "osm_id": "4761601222",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR DE kinésithérapie et d'amincissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9992164,
+                    34.0381966
+                ]
+            },
+            "properties": {
+                "osm_id": "4761607221",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. EL AZREQ Rachid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9983327,
+                    34.0383193
+                ]
+            },
+            "properties": {
+                "osm_id": "4763831222",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur général"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.99581,
+                    34.0383243
+                ]
+            },
+            "properties": {
+                "osm_id": "4772542822",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire Laraqui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9956739,
+                    34.038306
+                ]
+            },
+            "properties": {
+                "osm_id": "4772645924",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Spécialiste des maladies digestifs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9956967,
+                    34.0383031
+                ]
+            },
+            "properties": {
+                "osm_id": "4772661421",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Ophtalmologue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9956981,
+                    34.0383256
+                ]
+            },
+            "properties": {
+                "osm_id": "4772694322",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire d'analyse cytologie pathologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9956534,
+                    34.038341
+                ]
+            },
+            "properties": {
+                "osm_id": "4772771221",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cardiologue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9956702,
+                    34.0383542
+                ]
+            },
+            "properties": {
+                "osm_id": "4772978854",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Gynécologue obstétrique fécondation in vitro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9956921,
+                    34.0383474
+                ]
+            },
+            "properties": {
+                "osm_id": "4773030825",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet de dermatologie médicale Esthétique Lazer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9953625,
+                    34.0383841
+                ]
+            },
+            "properties": {
+                "osm_id": "4774406469",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Chirurgie générale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9953791,
+                    34.0383771
+                ]
+            },
+            "properties": {
+                "osm_id": "4774414573",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Ostéopathe kinésithérapeute"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9990462,
+                    34.0398985
+                ]
+            },
+            "properties": {
+                "osm_id": "4776554325",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9987764,
+                    34.0393231
+                ]
+            },
+            "properties": {
+                "osm_id": "4776611630",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9989629,
+                    34.039754
+                ]
+            },
+            "properties": {
+                "osm_id": "4776644221",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire d'analyses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0045946,
+                    34.0358542
+                ]
+            },
+            "properties": {
+                "osm_id": "4778927624",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "عيادة جلراحة العظام والمفاصل"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0044136,
+                    34.0357669
+                ]
+            },
+            "properties": {
+                "osm_id": "4778927625",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Meriem El Alami et Najoua Benseddik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0045802,
+                    34.0357747
+                ]
+            },
+            "properties": {
+                "osm_id": "4778994821",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "cabinet ophtalmology"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.004497,
+                    34.0357631
+                ]
+            },
+            "properties": {
+                "osm_id": "4778994822",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Kenya krirem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0045391,
+                    34.0357753
+                ]
+            },
+            "properties": {
+                "osm_id": "4779013223",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Abdelatif Louchi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0044518,
+                    34.0357847
+                ]
+            },
+            "properties": {
+                "osm_id": "4779019321",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Erazi Amine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0044971,
+                    34.0357163
+                ]
+            },
+            "properties": {
+                "osm_id": "4779019322",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Gynécologue Obstétricienne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0053768,
+                    34.0450986
+                ]
+            },
+            "properties": {
+                "osm_id": "4786134322",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur Généraliste SOUKAINA Ben El Haj Salmi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9978296,
+                    34.0366497
+                ]
+            },
+            "properties": {
+                "osm_id": "4787952423",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9981031,
+                    34.0404611
+                ]
+            },
+            "properties": {
+                "osm_id": "4788090423",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Pédiatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9981133,
+                    34.0404811
+                ]
+            },
+            "properties": {
+                "osm_id": "4788102121",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Gynécologue obstétrique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.999864,
+                    34.0375368
+                ]
+            },
+            "properties": {
+                "osm_id": "4788715221",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur cardiologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0022084,
+                    34.0426001
+                ]
+            },
+            "properties": {
+                "osm_id": "4788906321",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Radio echographtes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9983079,
+                    34.0390553
+                ]
+            },
+            "properties": {
+                "osm_id": "4789999723",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Médecin généraliste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9982579,
+                    34.039079
+                ]
+            },
+            "properties": {
+                "osm_id": "4790318826",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Échographie endoscopie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9982332,
+                    34.0390914
+                ]
+            },
+            "properties": {
+                "osm_id": "4790395121",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Médecin qualifié"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9987993,
+                    34.0398847
+                ]
+            },
+            "properties": {
+                "osm_id": "4791467321",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet de kinésithérapie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0037205,
+                    34.0386868
+                ]
+            },
+            "properties": {
+                "osm_id": "4791583021",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet médical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.003713,
+                    34.0416884
+                ]
+            },
+            "properties": {
+                "osm_id": "4791679121",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet médical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9978429,
+                    34.0381905
+                ]
+            },
+            "properties": {
+                "osm_id": "4793223821",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Gynécologue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9978627,
+                    34.0381508
+                ]
+            },
+            "properties": {
+                "osm_id": "4793429722",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Chirurgie et maladies des yeux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9990118,
+                    34.0376565
+                ]
+            },
+            "properties": {
+                "osm_id": "4798623921",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Endoscopie digestifs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9979603,
+                    34.0385187
+                ]
+            },
+            "properties": {
+                "osm_id": "4798626223",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Mohamed Said Mrani Alaoui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9990403,
+                    34.0376481
+                ]
+            },
+            "properties": {
+                "osm_id": "4798628523",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Ophtamologue spécialiste des maladie et chirurgie des yeux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9979858,
+                    34.0385128
+                ]
+            },
+            "properties": {
+                "osm_id": "4798633421",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr A. Amrani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9990974,
+                    34.0376345
+                ]
+            },
+            "properties": {
+                "osm_id": "4798675921",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre de chirurgie implantologie Buccal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9991228,
+                    34.03763
+                ]
+            },
+            "properties": {
+                "osm_id": "4798686321",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Pédiatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9990719,
+                    34.0376594
+                ]
+            },
+            "properties": {
+                "osm_id": "4798779724",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Gynécologue obstétrique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0015012,
+                    34.0426024
+                ]
+            },
+            "properties": {
+                "osm_id": "4798779924",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Pneumo Allergologue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0023256,
+                    34.041496
+                ]
+            },
+            "properties": {
+                "osm_id": "4798869021",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Orthoptiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9991782,
+                    34.0376341
+                ]
+            },
+            "properties": {
+                "osm_id": "4800696124",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cardiologue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9991519,
+                    34.0376439
+                ]
+            },
+            "properties": {
+                "osm_id": "4800696322",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Neurochirurgie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9983817,
+                    34.0387405
+                ]
+            },
+            "properties": {
+                "osm_id": "4801091529",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire d 'analyses benjalloun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9983663,
+                    34.0386666
+                ]
+            },
+            "properties": {
+                "osm_id": "4801091624",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Benchekroun Azzelarab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9983676,
+                    34.0386784
+                ]
+            },
+            "properties": {
+                "osm_id": "4801185424",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Benlemlih Mohamed Amine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.998256,
+                    34.0383109
+                ]
+            },
+            "properties": {
+                "osm_id": "4801321727",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur oreilles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5475303,
+                    33.8987257
+                ]
+            },
+            "properties": {
+                "osm_id": "4801787270",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "ORL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9994176,
+                    34.0372326
+                ]
+            },
+            "properties": {
+                "osm_id": "4803310021",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cardiologue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9993933,
+                    34.0371678
+                ]
+            },
+            "properties": {
+                "osm_id": "4803345321",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Spécialiste des maladies digestifs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9994158,
+                    34.0372633
+                ]
+            },
+            "properties": {
+                "osm_id": "4803420022",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Psychiatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0240017,
+                    34.031804
+                ]
+            },
+            "properties": {
+                "osm_id": "4803447022",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Mikou Khalid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9993552,
+                    34.0372276
+                ]
+            },
+            "properties": {
+                "osm_id": "4803619221",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Orthoptiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9975443,
+                    34.0363381
+                ]
+            },
+            "properties": {
+                "osm_id": "4805527822",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur chirurgie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9975359,
+                    34.0363037
+                ]
+            },
+            "properties": {
+                "osm_id": "4805527824",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Kinésithérapie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9974922,
+                    34.0361499
+                ]
+            },
+            "properties": {
+                "osm_id": "4805527829",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9986992,
+                    34.0374768
+                ]
+            },
+            "properties": {
+                "osm_id": "4805617922",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Chirurgien oto-rhino-laryngologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0044891,
+                    34.0423656
+                ]
+            },
+            "properties": {
+                "osm_id": "4806653621",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Skalli Driss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0242192,
+                    34.0299465
+                ]
+            },
+            "properties": {
+                "osm_id": "4813319821",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Latifa Maskali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9975223,
+                    34.0355017
+                ]
+            },
+            "properties": {
+                "osm_id": "4813364121",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Ens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9965049,
+                    34.0378472
+                ]
+            },
+            "properties": {
+                "osm_id": "4813391624",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Rhumatologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9964771,
+                    34.0378551
+                ]
+            },
+            "properties": {
+                "osm_id": "4813394222",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Chirurgien urologue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9965366,
+                    34.0378373
+                ]
+            },
+            "properties": {
+                "osm_id": "4813401121",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Pédiatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9963954,
+                    34.0378697
+                ]
+            },
+            "properties": {
+                "osm_id": "4813541024",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Chirurgien général digestifs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9963372,
+                    34.0378811
+                ]
+            },
+            "properties": {
+                "osm_id": "4815073921",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Spécialiste en gynécologue obstétrique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9963089,
+                    34.037886
+                ]
+            },
+            "properties": {
+                "osm_id": "4815085521",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Anatomopathlogiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.996401,
+                    34.0378058
+                ]
+            },
+            "properties": {
+                "osm_id": "4815223121",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Kinésithérapeute"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9964304,
+                    34.0377835
+                ]
+            },
+            "properties": {
+                "osm_id": "4815240322",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Orthophoniste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9974193,
+                    34.0350621
+                ]
+            },
+            "properties": {
+                "osm_id": "4815278022",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9973818,
+                    34.0348402
+                ]
+            },
+            "properties": {
+                "osm_id": "4815299624",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Correction auditive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9973723,
+                    34.0347723
+                ]
+            },
+            "properties": {
+                "osm_id": "4815357121",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9962448,
+                    34.0378973
+                ]
+            },
+            "properties": {
+                "osm_id": "4815643021",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Gynécologue - obstétrique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9961885,
+                    34.0378654
+                ]
+            },
+            "properties": {
+                "osm_id": "4815675524",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Orthopédie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9950562,
+                    34.0381905
+                ]
+            },
+            "properties": {
+                "osm_id": "4815886922",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Chirurgien pédiatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9950327,
+                    34.0381984
+                ]
+            },
+            "properties": {
+                "osm_id": "4815892322",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Neurochirurgie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9973809,
+                    34.0343886
+                ]
+            },
+            "properties": {
+                "osm_id": "4817790024",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur réhabilitation physique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9973555,
+                    34.0343639
+                ]
+            },
+            "properties": {
+                "osm_id": "4817895121",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9973276,
+                    34.0343489
+                ]
+            },
+            "properties": {
+                "osm_id": "4817895122",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Analyse Avicenne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9974132,
+                    34.0343367
+                ]
+            },
+            "properties": {
+                "osm_id": "4817977723",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.999056,
+                    34.0400557
+                ]
+            },
+            "properties": {
+                "osm_id": "4818134821",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "تصحيح السمع"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0000039,
+                    34.0378625
+                ]
+            },
+            "properties": {
+                "osm_id": "4820227423",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "اختصاصي في امراض الروماتيزم"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9968656,
+                    34.0361232
+                ]
+            },
+            "properties": {
+                "osm_id": "4820270021",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Spécialiste des maladies digestifs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9998104,
+                    34.0431033
+                ]
+            },
+            "properties": {
+                "osm_id": "4820487227",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Triangle medical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9966872,
+                    34.0356843
+                ]
+            },
+            "properties": {
+                "osm_id": "4830517621",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "P.P 53"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995663,
+                    34.0370165
+                ]
+            },
+            "properties": {
+                "osm_id": "4832574122",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Mohamed Lachkham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995291,
+                    34.0369831
+                ]
+            },
+            "properties": {
+                "osm_id": "4832574123",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "PP (08)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995883,
+                    34.0370343
+                ]
+            },
+            "properties": {
+                "osm_id": "4832583422",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Auditive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9992629,
+                    34.0367465
+                ]
+            },
+            "properties": {
+                "osm_id": "4832625026",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DRLazrak Faiza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9993041,
+                    34.0367789
+                ]
+            },
+            "properties": {
+                "osm_id": "4832626723",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Kinésithérapie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9981615,
+                    34.0369951
+                ]
+            },
+            "properties": {
+                "osm_id": "4834356525",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "PP (11)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9983315,
+                    34.0369373
+                ]
+            },
+            "properties": {
+                "osm_id": "4834382328",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "PP (08)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9968478,
+                    34.0365227
+                ]
+            },
+            "properties": {
+                "osm_id": "4841402722",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "P. P rce n 60"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9969275,
+                    34.0376476
+                ]
+            },
+            "properties": {
+                "osm_id": "4841420923",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "P . P rce 62"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0084522,
+                    34.0415466
+                ]
+            },
+            "properties": {
+                "osm_id": "4842582621",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Comptoir Médical Berrada et Fils Atlas Médical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9971507,
+                    34.0343187
+                ]
+            },
+            "properties": {
+                "osm_id": "4847647222",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "P . P . Rce Espace Massira n 7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9981504,
+                    34.0369158
+                ]
+            },
+            "properties": {
+                "osm_id": "4855454625",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Badr WADGHIRI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.998117,
+                    34.0369199
+                ]
+            },
+            "properties": {
+                "osm_id": "4855507821",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "PP (02) Dr Mohamed MIKOU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9946352,
+                    34.0333361
+                ]
+            },
+            "properties": {
+                "osm_id": "4855722526",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "P.P rce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9984306,
+                    34.0351659
+                ]
+            },
+            "properties": {
+                "osm_id": "4859439024",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9988926,
+                    34.0352455
+                ]
+            },
+            "properties": {
+                "osm_id": "4859541122",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9988741,
+                    34.0354823
+                ]
+            },
+            "properties": {
+                "osm_id": "4859556425",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet de pneumologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0051558,
+                    34.0251106
+                ]
+            },
+            "properties": {
+                "osm_id": "4859666425",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Youssef Sekkat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0057258,
+                    34.0241444
+                ]
+            },
+            "properties": {
+                "osm_id": "4869594421",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Bellaliz Abdelilah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.005748,
+                    34.0241059
+                ]
+            },
+            "properties": {
+                "osm_id": "4869602521",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Sefrioui Mouliné Mounia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9938311,
+                    34.0378992
+                ]
+            },
+            "properties": {
+                "osm_id": "4869794721",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Inovaderm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9925102,
+                    34.028745
+                ]
+            },
+            "properties": {
+                "osm_id": "4871949622",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0067665,
+                    34.0198916
+                ]
+            },
+            "properties": {
+                "osm_id": "4873949224",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Asmae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.992599,
+                    34.0298131
+                ]
+            },
+            "properties": {
+                "osm_id": "4874066621",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Kinésithérapie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5804262,
+                    34.2599912
+                ]
+            },
+            "properties": {
+                "osm_id": "4876767023",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "cabinet dentaire Dr Tarik boubel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0065,
+                    34.0180226
+                ]
+            },
+            "properties": {
+                "osm_id": "4887825521",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Lalla Mssdik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1283039,
+                    31.240034
+                ]
+            },
+            "properties": {
+                "osm_id": "4894479521",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Dr Kassi عيادة الدكتور قاسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9937373,
+                    34.0322457
+                ]
+            },
+            "properties": {
+                "osm_id": "4897249821",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Chirurgie Générale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0060773,
+                    34.0229924
+                ]
+            },
+            "properties": {
+                "osm_id": "4903891521",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Ben Moussa Mostapha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0046174,
+                    34.0265152
+                ]
+            },
+            "properties": {
+                "osm_id": "4930902221",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr: Khalid Serrouch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0052603,
+                    34.025935
+                ]
+            },
+            "properties": {
+                "osm_id": "4930916522",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Samar El khatib"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6561996,
+                    33.5098864
+                ]
+            },
+            "properties": {
+                "osm_id": "4970508622",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Amal Damir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0073115,
+                    34.0228537
+                ]
+            },
+            "properties": {
+                "osm_id": "4989932724",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Abdellatif Ben jaloun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.812649,
+                    35.7805678
+                ]
+            },
+            "properties": {
+                "osm_id": "5003898221",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. El Alaoui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0039212,
+                    34.018956
+                ]
+            },
+            "properties": {
+                "osm_id": "5020075627",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre Hemodialyse Alazhar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6155261,
+                    33.5893333
+                ]
+            },
+            "properties": {
+                "osm_id": "5030221123",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Yssef Boujemaa - Pédiatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.2324348,
+                    31.4341117
+                ]
+            },
+            "properties": {
+                "osm_id": "5032480521",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4981365,
+                    33.6119556
+                ]
+            },
+            "properties": {
+                "osm_id": "5038392422",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire Yafa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.998018,
+                    34.0298952
+                ]
+            },
+            "properties": {
+                "osm_id": "5122993926",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre de Néphrologie - Hémodialyse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9996088,
+                    34.0223931
+                ]
+            },
+            "properties": {
+                "osm_id": "5128065326",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0059921,
+                    34.0227126
+                ]
+            },
+            "properties": {
+                "osm_id": "5144749821",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre De Dialyse Saada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0037003,
+                    34.0260207
+                ]
+            },
+            "properties": {
+                "osm_id": "5149387422",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9972968,
+                    34.0464726
+                ]
+            },
+            "properties": {
+                "osm_id": "5170882223",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre de néphrologie et d'hemodialysis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9972466,
+                    34.0464592
+                ]
+            },
+            "properties": {
+                "osm_id": "5170890321",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire d'analyse médical le palais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5928883,
+                    30.421601
+                ]
+            },
+            "properties": {
+                "osm_id": "5173620421",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire d'analyses médicales HARGUIL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9808964,
+                    34.0115907
+                ]
+            },
+            "properties": {
+                "osm_id": "5194917435",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire Bouayad d ' Analyses Médicales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0031189,
+                    34.0045557
+                ]
+            },
+            "properties": {
+                "osm_id": "5206245721",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Clinique Razi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9931286,
+                    34.0262846
+                ]
+            },
+            "properties": {
+                "osm_id": "5239191224",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Vétérinaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9666012,
+                    34.0068914
+                ]
+            },
+            "properties": {
+                "osm_id": "5239197625",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoires Abouzid D'analyses Medicales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9656039,
+                    34.0074472
+                ]
+            },
+            "properties": {
+                "osm_id": "5239243421",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire D'analyses médicales Sais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9635032,
+                    34.0084831
+                ]
+            },
+            "properties": {
+                "osm_id": "5239351921",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Medicar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5304489,
+                    33.5731773
+                ]
+            },
+            "properties": {
+                "osm_id": "5291949619",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Amor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9378759,
+                    23.6898882
+                ]
+            },
+            "properties": {
+                "osm_id": "5315114322",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Farid Jouahri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.837582,
+                    30.3310459
+                ]
+            },
+            "properties": {
+                "osm_id": "5318839122",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Medicial"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.010527,
+                    34.0049741
+                ]
+            },
+            "properties": {
+                "osm_id": "5415243025",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Centre El Yosr d ' Anatomie et de Cytologie Patologique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6268889,
+                    33.5774897
+                ]
+            },
+            "properties": {
+                "osm_id": "5424315622",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "centre radiologie abdelmoumen مركز الفحص بالأشعة عبدالمومن"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9975809,
+                    34.0454233
+                ]
+            },
+            "properties": {
+                "osm_id": "5494859621",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Chiadmi عيادة الشياظمي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7067307,
+                    34.2198604
+                ]
+            },
+            "properties": {
+                "osm_id": "5539669921",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Analyses medicales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9998632,
+                    34.0375708
+                ]
+            },
+            "properties": {
+                "osm_id": "5550423870",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Fadoua ZAHIR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0045469,
+                    34.0357436
+                ]
+            },
+            "properties": {
+                "osm_id": "5559387903",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Spécialiste en Endocrinologie diabitologie et Nutrition"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9999487,
+                    34.0381628
+                ]
+            },
+            "properties": {
+                "osm_id": "5563953707",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR Spécialiste des maladie et chirugie des yeux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9999816,
+                    34.038141
+                ]
+            },
+            "properties": {
+                "osm_id": "5563956108",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR à délivrer cirtificats d'examen Médicale de permis de conduire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.999952,
+                    34.0381505
+                ]
+            },
+            "properties": {
+                "osm_id": "5563965314",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR chirugien dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.000049,
+                    34.038918
+                ]
+            },
+            "properties": {
+                "osm_id": "5575540848",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Ouissal EL MGHARI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0000636,
+                    34.0389623
+                ]
+            },
+            "properties": {
+                "osm_id": "5575559813",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Ben Kirrane Najia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.998865,
+                    34.0390001
+                ]
+            },
+            "properties": {
+                "osm_id": "5575721809",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Filali Adib"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9989029,
+                    34.0390219
+                ]
+            },
+            "properties": {
+                "osm_id": "5575727849",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "دكتور سعد بن شقرون"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.998926,
+                    34.0390123
+                ]
+            },
+            "properties": {
+                "osm_id": "5575731382",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "دكتور شكيب التزاني"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9989539,
+                    34.0390219
+                ]
+            },
+            "properties": {
+                "osm_id": "5575744574",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Fouad Mahfoud Filali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9989984,
+                    34.039041
+                ]
+            },
+            "properties": {
+                "osm_id": "5575759221",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Chiboub Jamal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9991598,
+                    34.0391488
+                ]
+            },
+            "properties": {
+                "osm_id": "5575761073",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Chakib Touzani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.999028,
+                    34.0390628
+                ]
+            },
+            "properties": {
+                "osm_id": "5575769537",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Benjeloun Ahmed Chakib"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9988963,
+                    34.0390028
+                ]
+            },
+            "properties": {
+                "osm_id": "5575774123",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Ababou Abderafie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9983569,
+                    34.0386384
+                ]
+            },
+            "properties": {
+                "osm_id": "5578043101",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Abdelkader Benjilali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9984891,
+                    34.0386592
+                ]
+            },
+            "properties": {
+                "osm_id": "5578050049",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Bergi Mohamed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9979701,
+                    34.038507
+                ]
+            },
+            "properties": {
+                "osm_id": "5578069607",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Meriem Amor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8292144,
+                    35.7702061
+                ]
+            },
+            "properties": {
+                "osm_id": "5579470642",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Medical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9833699,
+                    34.0617335
+                ]
+            },
+            "properties": {
+                "osm_id": "5592036037",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR Benbrahim Med Fouad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9967586,
+                    34.0364858
+                ]
+            },
+            "properties": {
+                "osm_id": "5601722277",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9967935,
+                    34.0363814
+                ]
+            },
+            "properties": {
+                "osm_id": "5601739491",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR P.P53"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8390984,
+                    35.7472866
+                ]
+            },
+            "properties": {
+                "osm_id": "5605589178",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Medical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8326174,
+                    35.7444066
+                ]
+            },
+            "properties": {
+                "osm_id": "5605589370",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire Aoufi d'Analyses Médicales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9983697,
+                    34.0369464
+                ]
+            },
+            "properties": {
+                "osm_id": "5606654699",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Mazar ZHOR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9983509,
+                    34.0369536
+                ]
+            },
+            "properties": {
+                "osm_id": "5606685013",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Mazzar Zhor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9983979,
+                    34.0369958
+                ]
+            },
+            "properties": {
+                "osm_id": "5606720757",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Majid BENZAKOUR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9985031,
+                    34.0369014
+                ]
+            },
+            "properties": {
+                "osm_id": "5606727339",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Mourad BERRAMADANE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9985152,
+                    34.0369447
+                ]
+            },
+            "properties": {
+                "osm_id": "5606731149",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Jaoui SOUAD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9981558,
+                    34.0370447
+                ]
+            },
+            "properties": {
+                "osm_id": "5606734135",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Saida BENKIRANE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.998196,
+                    34.0370347
+                ]
+            },
+            "properties": {
+                "osm_id": "5606742044",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "دكتورة سناء الزروالي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9982161,
+                    34.0370069
+                ]
+            },
+            "properties": {
+                "osm_id": "5606746116",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Mohamed CHENNAQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9981504,
+                    34.0369158
+                ]
+            },
+            "properties": {
+                "osm_id": "5606757571",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Badr Wadghiri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8819663,
+                    35.7332326
+                ]
+            },
+            "properties": {
+                "osm_id": "5609842841",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Médecin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9989957,
+                    34.0395444
+                ]
+            },
+            "properties": {
+                "osm_id": "5621889902",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0004257,
+                    34.0355468
+                ]
+            },
+            "properties": {
+                "osm_id": "5621889903",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Naowar El Harnafi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0007064,
+                    34.0356649
+                ]
+            },
+            "properties": {
+                "osm_id": "5621907960",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Benkroum Hanae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0008836,
+                    34.0358086
+                ]
+            },
+            "properties": {
+                "osm_id": "5621913560",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Mohamed Boulyana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0009239,
+                    34.0358397
+                ]
+            },
+            "properties": {
+                "osm_id": "5621927528",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Salma Bencheqroun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0007274,
+                    34.0356896
+                ]
+            },
+            "properties": {
+                "osm_id": "5621982207",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "دكتورة نوال وزاني تهامي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0009243,
+                    34.0357879
+                ]
+            },
+            "properties": {
+                "osm_id": "5622344822",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Abdelhak Bouharrou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0009428,
+                    34.0357693
+                ]
+            },
+            "properties": {
+                "osm_id": "5622345425",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Mohamed Karim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0009546,
+                    34.035797
+                ]
+            },
+            "properties": {
+                "osm_id": "5622353612",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Mohamed Amine Traumatologique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0008823,
+                    34.0357853
+                ]
+            },
+            "properties": {
+                "osm_id": "5622364026",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "dr bennani fatiha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0009049,
+                    34.035785
+                ]
+            },
+            "properties": {
+                "osm_id": "5622368301",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Bhalil Salima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0009188,
+                    34.0358091
+                ]
+            },
+            "properties": {
+                "osm_id": "5622372944",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "dr nadia bensouda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.000215,
+                    34.0354397
+                ]
+            },
+            "properties": {
+                "osm_id": "5622402218",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Hakem Abdelkader"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0001735,
+                    34.0354281
+                ]
+            },
+            "properties": {
+                "osm_id": "5634754709",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "dr taoufik moumna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0002279,
+                    34.0354082
+                ]
+            },
+            "properties": {
+                "osm_id": "5634763275",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr El Asri Houda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.000263,
+                    34.0354399
+                ]
+            },
+            "properties": {
+                "osm_id": "5634784659",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Jait Driss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0002443,
+                    34.0354604
+                ]
+            },
+            "properties": {
+                "osm_id": "5634809449",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Benjelloun Marouane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9997927,
+                    34.0354754
+                ]
+            },
+            "properties": {
+                "osm_id": "5634817423",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Chraibi Youness"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9997462,
+                    34.0354822
+                ]
+            },
+            "properties": {
+                "osm_id": "5634821607",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Mohamed Bouzoubaa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9998124,
+                    34.0354664
+                ]
+            },
+            "properties": {
+                "osm_id": "5634828326",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "الدكتورة مريم الشرقي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9997775,
+                    34.0355012
+                ]
+            },
+            "properties": {
+                "osm_id": "5634836138",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Zahra Belyazid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9994518,
+                    34.0354065
+                ]
+            },
+            "properties": {
+                "osm_id": "5635134999",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Badioui Ikram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.999411,
+                    34.0353539
+                ]
+            },
+            "properties": {
+                "osm_id": "5635144656",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Ouadie Berrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995001,
+                    34.0353747
+                ]
+            },
+            "properties": {
+                "osm_id": "5635150321",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Nabil Errachidi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.999552,
+                    34.0350737
+                ]
+            },
+            "properties": {
+                "osm_id": "5635176204",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Mrabet Hafid Marakchi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995343,
+                    34.0350459
+                ]
+            },
+            "properties": {
+                "osm_id": "5635177675",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Yammouri Med Kamal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995276,
+                    34.0350326
+                ]
+            },
+            "properties": {
+                "osm_id": "5635182720",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Rtel Bennani Rajae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995681,
+                    34.035077
+                ]
+            },
+            "properties": {
+                "osm_id": "5635184296",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Rachida Belyazid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995789,
+                    34.0350559
+                ]
+            },
+            "properties": {
+                "osm_id": "5635186802",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Benjeloun Amina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995735,
+                    34.035047
+                ]
+            },
+            "properties": {
+                "osm_id": "5635195378",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Chakib Alaoui Belghiti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6231398,
+                    33.5835791
+                ]
+            },
+            "properties": {
+                "osm_id": "5636207784",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire Labomedic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995411,
+                    34.0350229
+                ]
+            },
+            "properties": {
+                "osm_id": "5637207926",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Rachida Belyazid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9994965,
+                    34.0350036
+                ]
+            },
+            "properties": {
+                "osm_id": "5637273928",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Alami Marouni Rajae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995018,
+                    34.0350382
+                ]
+            },
+            "properties": {
+                "osm_id": "5637647728",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Zakaria Saida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6409939,
+                    33.5738292
+                ]
+            },
+            "properties": {
+                "osm_id": "5640584531",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Radiologie Socrate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995307,
+                    34.0350821
+                ]
+            },
+            "properties": {
+                "osm_id": "5647463651",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR benmmansour remmal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9984122,
+                    34.0345444
+                ]
+            },
+            "properties": {
+                "osm_id": "5647505236",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Kaoutar Raiss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.998392,
+                    34.03454
+                ]
+            },
+            "properties": {
+                "osm_id": "5647509996",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Mustapha Rihani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9983759,
+                    34.0345167
+                ]
+            },
+            "properties": {
+                "osm_id": "5647513244",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Boumediene Berkhis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9984417,
+                    34.03456
+                ]
+            },
+            "properties": {
+                "osm_id": "5647515460",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Hakima Bouguerne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9983961,
+                    34.0344978
+                ]
+            },
+            "properties": {
+                "osm_id": "5647516559",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr ELAMRANI El Jalali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9984229,
+                    34.034555
+                ]
+            },
+            "properties": {
+                "osm_id": "5647520749",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Adil Bahjaoui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.607123,
+                    33.5927951
+                ]
+            },
+            "properties": {
+                "osm_id": "5657171560",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Laboratoire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6842566,
+                    33.5560678
+                ]
+            },
+            "properties": {
+                "osm_id": "5664725440",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Karimlab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9980761,
+                    34.0345821
+                ]
+            },
+            "properties": {
+                "osm_id": "5666420187",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Abdelali GUESSOUS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9984741,
+                    34.0351408
+                ]
+            },
+            "properties": {
+                "osm_id": "5666420189",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Nabil NACIRI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9985275,
+                    34.035149
+                ]
+            },
+            "properties": {
+                "osm_id": "5666463510",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "دكتور شكيب بنونة"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9985592,
+                    34.0352047
+                ]
+            },
+            "properties": {
+                "osm_id": "5666513706",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "الد كتور فاضل الميلودي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9985236,
+                    34.035226
+                ]
+            },
+            "properties": {
+                "osm_id": "5666523118",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "الدكتور عمر بنونة"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9985829,
+                    34.035185
+                ]
+            },
+            "properties": {
+                "osm_id": "5666547676",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "الدكتور عبد الغني الحريشي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.998571,
+                    34.0351654
+                ]
+            },
+            "properties": {
+                "osm_id": "5666561770",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Mohamed El Moussaoui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9975407,
+                    34.0362171
+                ]
+            },
+            "properties": {
+                "osm_id": "5666795538",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Mohamed Benjelloun TOUINI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9974968,
+                    34.0363467
+                ]
+            },
+            "properties": {
+                "osm_id": "5666808139",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Fadili Souad Lazrak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.997518,
+                    34.0363785
+                ]
+            },
+            "properties": {
+                "osm_id": "5666821956",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Siham KANDRI RODI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9975038,
+                    34.0363326
+                ]
+            },
+            "properties": {
+                "osm_id": "5666832766",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr ARROUD Mounir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9976328,
+                    34.0373106
+                ]
+            },
+            "properties": {
+                "osm_id": "5666841687",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr MEGZARI Mohyiddine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6690384,
+                    33.5626597
+                ]
+            },
+            "properties": {
+                "osm_id": "5667589092",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Duo Medical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995002,
+                    34.0369405
+                ]
+            },
+            "properties": {
+                "osm_id": "5674936553",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "دكتورة المرابطي المراكشي سلمى"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995547,
+                    34.0369706
+                ]
+            },
+            "properties": {
+                "osm_id": "5674971158",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Mohamed Daoudi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9995819,
+                    34.0369988
+                ]
+            },
+            "properties": {
+                "osm_id": "5674984018",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR SAAD IRAQI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6850874,
+                    33.5553235
+                ]
+            },
+            "properties": {
+                "osm_id": "5676427667",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Medicin Specialiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6490626,
+                    33.5385521
+                ]
+            },
+            "properties": {
+                "osm_id": "5688679204",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9994736,
+                    34.0368788
+                ]
+            },
+            "properties": {
+                "osm_id": "5699163022",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR EL KAZBANI ZOUBIDA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.869582,
+                    30.4631297
+                ]
+            },
+            "properties": {
+                "osm_id": "5732869921",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "ASSOCIATION TAROUD'HANDICP جمعية تارودانديكاب للاشخاص دوي الاحتيا"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9992326,
+                    34.0367357
+                ]
+            },
+            "properties": {
+                "osm_id": "5738877715",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR wafae Mikou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9992299,
+                    34.036714
+                ]
+            },
+            "properties": {
+                "osm_id": "5739213436",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR Najlae Malki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9992607,
+                    34.0367118
+                ]
+            },
+            "properties": {
+                "osm_id": "5739221529",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "DR Fatima Zahrae Filali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6770828,
+                    33.5791287
+                ]
+            },
+            "properties": {
+                "osm_id": "5777057353",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Дом Рисланы"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.675018,
+                    33.5722043
+                ]
+            },
+            "properties": {
+                "osm_id": "5834998786",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Hicham Taoussi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9147661,
+                    30.9242347
+                ]
+            },
+            "properties": {
+                "osm_id": "5948176485",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr. Bakoli khalil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8601827,
+                    30.4748095
+                ]
+            },
+            "properties": {
+                "osm_id": "6002715286",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "centre dialyse OASIS مركز تصفية الدم وامراض الكلى"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9742626,
+                    29.7202983
+                ]
+            },
+            "properties": {
+                "osm_id": "6149853690",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4556638,
+                    30.6935868
+                ]
+            },
+            "properties": {
+                "osm_id": "6193016785",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Cabinet Medical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4244548,
+                    32.6509994
+                ]
+            },
+            "properties": {
+                "osm_id": "6296082064",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Docteur Hind Sadiki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5910903,
+                    30.4010916
+                ]
+            },
+            "properties": {
+                "osm_id": "6341846587",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5911344,
+                    30.4113411
+                ]
+            },
+            "properties": {
+                "osm_id": "6341849287",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3758847,
+                    30.2201296
+                ]
+            },
+            "properties": {
+                "osm_id": "6413628576",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Medecin generaliste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.99708,
+                    34.0396625
+                ]
+            },
+            "properties": {
+                "osm_id": "6761479085",
+                "code": 2120,
+                "fclass": "doctors",
+                "NOM": "Dr Fatima khidraoui"
+            }
+        }
+    ]
+}

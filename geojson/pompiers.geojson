@@ -1,0 +1,36 @@
+{"type":"FeatureCollection", "features": [
+   
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-9.7643464,31.5098413]},"properties":{"ID":"n1185779511","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2012-09-25"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-8.9787044,29.719510600000003]},"properties":{"ID":"n1596279608","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2012-01-18"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.6426115,34.53495]},"properties":{"ID":"n1788464442","NATURE":"Caserne de pompiers","NOM":"Caserne Force Auxiliaire","SOURCE":"OpenStreetMap","DATE_MAJ":"2012-06-15"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-9.211371100000001,30.3965569]},"properties":{"ID":"n2388022119","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2013-07-18"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.154791,35.192306200000004]},"properties":{"ID":"n2689440045","NATURE":"Caserne de pompiers","NOM":"Caserne de pompiers","SOURCE":"OpenStreetMap","DATE_MAJ":"2014-02-25"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-1.9171627000000002,34.6907693]},"properties":{"ID":"n2918672201","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2014-06-16"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.7283961,33.3674874]},"properties":{"ID":"n3055267526","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2014-09-02"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.3718658,33.690011500000004]},"properties":{"ID":"n3126474554","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2014-10-12"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.3719283,33.689672200000004]},"properties":{"ID":"n3127662031","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2014-10-13"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.2680042,35.1679072]},"properties":{"ID":"n3773518942","NATURE":"Caserne de pompiers","NOM":"Protection civile","SOURCE":"OpenStreetMap","DATE_MAJ":"2015-10-05"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.3448571000000005,35.5763595]},"properties":{"ID":"n4015037772","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2016-03-31"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-9.524544800000001,30.3963958]},"properties":{"ID":"n4027588905","NATURE":"Caserne de pompiers","NOM":"Protection Civile","SOURCE":"OpenStreetMap","DATE_MAJ":"2016-02-26"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-7.550559000000001,33.6056898]},"properties":{"ID":"n4410641423","NATURE":"Caserne de pompiers","NOM":"Caserne pompiers Aïn Sebaâ","SOURCE":"OpenStreetMap","DATE_MAJ":"2016-09-20"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.8841247,33.976746600000006]},"properties":{"ID":"n4743522442","NATURE":"Caserne de pompiers","NOM":"Protection civile","SOURCE":"OpenStreetMap","DATE_MAJ":"2021-09-21"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-11.660902700000001,26.7401246]},"properties":{"ID":"n4879063822","NATURE":"Caserne de pompiers","NOM":"protection civile","SOURCE":"OpenStreetMap","DATE_MAJ":"2018-10-20"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.5852124000000005,34.253184700000006]},"properties":{"ID":"n4905123424","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2017-08-03"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-7.9718467,29.7380704]},"properties":{"ID":"n5304967822","NATURE":"Caserne de pompiers","NOM":"Protection Civil","SOURCE":"OpenStreetMap","DATE_MAJ":"2017-12-26"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.7442817,34.0031163]},"properties":{"ID":"n5326211024","NATURE":"Caserne de pompiers","NOM":"protection civile","SOURCE":"OpenStreetMap","DATE_MAJ":"2018-10-25"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-3.9331759,35.2486831]},"properties":{"ID":"n6572729686","NATURE":"Caserne de pompiers","NOM":"Caserne de Pompiers","SOURCE":"OpenStreetMap","DATE_MAJ":"2020-11-19"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.85653,33.990083500000004]},"properties":{"ID":"n672060540","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2010-03-22"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.7978553,35.773374600000004]},"properties":{"ID":"n6779096785","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2019-09-07"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.3450826000000005,35.5750398]},"properties":{"ID":"n6897145304","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2019-10-19"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-11.112935100000001,28.4431273]},"properties":{"ID":"n8213844835","NATURE":"Caserne de pompiers","NOM":"Protection Civile","SOURCE":"OpenStreetMap","DATE_MAJ":"2020-12-10"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5180036,33.8993757]},"properties":{"ID":"n8364875975","NATURE":"Caserne de pompiers","NOM":"Seco feu","SOURCE":"OpenStreetMap","DATE_MAJ":"2021-01-26"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-2.2193187780857597,35.084977949999995]},"properties":{"ID":"w150624738","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2016-01-23"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.269088740820569,32.59659235]},"properties":{"ID":"w186596494","NATURE":"Caserne de pompiers","NOM":"مركز الوقاية المدنية","SOURCE":"OpenStreetMap","DATE_MAJ":"2020-11-24"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.930073091082803,33.931295649999996]},"properties":{"ID":"w238114628","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2020-11-20"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.589403905851572,34.7993295]},"properties":{"ID":"w271366393","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2014-04-03"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-2.946185102845315,35.28858785]},"properties":{"ID":"w302376199","NATURE":"Caserne de pompiers","NOM":"Parque de Bomberos","SOURCE":"OpenStreetMap","DATE_MAJ":"2022-12-10"}},
+    {"type":"Feature","geometry":null,"properties":{"ID":"w320833382","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2016-01-21"}},
+    {"type":"Feature","geometry":null,"properties":{"ID":"w362655188","NATURE":"Caserne de pompiers","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2015-07-27"}}
+
+
+]}

@@ -1,0 +1,677 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8262789,
+                    33.9905823
+                ]
+            },
+            "properties": {
+                "osm_id": "512702782",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Zahwa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.989414,
+                    31.6238693
+                ]
+            },
+            "properties": {
+                "osm_id": "660578087",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinéma Mabrouka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9863024,
+                    31.6254106
+                ]
+            },
+            "properties": {
+                "osm_id": "660578121",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinéma Eden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.376424,
+                    35.5712646
+                ]
+            },
+            "properties": {
+                "osm_id": "1534865249",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinema Avenida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9338052,
+                    35.2463183
+                ]
+            },
+            "properties": {
+                "osm_id": "1582833353",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinema El kabir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0319031,
+                    35.466947
+                ]
+            },
+            "properties": {
+                "osm_id": "1686960548",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.909276,
+                    32.8784753
+                ]
+            },
+            "properties": {
+                "osm_id": "1792801725",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "cinema OCP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9974221,
+                    34.0377042
+                ]
+            },
+            "properties": {
+                "osm_id": "1866495456",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinéma Rex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8097348,
+                    35.7777785
+                ]
+            },
+            "properties": {
+                "osm_id": "1892224164",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Roxy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5927994,
+                    30.4241004
+                ]
+            },
+            "properties": {
+                "osm_id": "1910170289",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinema Sahara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5491193,
+                    33.900084
+                ]
+            },
+            "properties": {
+                "osm_id": "2437773844",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinema Camera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8352066,
+                    34.0210333
+                ]
+            },
+            "properties": {
+                "osm_id": "2447056576",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Royal Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8130683,
+                    35.7838283
+                ]
+            },
+            "properties": {
+                "osm_id": "2572753210",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinema Rif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8358991,
+                    34.0203465
+                ]
+            },
+            "properties": {
+                "osm_id": "2626897157",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "7ème Art"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1531737,
+                    35.194501
+                ]
+            },
+            "properties": {
+                "osm_id": "2693754322",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinéma Avenida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8123442,
+                    35.7789946
+                ]
+            },
+            "properties": {
+                "osm_id": "2849419565",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinema Mauritania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8130548,
+                    35.7793684
+                ]
+            },
+            "properties": {
+                "osm_id": "2849419579",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinema De Paris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8904802,
+                    34.6831558
+                ]
+            },
+            "properties": {
+                "osm_id": "2922152738",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinema Rif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9145285,
+                    34.6835682
+                ]
+            },
+            "properties": {
+                "osm_id": "2922521293",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinéma Vox"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.910283,
+                    34.6782857
+                ]
+            },
+            "properties": {
+                "osm_id": "2936165366",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinéma Nsar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9978087,
+                    34.0441838
+                ]
+            },
+            "properties": {
+                "osm_id": "2952655289",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Megerama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7890173,
+                    34.0402027
+                ]
+            },
+            "properties": {
+                "osm_id": "3220031629",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinéma Nasr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9110641,
+                    34.6822453
+                ]
+            },
+            "properties": {
+                "osm_id": "3290919630",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Al Mirage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9172013,
+                    34.6823853
+                ]
+            },
+            "properties": {
+                "osm_id": "3376766510",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinéma Royal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9161413,
+                    34.6864132
+                ]
+            },
+            "properties": {
+                "osm_id": "3389288711",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Colisée"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8371502,
+                    34.0201451
+                ]
+            },
+            "properties": {
+                "osm_id": "3413975984",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Renaissance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0152419,
+                    31.635786
+                ]
+            },
+            "properties": {
+                "osm_id": "3774988252",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Le Colisee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5544411,
+                    33.8965104
+                ]
+            },
+            "properties": {
+                "osm_id": "3799519602",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Dawliz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9923265,
+                    31.6510554
+                ]
+            },
+            "properties": {
+                "osm_id": "3857460124",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinéma Rif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3700863,
+                    35.5693754
+                ]
+            },
+            "properties": {
+                "osm_id": "4026734034",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinema Espanyol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6154398,
+                    33.5965506
+                ]
+            },
+            "properties": {
+                "osm_id": "4225753048",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinéma Rif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9950816,
+                    31.6489712
+                ]
+            },
+            "properties": {
+                "osm_id": "4496542412",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Al Massira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6336879,
+                    33.5632711
+                ]
+            },
+            "properties": {
+                "osm_id": "4600074190",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6334727,
+                    33.5634583
+                ]
+            },
+            "properties": {
+                "osm_id": "4600123089",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.633559,
+                    33.5629449
+                ]
+            },
+            "properties": {
+                "osm_id": "4600123090",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6342773,
+                    33.5633423
+                ]
+            },
+            "properties": {
+                "osm_id": "4600123189",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6339531,
+                    33.563092
+                ]
+            },
+            "properties": {
+                "osm_id": "4600123190",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.997706,
+                    34.0370483
+                ]
+            },
+            "properties": {
+                "osm_id": "4803498329",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Bijou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9951233,
+                    34.0310582
+                ]
+            },
+            "properties": {
+                "osm_id": "4954510132",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "L'arc en Ciel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.614541,
+                    33.5943859
+                ]
+            },
+            "properties": {
+                "osm_id": "5200595121",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9999787,
+                    34.0374941
+                ]
+            },
+            "properties": {
+                "osm_id": "5305312522",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "ASTOR اسطور"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9060069,
+                    34.9929417
+                ]
+            },
+            "properties": {
+                "osm_id": "6246131167",
+                "code": 2203,
+                "fclass": "cinema",
+                "NOM": "Cinéma Al Mansour"
+            }
+        }
+    ]
+}

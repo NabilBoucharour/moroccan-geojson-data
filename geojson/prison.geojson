@@ -1,0 +1,11 @@
+{"type":"FeatureCollection", "features": [
+   
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-9.7618627,31.517162900000002]},"properties":{"ID":"n1187037010","NATURE":"Etablissement pénitentiaire","NOM":"","SOURCE":"OpenStreetMap","DATE_MAJ":"2012-09-25"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.579080800000001,33.8917512]},"properties":{"ID":"n3125528299","NATURE":"Etablissement pénitentiaire","NOM":"Prison Sidi said","SOURCE":"OpenStreetMap","DATE_MAJ":"2015-02-18"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.0054939,34.0606415]},"properties":{"ID":"n4801266728","NATURE":"Etablissement pénitentiaire","NOM":"prison de ain kadouss","SOURCE":"OpenStreetMap","DATE_MAJ":"2021-11-10"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.357011900000001,35.910898200000005]},"properties":{"ID":"n5201959647","NATURE":"Etablissement pénitentiaire","NOM":"Centro de menores Punta Blanca","SOURCE":"OpenStreetMap","DATE_MAJ":"2019-11-18"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.337722100000001,32.2758398]},"properties":{"ID":"n5415959452","NATURE":"Etablissement pénitentiaire","NOM":"Tazmamart prison","SOURCE":"OpenStreetMap","DATE_MAJ":"2022-07-08"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.8640093,33.9331972]},"properties":{"ID":"n5640608329","NATURE":"Etablissement pénitentiaire","NOM":"Temara interrogation centre","SOURCE":"OpenStreetMap","DATE_MAJ":"2020-11-20"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.268919249685926,35.1709319]},"properties":{"ID":"r4075498","NATURE":"Etablissement pénitentiaire","NOM":"Prison civile","SOURCE":"OpenStreetMap","DATE_MAJ":"2015-11-21"}}
+
+]}

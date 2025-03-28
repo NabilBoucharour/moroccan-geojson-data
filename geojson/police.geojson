@@ -1,0 +1,3173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.001875,
+                    33.0453146
+                ]
+            },
+            "properties": {
+                "osm_id": "475268767",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8171303,
+                    31.696778
+                ]
+            },
+            "properties": {
+                "osm_id": "621617789",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9920243,
+                    31.6201939
+                ]
+            },
+            "properties": {
+                "osm_id": "660578079",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8490379,
+                    34.0188599
+                ]
+            },
+            "properties": {
+                "osm_id": "766697672",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "4ème arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.552833,
+                    33.8978964
+                ]
+            },
+            "properties": {
+                "osm_id": "1019122499",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Préfecture de Police de Meknès ولاية أمن مكناس"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8409712,
+                    30.3229539
+                ]
+            },
+            "properties": {
+                "osm_id": "1028395327",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4228984,
+                    35.1386907
+                ]
+            },
+            "properties": {
+                "osm_id": "1051303629",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3193113,
+                    29.9042494
+                ]
+            },
+            "properties": {
+                "osm_id": "1083594127",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.2745576,
+                    31.2795203
+                ]
+            },
+            "properties": {
+                "osm_id": "1129537754",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gerdarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9096948,
+                    30.9199162
+                ]
+            },
+            "properties": {
+                "osm_id": "1161748227",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7573188,
+                    31.5030356
+                ]
+            },
+            "properties": {
+                "osm_id": "1185745682",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Surrete National"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7613566,
+                    31.5169921
+                ]
+            },
+            "properties": {
+                "osm_id": "1187036975",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8202902,
+                    33.9393646
+                ]
+            },
+            "properties": {
+                "osm_id": "1234619331",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6935384,
+                    33.5588797
+                ]
+            },
+            "properties": {
+                "osm_id": "1307904344",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "police"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4468952,
+                    28.6161219
+                ]
+            },
+            "properties": {
+                "osm_id": "1329118965",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.2059299,
+                    31.6191517
+                ]
+            },
+            "properties": {
+                "osm_id": "1329572890",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.229515,
+                    32.2994109
+                ]
+            },
+            "properties": {
+                "osm_id": "1365511802",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "ولاية الامن و الأمان الوطني بمدينة اسفي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5970569,
+                    33.588479
+                ]
+            },
+            "properties": {
+                "osm_id": "1464579580",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3795539,
+                    35.568198
+                ]
+            },
+            "properties": {
+                "osm_id": "1512451597",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9289716,
+                    35.2393042
+                ]
+            },
+            "properties": {
+                "osm_id": "1578861285",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9290413,
+                    35.2460162
+                ]
+            },
+            "properties": {
+                "osm_id": "1578862145",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Police"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5053835,
+                    35.8844694
+                ]
+            },
+            "properties": {
+                "osm_id": "1598115722",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7430065,
+                    33.9975595
+                ]
+            },
+            "properties": {
+                "osm_id": "1632358571",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0364327,
+                    29.5799979
+                ]
+            },
+            "properties": {
+                "osm_id": "1635110398",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0351775,
+                    29.578645
+                ]
+            },
+            "properties": {
+                "osm_id": "1635110414",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2233697,
+                    33.4342938
+                ]
+            },
+            "properties": {
+                "osm_id": "1654421921",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Comissariat de Police"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8602536,
+                    33.9629702
+                ]
+            },
+            "properties": {
+                "osm_id": "1655023716",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6505991,
+                    33.4567819
+                ]
+            },
+            "properties": {
+                "osm_id": "1704747572",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "La Gendarmerie Royale de Bouskoura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8380248,
+                    30.3393781
+                ]
+            },
+            "properties": {
+                "osm_id": "1819195448",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.1727501,
+                    29.3779499
+                ]
+            },
+            "properties": {
+                "osm_id": "1834181801",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9918085,
+                    31.6336981
+                ]
+            },
+            "properties": {
+                "osm_id": "1839999805",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.6677763,
+                    34.2927668
+                ]
+            },
+            "properties": {
+                "osm_id": "1867068962",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8101103,
+                    35.7795324
+                ]
+            },
+            "properties": {
+                "osm_id": "1892224177",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.931512,
+                    23.7002346
+                ]
+            },
+            "properties": {
+                "osm_id": "1899855660",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9255847,
+                    23.7073006
+                ]
+            },
+            "properties": {
+                "osm_id": "1899928237",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Service des accidents de la circulation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.428549,
+                    29.0679809
+                ]
+            },
+            "properties": {
+                "osm_id": "2014336038",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7532898,
+                    31.5248718
+                ]
+            },
+            "properties": {
+                "osm_id": "2098704885",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7846558,
+                    34.037868
+                ]
+            },
+            "properties": {
+                "osm_id": "2114851127",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Police de Salé"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9206275,
+                    31.1372396
+                ]
+            },
+            "properties": {
+                "osm_id": "2138956999",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.262083,
+                    29.3878716
+                ]
+            },
+            "properties": {
+                "osm_id": "2310250339",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8684565,
+                    30.0717543
+                ]
+            },
+            "properties": {
+                "osm_id": "2424704242",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6142386,
+                    33.5988394
+                ]
+            },
+            "properties": {
+                "osm_id": "2429582203",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Police touristique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3942095,
+                    33.7031184
+                ]
+            },
+            "properties": {
+                "osm_id": "2436650373",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "commissariat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5990307,
+                    33.5767321
+                ]
+            },
+            "properties": {
+                "osm_id": "2551780198",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7107666,
+                    30.5451898
+                ]
+            },
+            "properties": {
+                "osm_id": "2552212017",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8951579,
+                    34.4117437
+                ]
+            },
+            "properties": {
+                "osm_id": "2637409270",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Commissariat principale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4245866,
+                    31.9328154
+                ]
+            },
+            "properties": {
+                "osm_id": "2649086494",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Commissariat de Police"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4205656,
+                    31.2300884
+                ]
+            },
+            "properties": {
+                "osm_id": "2667747603",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1540406,
+                    35.1954827
+                ]
+            },
+            "properties": {
+                "osm_id": "2689650721",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8647728,
+                    33.9817875
+                ]
+            },
+            "properties": {
+                "osm_id": "2691880379",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8350383,
+                    34.0291006
+                ]
+            },
+            "properties": {
+                "osm_id": "2834647135",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6771918,
+                    33.5919178
+                ]
+            },
+            "properties": {
+                "osm_id": "2881050315",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5276298,
+                    33.6000771
+                ]
+            },
+            "properties": {
+                "osm_id": "2892400961",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Commissariat de Aïn Sebaa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.914426,
+                    34.7032871
+                ]
+            },
+            "properties": {
+                "osm_id": "2951560140",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "5ème Arrondissement الدائرة الخامسة"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9834991,
+                    34.0589576
+                ]
+            },
+            "properties": {
+                "osm_id": "2952710105",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Poste Police fajjaline مخفر الشرطة المجالين"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9989537,
+                    34.0406232
+                ]
+            },
+            "properties": {
+                "osm_id": "2952723853",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Poste de Police"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.7299597,
+                    33.3676901
+                ]
+            },
+            "properties": {
+                "osm_id": "3055262843",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.61552,
+                    33.5729086
+                ]
+            },
+            "properties": {
+                "osm_id": "3060946333",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale (2 mars)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6238452,
+                    33.5854301
+                ]
+            },
+            "properties": {
+                "osm_id": "3061106227",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Commandement Régional de la Gendarmerie Royale de Casablanca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0167379,
+                    31.6727612
+                ]
+            },
+            "properties": {
+                "osm_id": "3070603800",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2657278,
+                    32.599726
+                ]
+            },
+            "properties": {
+                "osm_id": "3099977279",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "الدرك الملكي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5621579,
+                    33.8799572
+                ]
+            },
+            "properties": {
+                "osm_id": "3125503921",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5653526,
+                    33.8921482
+                ]
+            },
+            "properties": {
+                "osm_id": "3125610717",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3727256,
+                    33.6854959
+                ]
+            },
+            "properties": {
+                "osm_id": "3126566798",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6870563,
+                    32.5044345
+                ]
+            },
+            "properties": {
+                "osm_id": "3161738233",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4799925,
+                    30.635606
+                ]
+            },
+            "properties": {
+                "osm_id": "3164330140",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2441684,
+                    31.5884792
+                ]
+            },
+            "properties": {
+                "osm_id": "3207197304",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5392271,
+                    33.887155
+                ]
+            },
+            "properties": {
+                "osm_id": "3214364709",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5853069,
+                    33.8950069
+                ]
+            },
+            "properties": {
+                "osm_id": "3215158434",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "6 eme arrondissement de police"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3356753,
+                    30.4982433
+                ]
+            },
+            "properties": {
+                "osm_id": "3227730134",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9018217,
+                    34.6851893
+                ]
+            },
+            "properties": {
+                "osm_id": "3237335102",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "8ème Arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8897196,
+                    34.6798362
+                ]
+            },
+            "properties": {
+                "osm_id": "3237337825",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "13ème Arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9001534,
+                    34.6824389
+                ]
+            },
+            "properties": {
+                "osm_id": "3237344062",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "4ème Arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9094821,
+                    34.6822294
+                ]
+            },
+            "properties": {
+                "osm_id": "3237347068",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "2ème Arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9225391,
+                    34.6794789
+                ]
+            },
+            "properties": {
+                "osm_id": "3237355822",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "1ère Arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9066256,
+                    34.6861465
+                ]
+            },
+            "properties": {
+                "osm_id": "3237358453",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "2ème Arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9214823,
+                    34.7035088
+                ]
+            },
+            "properties": {
+                "osm_id": "3237361746",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9192212,
+                    34.6877025
+                ]
+            },
+            "properties": {
+                "osm_id": "3237367537",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "3ème Arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9303792,
+                    34.6624141
+                ]
+            },
+            "properties": {
+                "osm_id": "3246338608",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "17ème Arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8681751,
+                    34.6641273
+                ]
+            },
+            "properties": {
+                "osm_id": "3258650989",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "16ème Arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8673445,
+                    34.6668888
+                ]
+            },
+            "properties": {
+                "osm_id": "3258653646",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "15ème Arrondissement الدائرة الخامسة عشرة"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9197716,
+                    34.6924694
+                ]
+            },
+            "properties": {
+                "osm_id": "3265709535",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "7ème Arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5706873,
+                    33.8882374
+                ]
+            },
+            "properties": {
+                "osm_id": "3339360357",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7985009,
+                    31.3558534
+                ]
+            },
+            "properties": {
+                "osm_id": "3381143364",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5777579,
+                    33.8841877
+                ]
+            },
+            "properties": {
+                "osm_id": "3390684808",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "police"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.620645,
+                    33.5894302
+                ]
+            },
+            "properties": {
+                "osm_id": "3484535925",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0571515,
+                    33.8675134
+                ]
+            },
+            "properties": {
+                "osm_id": "3562800746",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3487104,
+                    34.2260695
+                ]
+            },
+            "properties": {
+                "osm_id": "3613067149",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Commissariat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6544034,
+                    32.3431581
+                ]
+            },
+            "properties": {
+                "osm_id": "3622607747",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "gendarmerie royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9193287,
+                    34.6578944
+                ]
+            },
+            "properties": {
+                "osm_id": "3635457530",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8069123,
+                    35.7884263
+                ]
+            },
+            "properties": {
+                "osm_id": "3650916608",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "District de Police Le Port"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.1115704,
+                    33.5286384
+                ]
+            },
+            "properties": {
+                "osm_id": "3680482103",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.989927,
+                    31.6260266
+                ]
+            },
+            "properties": {
+                "osm_id": "3733264424",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Police: Brigade Touristique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2492074,
+                    32.2570484
+                ]
+            },
+            "properties": {
+                "osm_id": "3741138039",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2682558,
+                    35.1697108
+                ]
+            },
+            "properties": {
+                "osm_id": "3775325873",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Sureté Nationale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.275278,
+                    35.1677506
+                ]
+            },
+            "properties": {
+                "osm_id": "3808783201",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Police"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5380359,
+                    31.5092595
+                ]
+            },
+            "properties": {
+                "osm_id": "3814736799",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5334948,
+                    30.3715605
+                ]
+            },
+            "properties": {
+                "osm_id": "3853343183",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "الشرطة القضائية"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5477802,
+                    30.3705676
+                ]
+            },
+            "properties": {
+                "osm_id": "3853343184",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "2ème arrondissement المقاطعة الثانية"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5902108,
+                    30.4308247
+                ]
+            },
+            "properties": {
+                "osm_id": "3861737100",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.391118,
+                    33.701088
+                ]
+            },
+            "properties": {
+                "osm_id": "3935696228",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "gendarmerie royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3404855,
+                    33.6837378
+                ]
+            },
+            "properties": {
+                "osm_id": "3938222141",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "gendarmerie royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9245339,
+                    30.5312517
+                ]
+            },
+            "properties": {
+                "osm_id": "3983896831",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9108778,
+                    32.8786664
+                ]
+            },
+            "properties": {
+                "osm_id": "4034006545",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3375959,
+                    35.8852562
+                ]
+            },
+            "properties": {
+                "osm_id": "4150049217",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Policía Nacional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3121796,
+                    35.8866722
+                ]
+            },
+            "properties": {
+                "osm_id": "4150049222",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Comisaría Policía Nacional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2825297,
+                    34.8786347
+                ]
+            },
+            "properties": {
+                "osm_id": "4160843989",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3379806,
+                    34.9217601
+                ]
+            },
+            "properties": {
+                "osm_id": "4187945729",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2900216,
+                    34.8760786
+                ]
+            },
+            "properties": {
+                "osm_id": "4200117393",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8379727,
+                    34.0223278
+                ]
+            },
+            "properties": {
+                "osm_id": "4212562392",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6313257,
+                    32.1562177
+                ]
+            },
+            "properties": {
+                "osm_id": "4219953980",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3603729,
+                    32.3290519
+                ]
+            },
+            "properties": {
+                "osm_id": "4230383032",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Service Permanence"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5272878,
+                    32.7425451
+                ]
+            },
+            "properties": {
+                "osm_id": "4230997694",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8402392,
+                    34.7873672
+                ]
+            },
+            "properties": {
+                "osm_id": "4253248810",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Frontière Algéro-Marocaine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.8790689,
+                    28.1753657
+                ]
+            },
+            "properties": {
+                "osm_id": "4329809600",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Check-Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.173831,
+                    27.1948795
+                ]
+            },
+            "properties": {
+                "osm_id": "4329811704",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Check-Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.492183,
+                    33.6023818
+                ]
+            },
+            "properties": {
+                "osm_id": "4345968690",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "commisariat azhar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3822156,
+                    35.9114632
+                ]
+            },
+            "properties": {
+                "osm_id": "4403263422",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9089243,
+                    34.6983718
+                ]
+            },
+            "properties": {
+                "osm_id": "4426453132",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "5ème Arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9045235,
+                    34.6654624
+                ]
+            },
+            "properties": {
+                "osm_id": "4428587994",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "4ème Arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.1641638,
+                    30.1563473
+                ]
+            },
+            "properties": {
+                "osm_id": "4430990293",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9894019,
+                    31.6213417
+                ]
+            },
+            "properties": {
+                "osm_id": "4467538900",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Grands Taxis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0330655,
+                    35.4679462
+                ]
+            },
+            "properties": {
+                "osm_id": "4476545188",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Comisaria de policia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5043647,
+                    30.3370911
+                ]
+            },
+            "properties": {
+                "osm_id": "4493314491",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8938821,
+                    34.7188156
+                ]
+            },
+            "properties": {
+                "osm_id": "4504215280",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "11ème Arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.620406,
+                    32.9950452
+                ]
+            },
+            "properties": {
+                "osm_id": "4538659197",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6183582,
+                    33.0014035
+                ]
+            },
+            "properties": {
+                "osm_id": "4540169481",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1009778,
+                    34.9723703
+                ]
+            },
+            "properties": {
+                "osm_id": "4582617193",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "الدرك"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4971318,
+                    32.2602236
+                ]
+            },
+            "properties": {
+                "osm_id": "4639676492",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "مخفر الشرطة"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0527129,
+                    28.9934839
+                ]
+            },
+            "properties": {
+                "osm_id": "4660452690",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie royale الدرك الملكي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8233072,
+                    35.7638477
+                ]
+            },
+            "properties": {
+                "osm_id": "4693392020",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5183795,
+                    33.104837
+                ]
+            },
+            "properties": {
+                "osm_id": "4721066742",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "ANP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5595554,
+                    33.1470012
+                ]
+            },
+            "properties": {
+                "osm_id": "4721066753",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "ANP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5732817,
+                    33.1681231
+                ]
+            },
+            "properties": {
+                "osm_id": "4721066758",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "ANP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5978368,
+                    33.209658
+                ]
+            },
+            "properties": {
+                "osm_id": "4721066763",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6284323,
+                    33.235447
+                ]
+            },
+            "properties": {
+                "osm_id": "4721066772",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "ANP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.1744761,
+                    34.088969
+                ]
+            },
+            "properties": {
+                "osm_id": "4771617152",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.2366528,
+                    22.6294795
+                ]
+            },
+            "properties": {
+                "osm_id": "4793068623",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.09275,
+                    22.3651478
+                ]
+            },
+            "properties": {
+                "osm_id": "4793068624",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7979674,
+                    35.7469772
+                ]
+            },
+            "properties": {
+                "osm_id": "4793814224",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "الامن الوطني"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.616536,
+                    34.2554085
+                ]
+            },
+            "properties": {
+                "osm_id": "4809646244",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "4ème Arrondissement Police"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6186968,
+                    34.2621968
+                ]
+            },
+            "properties": {
+                "osm_id": "4809668140",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "5ème Arrondissement de police"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7900434,
+                    35.7582629
+                ]
+            },
+            "properties": {
+                "osm_id": "4809679378",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8544185,
+                    35.7545083
+                ]
+            },
+            "properties": {
+                "osm_id": "4809690398",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.83395,
+                    35.7662259
+                ]
+            },
+            "properties": {
+                "osm_id": "4809763489",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8152995,
+                    35.7673123
+                ]
+            },
+            "properties": {
+                "osm_id": "4809766765",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5596324,
+                    34.2532453
+                ]
+            },
+            "properties": {
+                "osm_id": "4809806021",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9880606,
+                    31.620632
+                ]
+            },
+            "properties": {
+                "osm_id": "4831510073",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Commissariat du 4eme arrondissement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9386018,
+                    34.2641175
+                ]
+            },
+            "properties": {
+                "osm_id": "4850455026",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.969078,
+                    31.3669649
+                ]
+            },
+            "properties": {
+                "osm_id": "4851290027",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0326241,
+                    31.5957338
+                ]
+            },
+            "properties": {
+                "osm_id": "4874992021",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Police Circuit 10 الشرطة الدائرة"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5860245,
+                    34.2539505
+                ]
+            },
+            "properties": {
+                "osm_id": "4905123423",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Brigade de La Gendarmerie Royale الدرك الملكي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6355749,
+                    33.5250976
+                ]
+            },
+            "properties": {
+                "osm_id": "4930339421",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Radar fix"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5886802,
+                    33.5422067
+                ]
+            },
+            "properties": {
+                "osm_id": "4962871421",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Préfecture de Police"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.490367,
+                    33.9104147
+                ]
+            },
+            "properties": {
+                "osm_id": "4978171842",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.6584381,
+                    30.447679
+                ]
+            },
+            "properties": {
+                "osm_id": "4990028224",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.557753,
+                    34.2587487
+                ]
+            },
+            "properties": {
+                "osm_id": "5003854060",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5938845,
+                    33.5409204
+                ]
+            },
+            "properties": {
+                "osm_id": "5043935422",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "commissariat de police ain chock مخفر الشرطة عين الشق"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9075921,
+                    34.9975127
+                ]
+            },
+            "properties": {
+                "osm_id": "5077982401",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Commissariat de police"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5397294,
+                    34.2413283
+                ]
+            },
+            "properties": {
+                "osm_id": "5085546046",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "ème Arrondissement de Police الدائرة التاسعة للشرطة"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3214424,
+                    35.6810684
+                ]
+            },
+            "properties": {
+                "osm_id": "5176607415",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.778478,
+                    34.0799643
+                ]
+            },
+            "properties": {
+                "osm_id": "5195087422",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "ECOLE DE POLICE BOUKNADEL مدرسة الشرطة بوقنادل"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9922442,
+                    33.046515
+                ]
+            },
+            "properties": {
+                "osm_id": "5214920489",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.280355,
+                    33.9925623
+                ]
+            },
+            "properties": {
+                "osm_id": "5215009123",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4516877,
+                    30.6940107
+                ]
+            },
+            "properties": {
+                "osm_id": "5245960243",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8624589,
+                    34.7074619
+                ]
+            },
+            "properties": {
+                "osm_id": "5248231121",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8258543,
+                    29.8033418
+                ]
+            },
+            "properties": {
+                "osm_id": "5277827246",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.0871711,
+                    28.4343528
+                ]
+            },
+            "properties": {
+                "osm_id": "5286730903",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.168182,
+                    28.9944187
+                ]
+            },
+            "properties": {
+                "osm_id": "5286732276",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.9276322,
+                    27.9374619
+                ]
+            },
+            "properties": {
+                "osm_id": "5292017249",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9265253,
+                    23.706497
+                ]
+            },
+            "properties": {
+                "osm_id": "5302329613",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.7503501,
+                    22.0532025
+                ]
+            },
+            "properties": {
+                "osm_id": "5322103367",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.1782871,
+                    27.1325924
+                ]
+            },
+            "properties": {
+                "osm_id": "5355913242",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2399681,
+                    33.0665969
+                ]
+            },
+            "properties": {
+                "osm_id": "5497813607",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8649148,
+                    30.0517811
+                ]
+            },
+            "properties": {
+                "osm_id": "5499881423",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9756572,
+                    29.721653
+                ]
+            },
+            "properties": {
+                "osm_id": "5544896968",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale de Tafraout"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8035598,
+                    35.7634123
+                ]
+            },
+            "properties": {
+                "osm_id": "5620338051",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5701025,
+                    32.8591105
+                ]
+            },
+            "properties": {
+                "osm_id": "5646591491",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6147646,
+                    33.5955571
+                ]
+            },
+            "properties": {
+                "osm_id": "5657171547",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0430643,
+                    33.663075
+                ]
+            },
+            "properties": {
+                "osm_id": "5811936153",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie Royale الدرك الملكي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0009418,
+                    33.9782244
+                ]
+            },
+            "properties": {
+                "osm_id": "5811994554",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3124836,
+                    33.8917868
+                ]
+            },
+            "properties": {
+                "osm_id": "5842539686",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5693719,
+                    33.8953529
+                ]
+            },
+            "properties": {
+                "osm_id": "5887344988",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "police station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7322655,
+                    29.697571
+                ]
+            },
+            "properties": {
+                "osm_id": "6116779386",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.2053378,
+                    27.162586
+                ]
+            },
+            "properties": {
+                "osm_id": "6128194590",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2223225,
+                    33.3806881
+                ]
+            },
+            "properties": {
+                "osm_id": "6135950763",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5497915,
+                    30.4070207
+                ]
+            },
+            "properties": {
+                "osm_id": "6174963084",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9886129,
+                    33.9075309
+                ]
+            },
+            "properties": {
+                "osm_id": "6213065846",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Police Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9044732,
+                    23.7736528
+                ]
+            },
+            "properties": {
+                "osm_id": "6319179686",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8840197,
+                    30.473361
+                ]
+            },
+            "properties": {
+                "osm_id": "6385781488",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "مركز الشرطة"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8678695,
+                    30.473524
+                ]
+            },
+            "properties": {
+                "osm_id": "6385794687",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "مركز الشرطة"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3635461,
+                    32.1562701
+                ]
+            },
+            "properties": {
+                "osm_id": "6411871086",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Gendarmerie royale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3800797,
+                    30.2171721
+                ]
+            },
+            "properties": {
+                "osm_id": "6413589123",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Police Office"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9553502,
+                    34.5738628
+                ]
+            },
+            "properties": {
+                "osm_id": "6515723775",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2107479,
+                    32.0300574
+                ]
+            },
+            "properties": {
+                "osm_id": "6550911987",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1465707,
+                    31.8013534
+                ]
+            },
+            "properties": {
+                "osm_id": "6551037196",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6453333,
+                    33.5149902
+                ]
+            },
+            "properties": {
+                "osm_id": "6593222261",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5442531,
+                    33.8965397
+                ]
+            },
+            "properties": {
+                "osm_id": "6606148537",
+                "code": 2001,
+                "fclass": "police",
+                "NOM": "Police Station"
+            }
+        }
+    ]
+}

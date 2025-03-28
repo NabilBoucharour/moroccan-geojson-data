@@ -1,0 +1,6229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9383729,
+                    35.2868723
+                ]
+            },
+            "properties": {
+                "osm_id": "370356274",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supersol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8534265,
+                    33.9540447
+                ]
+            },
+            "properties": {
+                "osm_id": "410950648",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane Hay Ryad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8287801,
+                    33.9821138
+                ]
+            },
+            "properties": {
+                "osm_id": "412406335",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Label'Vie Souissi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9153371,
+                    30.9202087
+                ]
+            },
+            "properties": {
+                "osm_id": "439425013",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8695243,
+                    33.9482419
+                ]
+            },
+            "properties": {
+                "osm_id": "444352379",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Asswak Assalam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5809736,
+                    33.8544972
+                ]
+            },
+            "properties": {
+                "osm_id": "544024776",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0061987,
+                    34.2256209
+                ]
+            },
+            "properties": {
+                "osm_id": "548818920",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8872242,
+                    35.7278021
+                ]
+            },
+            "properties": {
+                "osm_id": "552414449",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Metro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8742949,
+                    35.7379579
+                ]
+            },
+            "properties": {
+                "osm_id": "552425266",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Aswak Assalam أسواق السلام"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8448104,
+                    35.7462167
+                ]
+            },
+            "properties": {
+                "osm_id": "552446725",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane Tanger Madina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6404008,
+                    33.5446668
+                ]
+            },
+            "properties": {
+                "osm_id": "553212547",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane Californie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3344705,
+                    35.6025334
+                ]
+            },
+            "properties": {
+                "osm_id": "656522401",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0123764,
+                    31.6327017
+                ]
+            },
+            "properties": {
+                "osm_id": "704482535",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Yochkad Supermarché"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0179297,
+                    31.6371714
+                ]
+            },
+            "properties": {
+                "osm_id": "721257902",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9863483,
+                    31.592773
+                ]
+            },
+            "properties": {
+                "osm_id": "722428012",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7540778,
+                    31.5245916
+                ]
+            },
+            "properties": {
+                "osm_id": "800917204",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Aswak Assalam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4966288,
+                    33.2398086
+                ]
+            },
+            "properties": {
+                "osm_id": "967188133",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Label Vie careffour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4240048,
+                    35.1416889
+                ]
+            },
+            "properties": {
+                "osm_id": "1051282123",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4244256,
+                    35.1376345
+                ]
+            },
+            "properties": {
+                "osm_id": "1051303625",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Souk سوق"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3194651,
+                    35.8911805
+                ]
+            },
+            "properties": {
+                "osm_id": "1078624665",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Super Sol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3189098,
+                    35.8910582
+                ]
+            },
+            "properties": {
+                "osm_id": "1078624684",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Lidl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.6719074,
+                    30.4973074
+                ]
+            },
+            "properties": {
+                "osm_id": "1083412633",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7588506,
+                    31.5031204
+                ]
+            },
+            "properties": {
+                "osm_id": "1169806838",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Superette Fath"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7587833,
+                    31.5037401
+                ]
+            },
+            "properties": {
+                "osm_id": "1169838109",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Mogador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5411113,
+                    31.5815244
+                ]
+            },
+            "properties": {
+                "osm_id": "1185669792",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.829167,
+                    33.9743044
+                ]
+            },
+            "properties": {
+                "osm_id": "1234613141",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Gourmet Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2266006,
+                    32.2884173
+                ]
+            },
+            "properties": {
+                "osm_id": "1342152964",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "asima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8952572,
+                    30.441989
+                ]
+            },
+            "properties": {
+                "osm_id": "1432504240",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Souk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.595292,
+                    33.5945384
+                ]
+            },
+            "properties": {
+                "osm_id": "1464579577",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7331765,
+                    34.9425562
+                ]
+            },
+            "properties": {
+                "osm_id": "1578439293",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "mercadilo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7418478,
+                    33.9961674
+                ]
+            },
+            "properties": {
+                "osm_id": "1631825413",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.744927,
+                    33.9993206
+                ]
+            },
+            "properties": {
+                "osm_id": "1631825484",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marché Central"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9973076,
+                    31.6360735
+                ]
+            },
+            "properties": {
+                "osm_id": "1719759140",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0025701,
+                    31.6285279
+                ]
+            },
+            "properties": {
+                "osm_id": "1724623329",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5133281,
+                    33.2434588
+                ]
+            },
+            "properties": {
+                "osm_id": "1787451905",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.6376697,
+                    34.5372741
+                ]
+            },
+            "properties": {
+                "osm_id": "1787586956",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9259893,
+                    35.1223661
+                ]
+            },
+            "properties": {
+                "osm_id": "1797746480",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0003316,
+                    31.6365412
+                ]
+            },
+            "properties": {
+                "osm_id": "1813212768",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Aswak Assalam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8386523,
+                    30.3291937
+                ]
+            },
+            "properties": {
+                "osm_id": "1819195180",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marché"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7081046,
+                    33.5746919
+                ]
+            },
+            "properties": {
+                "osm_id": "1848408214",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6741813,
+                    33.5771567
+                ]
+            },
+            "properties": {
+                "osm_id": "1848525532",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Label vie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0046161,
+                    34.0449051
+                ]
+            },
+            "properties": {
+                "osm_id": "1851617466",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché Ait El Kadi Said"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8076361,
+                    35.7723611
+                ]
+            },
+            "properties": {
+                "osm_id": "1855116478",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché Al Baraka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6393035,
+                    33.587934
+                ]
+            },
+            "properties": {
+                "osm_id": "1867124354",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché Mamoun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5909197,
+                    30.4328818
+                ]
+            },
+            "properties": {
+                "osm_id": "1871529511",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5925047,
+                    30.4259826
+                ]
+            },
+            "properties": {
+                "osm_id": "1871529514",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour market Label'vie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0003296,
+                    31.6364924
+                ]
+            },
+            "properties": {
+                "osm_id": "1872761933",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Aswak Assalam اسواق السالم"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8519558,
+                    34.0023902
+                ]
+            },
+            "properties": {
+                "osm_id": "1881124839",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3605655,
+                    32.3438577
+                ]
+            },
+            "properties": {
+                "osm_id": "1976902364",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9976204,
+                    34.0221396
+                ]
+            },
+            "properties": {
+                "osm_id": "2001346342",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market Label'Vie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.013255,
+                    31.6677964
+                ]
+            },
+            "properties": {
+                "osm_id": "2090086983",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane Supermarche مرجان سوق ممتاز"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7266408,
+                    29.6927387
+                ]
+            },
+            "properties": {
+                "osm_id": "2148130928",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6515832,
+                    33.5946995
+                ]
+            },
+            "properties": {
+                "osm_id": "2156197334",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima Riad Anfa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6461785,
+                    33.5908294
+                ]
+            },
+            "properties": {
+                "osm_id": "2156197358",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.384937,
+                    35.5695507
+                ]
+            },
+            "properties": {
+                "osm_id": "2192541808",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché Hamama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9291911,
+                    33.9297734
+                ]
+            },
+            "properties": {
+                "osm_id": "2215170178",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8660349,
+                    35.1738871
+                ]
+            },
+            "properties": {
+                "osm_id": "2308128793",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "super marcher"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9861108,
+                    34.0471687
+                ]
+            },
+            "properties": {
+                "osm_id": "2344700651",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour كارفور"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5788395,
+                    33.6022232
+                ]
+            },
+            "properties": {
+                "osm_id": "2349795861",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hachmi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6644676,
+                    33.5981369
+                ]
+            },
+            "properties": {
+                "osm_id": "2382130572",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8500199,
+                    34.0057026
+                ]
+            },
+            "properties": {
+                "osm_id": "2423326864",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5492651,
+                    33.8604222
+                ]
+            },
+            "properties": {
+                "osm_id": "2434430011",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3987715,
+                    33.7074202
+                ]
+            },
+            "properties": {
+                "osm_id": "2436624381",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Poisson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3884825,
+                    33.6896168
+                ]
+            },
+            "properties": {
+                "osm_id": "2438751618",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché EL Alia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3476433,
+                    33.7077034
+                ]
+            },
+            "properties": {
+                "osm_id": "2438952410",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché Marjane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3493895,
+                    33.7082803
+                ]
+            },
+            "properties": {
+                "osm_id": "2438952411",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Electroplanet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.400183,
+                    33.6882831
+                ]
+            },
+            "properties": {
+                "osm_id": "2438962860",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Aswak assalam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9481251,
+                    33.9315538
+                ]
+            },
+            "properties": {
+                "osm_id": "2464100649",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Chez Brahim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.20863,
+                    34.3665361
+                ]
+            },
+            "properties": {
+                "osm_id": "2509152298",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2107283,
+                    34.3651544
+                ]
+            },
+            "properties": {
+                "osm_id": "2509154051",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hanut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2106049,
+                    34.3645588
+                ]
+            },
+            "properties": {
+                "osm_id": "2509154233",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hanut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2095172,
+                    34.3643924
+                ]
+            },
+            "properties": {
+                "osm_id": "2509226462",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hanut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2104181,
+                    34.3646898
+                ]
+            },
+            "properties": {
+                "osm_id": "2509232549",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hanut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2119089,
+                    34.3690789
+                ]
+            },
+            "properties": {
+                "osm_id": "2509626502",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hanut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2104471,
+                    34.3647768
+                ]
+            },
+            "properties": {
+                "osm_id": "2509626504",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hanut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2119354,
+                    34.369196
+                ]
+            },
+            "properties": {
+                "osm_id": "2509638399",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hanut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2124961,
+                    34.36939
+                ]
+            },
+            "properties": {
+                "osm_id": "2509641594",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hanut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2124383,
+                    34.3685834
+                ]
+            },
+            "properties": {
+                "osm_id": "2509645461",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hanut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2127776,
+                    34.3686864
+                ]
+            },
+            "properties": {
+                "osm_id": "2509656866",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "pharmacie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2120698,
+                    34.3691917
+                ]
+            },
+            "properties": {
+                "osm_id": "2509667791",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hanut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2132336,
+                    34.3566599
+                ]
+            },
+            "properties": {
+                "osm_id": "2509670516",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hanut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8270774,
+                    34.0211216
+                ]
+            },
+            "properties": {
+                "osm_id": "2585678371",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4257737,
+                    31.9312277
+                ]
+            },
+            "properties": {
+                "osm_id": "2649087074",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.555968,
+                    33.5640326
+                ]
+            },
+            "properties": {
+                "osm_id": "2694336684",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3127805,
+                    30.7177199
+                ]
+            },
+            "properties": {
+                "osm_id": "2696577198",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6407794,
+                    33.5801558
+                ]
+            },
+            "properties": {
+                "osm_id": "2711741036",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6346254,
+                    33.5972247
+                ]
+            },
+            "properties": {
+                "osm_id": "2714699192",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8875935,
+                    35.7276626
+                ]
+            },
+            "properties": {
+                "osm_id": "2792001104",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bricoma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8200605,
+                    35.7802824
+                ]
+            },
+            "properties": {
+                "osm_id": "2849460568",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarche Oasis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8228213,
+                    35.7812474
+                ]
+            },
+            "properties": {
+                "osm_id": "2873733134",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6384408,
+                    33.5918499
+                ]
+            },
+            "properties": {
+                "osm_id": "2879158742",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Libre Service ZAKI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6346726,
+                    33.6014315
+                ]
+            },
+            "properties": {
+                "osm_id": "2881796420",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.531687,
+                    33.595682
+                ]
+            },
+            "properties": {
+                "osm_id": "2892372049",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane Aïn Sebaa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.632989,
+                    33.601049
+                ]
+            },
+            "properties": {
+                "osm_id": "2895214170",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6198771,
+                    33.5730326
+                ]
+            },
+            "properties": {
+                "osm_id": "2902579299",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6201882,
+                    33.5729969
+                ]
+            },
+            "properties": {
+                "osm_id": "2902579300",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6564955,
+                    33.5733212
+                ]
+            },
+            "properties": {
+                "osm_id": "2903614171",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "O'self"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6556158,
+                    33.5737413
+                ]
+            },
+            "properties": {
+                "osm_id": "2903614179",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Tropy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6517909,
+                    33.5708852
+                ]
+            },
+            "properties": {
+                "osm_id": "2903614192",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8145701,
+                    35.787731
+                ]
+            },
+            "properties": {
+                "osm_id": "2907705738",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Vegetable Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7952921,
+                    35.7739257
+                ]
+            },
+            "properties": {
+                "osm_id": "2909973055",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarche Centro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0111884,
+                    31.6350725
+                ]
+            },
+            "properties": {
+                "osm_id": "2916438647",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5364175,
+                    34.9374227
+                ]
+            },
+            "properties": {
+                "osm_id": "3024616196",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Mini Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5343687,
+                    34.9394563
+                ]
+            },
+            "properties": {
+                "osm_id": "3024988966",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5342675,
+                    34.9392377
+                ]
+            },
+            "properties": {
+                "osm_id": "3024989416",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5362458,
+                    34.9373513
+                ]
+            },
+            "properties": {
+                "osm_id": "3025086919",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "service climatiseur et réparer des réfrigérateurs et machine à lave بيع وتركيب المك"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6412286,
+                    33.5879874
+                ]
+            },
+            "properties": {
+                "osm_id": "3091356738",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Diabètic Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9474039,
+                    35.2899686
+                ]
+            },
+            "properties": {
+                "osm_id": "3092125735",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "SUMA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9471694,
+                    35.2929237
+                ]
+            },
+            "properties": {
+                "osm_id": "3092337348",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "La Fuente"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.946649,
+                    35.2928229
+                ]
+            },
+            "properties": {
+                "osm_id": "3092340081",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Al Día"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0592869,
+                    31.6502288
+                ]
+            },
+            "properties": {
+                "osm_id": "3206573866",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Futur Magasin Carrefour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.107446,
+                    33.5289475
+                ]
+            },
+            "properties": {
+                "osm_id": "3206574966",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Akhawain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9075289,
+                    32.4985018
+                ]
+            },
+            "properties": {
+                "osm_id": "3214364739",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Super Marche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.559864,
+                    33.557744
+                ]
+            },
+            "properties": {
+                "osm_id": "3220291686",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.596623,
+                    33.5835673
+                ]
+            },
+            "properties": {
+                "osm_id": "3221061261",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Protectron Maroc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5826163,
+                    33.5841994
+                ]
+            },
+            "properties": {
+                "osm_id": "3228678356",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarche Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.625044,
+                    33.5937829
+                ]
+            },
+            "properties": {
+                "osm_id": "3229703457",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9713923,
+                    33.915668
+                ]
+            },
+            "properties": {
+                "osm_id": "3235459669",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "manar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7417371,
+                    33.9997046
+                ]
+            },
+            "properties": {
+                "osm_id": "3266672976",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3666335,
+                    32.3301389
+                ]
+            },
+            "properties": {
+                "osm_id": "3302310161",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "supermarché Acima."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.2340182,
+                    27.1516869
+                ]
+            },
+            "properties": {
+                "osm_id": "3348552201",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Samir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6245392,
+                    33.5941122
+                ]
+            },
+            "properties": {
+                "osm_id": "3359696119",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8284878,
+                    34.0147107
+                ]
+            },
+            "properties": {
+                "osm_id": "3400366901",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8298601,
+                    34.0202727
+                ]
+            },
+            "properties": {
+                "osm_id": "3410378295",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Ahlen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4535362,
+                    31.9311489
+                ]
+            },
+            "properties": {
+                "osm_id": "3438945698",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.7314555,
+                    32.6775886
+                ]
+            },
+            "properties": {
+                "osm_id": "3439010965",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.628286,
+                    33.5957829
+                ]
+            },
+            "properties": {
+                "osm_id": "3602074169",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6294045,
+                    33.597148
+                ]
+            },
+            "properties": {
+                "osm_id": "3602074170",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Label' Vie Carrefour Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6156344,
+                    33.5761212
+                ]
+            },
+            "properties": {
+                "osm_id": "3639392309",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima Mers Sultan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8080458,
+                    35.7791195
+                ]
+            },
+            "properties": {
+                "osm_id": "3646798943",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8057198,
+                    35.775457
+                ]
+            },
+            "properties": {
+                "osm_id": "3656277867",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima (Super Marche)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5345358,
+                    34.938323
+                ]
+            },
+            "properties": {
+                "osm_id": "3683137031",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5343681,
+                    34.9378022
+                ]
+            },
+            "properties": {
+                "osm_id": "3683145602",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8424751,
+                    34.0210377
+                ]
+            },
+            "properties": {
+                "osm_id": "3700915095",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Express"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0971672,
+                    34.9514504
+                ]
+            },
+            "properties": {
+                "osm_id": "3704562204",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "9achla electro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.849296,
+                    34.0000652
+                ]
+            },
+            "properties": {
+                "osm_id": "3705812383",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9206134,
+                    31.1365537
+                ]
+            },
+            "properties": {
+                "osm_id": "3731023754",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Guide De Montagne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2477459,
+                    32.2630429
+                ]
+            },
+            "properties": {
+                "osm_id": "3740764744",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "el omari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3440724,
+                    34.919552
+                ]
+            },
+            "properties": {
+                "osm_id": "3750347733",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane مرجان"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8261893,
+                    34.0214688
+                ]
+            },
+            "properties": {
+                "osm_id": "3780664457",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5928561,
+                    33.5808385
+                ]
+            },
+            "properties": {
+                "osm_id": "3788381533",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Aswak Assalam اسواق السلام"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5360114,
+                    31.5175443
+                ]
+            },
+            "properties": {
+                "osm_id": "3811978655",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Aswak Tinghir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7519461,
+                    31.4954028
+                ]
+            },
+            "properties": {
+                "osm_id": "3902690690",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour كارفور"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.37293,
+                    33.6849709
+                ]
+            },
+            "properties": {
+                "osm_id": "3908234060",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3844652,
+                    33.6927071
+                ]
+            },
+            "properties": {
+                "osm_id": "3908234063",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3801889,
+                    33.6930466
+                ]
+            },
+            "properties": {
+                "osm_id": "3908234893",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.39079,
+                    33.6980362
+                ]
+            },
+            "properties": {
+                "osm_id": "3935697399",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "label vie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3970484,
+                    33.7036329
+                ]
+            },
+            "properties": {
+                "osm_id": "3937717017",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3805154,
+                    33.6997354
+                ]
+            },
+            "properties": {
+                "osm_id": "3938186265",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3427808,
+                    33.6848502
+                ]
+            },
+            "properties": {
+                "osm_id": "3938245415",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marché hebdomadaire beni yakhlef السوق الأسبوعي لبني يخلف"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3433859,
+                    33.6854314
+                ]
+            },
+            "properties": {
+                "osm_id": "3938245417",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0365034,
+                    29.5819792
+                ]
+            },
+            "properties": {
+                "osm_id": "3938390532",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Mini-Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.033061,
+                    29.5810998
+                ]
+            },
+            "properties": {
+                "osm_id": "3939405683",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8450175,
+                    34.024685
+                ]
+            },
+            "properties": {
+                "osm_id": "3951818960",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8522294,
+                    34.0165342
+                ]
+            },
+            "properties": {
+                "osm_id": "3951993397",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim بيم"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8516447,
+                    34.0178059
+                ]
+            },
+            "properties": {
+                "osm_id": "3980286200",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima آسيما"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8599642,
+                    33.9757027
+                ]
+            },
+            "properties": {
+                "osm_id": "4000794628",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Les Domaines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9313606,
+                    30.5336922
+                ]
+            },
+            "properties": {
+                "osm_id": "4066992908",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "حجوب عشاق"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9314018,
+                    30.533719
+                ]
+            },
+            "properties": {
+                "osm_id": "4066992909",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "سمير نوؤ الدين"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9312657,
+                    30.5337257
+                ]
+            },
+            "properties": {
+                "osm_id": "4066992911",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "حجوب عشاق"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3342638,
+                    35.6043981
+                ]
+            },
+            "properties": {
+                "osm_id": "4067507948",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Electroplanet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0796306,
+                    31.629295
+                ]
+            },
+            "properties": {
+                "osm_id": "4072252929",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6310019,
+                    33.5891579
+                ]
+            },
+            "properties": {
+                "osm_id": "4100382809",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5532235,
+                    33.5386572
+                ]
+            },
+            "properties": {
+                "osm_id": "4114077690",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marché Salmia 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5346227,
+                    33.3808071
+                ]
+            },
+            "properties": {
+                "osm_id": "4129023489",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.309557,
+                    34.9310987
+                ]
+            },
+            "properties": {
+                "osm_id": "4141379510",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market كارفور"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3354547,
+                    35.8807298
+                ]
+            },
+            "properties": {
+                "osm_id": "4147731974",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Mercadona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.1720561,
+                    27.1289823
+                ]
+            },
+            "properties": {
+                "osm_id": "4150313290",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.090933,
+                    33.8268123
+                ]
+            },
+            "properties": {
+                "osm_id": "4157692508",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3530257,
+                    33.7121747
+                ]
+            },
+            "properties": {
+                "osm_id": "4166709150",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermaché Monica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.0345777,
+                    20.938132
+                ]
+            },
+            "properties": {
+                "osm_id": "4183756596",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "الخيار الصحيح"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3822052,
+                    30.1226678
+                ]
+            },
+            "properties": {
+                "osm_id": "4191571665",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6152396,
+                    33.5972407
+                ]
+            },
+            "properties": {
+                "osm_id": "4193561290",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BMI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5928946,
+                    33.5905784
+                ]
+            },
+            "properties": {
+                "osm_id": "4221347648",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6130079,
+                    33.5886673
+                ]
+            },
+            "properties": {
+                "osm_id": "4225325278",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5177026,
+                    32.7408756
+                ]
+            },
+            "properties": {
+                "osm_id": "4230997701",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2301466,
+                    31.4120818
+                ]
+            },
+            "properties": {
+                "osm_id": "4240724872",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Souk Hebdomadaire Mardi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1149606,
+                    31.2419649
+                ]
+            },
+            "properties": {
+                "osm_id": "4242837943",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9870215,
+                    31.3666957
+                ]
+            },
+            "properties": {
+                "osm_id": "4242839089",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.385975,
+                    33.6960822
+                ]
+            },
+            "properties": {
+                "osm_id": "4290860596",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hanout salah et mohammed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0372888,
+                    33.850806
+                ]
+            },
+            "properties": {
+                "osm_id": "4290912316",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8483268,
+                    34.0230492
+                ]
+            },
+            "properties": {
+                "osm_id": "4291851191",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9219862,
+                    34.2596778
+                ]
+            },
+            "properties": {
+                "osm_id": "4291851194",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.915723,
+                    34.2600443
+                ]
+            },
+            "properties": {
+                "osm_id": "4291851391",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9377024,
+                    34.2629419
+                ]
+            },
+            "properties": {
+                "osm_id": "4291851992",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8456429,
+                    34.0227372
+                ]
+            },
+            "properties": {
+                "osm_id": "4291853689",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9860968,
+                    31.3742782
+                ]
+            },
+            "properties": {
+                "osm_id": "4308089425",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0425544,
+                    29.5797867
+                ]
+            },
+            "properties": {
+                "osm_id": "4324111290",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Mini-Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0396135,
+                    29.5796504
+                ]
+            },
+            "properties": {
+                "osm_id": "4324124393",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Mini-Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2718968,
+                    35.6182646
+                ]
+            },
+            "properties": {
+                "osm_id": "4329802097",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Mini-Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3961322,
+                    32.0520041
+                ]
+            },
+            "properties": {
+                "osm_id": "4330920003",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2724138,
+                    35.6178656
+                ]
+            },
+            "properties": {
+                "osm_id": "4336557893",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Mini-Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4882884,
+                    33.5925748
+                ]
+            },
+            "properties": {
+                "osm_id": "4338345197",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.49564,
+                    33.5935945
+                ]
+            },
+            "properties": {
+                "osm_id": "4338387289",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4892783,
+                    33.6039372
+                ]
+            },
+            "properties": {
+                "osm_id": "4346039590",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4870931,
+                    33.6205532
+                ]
+            },
+            "properties": {
+                "osm_id": "4350335179",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM بيم"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8779692,
+                    34.6891228
+                ]
+            },
+            "properties": {
+                "osm_id": "4371668191",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Crémerie Oued Eddahab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9455618,
+                    31.6470766
+                ]
+            },
+            "properties": {
+                "osm_id": "4374168089",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.1293141,
+                    33.7639367
+                ]
+            },
+            "properties": {
+                "osm_id": "4379668489",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "farming chawni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6310778,
+                    33.5882331
+                ]
+            },
+            "properties": {
+                "osm_id": "4398086252",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Economat du professeur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9887684,
+                    31.6312341
+                ]
+            },
+            "properties": {
+                "osm_id": "4424148792",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8642534,
+                    33.9990888
+                ]
+            },
+            "properties": {
+                "osm_id": "4432505816",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.215329,
+                    32.298153
+                ]
+            },
+            "properties": {
+                "osm_id": "4461165389",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane مرجان"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8506216,
+                    33.9935839
+                ]
+            },
+            "properties": {
+                "osm_id": "4463453768",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7719839,
+                    35.735754
+                ]
+            },
+            "properties": {
+                "osm_id": "4465392289",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Aluminium du maroc ألومنيوم المغرب"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6080134,
+                    33.5844973
+                ]
+            },
+            "properties": {
+                "osm_id": "4486145290",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8052487,
+                    34.0336155
+                ]
+            },
+            "properties": {
+                "osm_id": "4486790497",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5043109,
+                    30.3366612
+                ]
+            },
+            "properties": {
+                "osm_id": "4493327991",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Al Fath"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5932804,
+                    34.2610305
+                ]
+            },
+            "properties": {
+                "osm_id": "4499092471",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6149112,
+                    34.257686
+                ]
+            },
+            "properties": {
+                "osm_id": "4499104252",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5420609,
+                    34.2488121
+                ]
+            },
+            "properties": {
+                "osm_id": "4499113199",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5796858,
+                    34.2626118
+                ]
+            },
+            "properties": {
+                "osm_id": "4499126445",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.580602,
+                    34.2537006
+                ]
+            },
+            "properties": {
+                "osm_id": "4499128590",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5915331,
+                    34.2533321
+                ]
+            },
+            "properties": {
+                "osm_id": "4499135692",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5926434,
+                    34.2572481
+                ]
+            },
+            "properties": {
+                "osm_id": "4499136470",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5803651,
+                    33.8913716
+                ]
+            },
+            "properties": {
+                "osm_id": "4507379789",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "بيم"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5874152,
+                    34.2620224
+                ]
+            },
+            "properties": {
+                "osm_id": "4510365790",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Label vie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5882187,
+                    34.261492
+                ]
+            },
+            "properties": {
+                "osm_id": "4510385417",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.582085,
+                    34.2597245
+                ]
+            },
+            "properties": {
+                "osm_id": "4510900572",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Label Vie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8314215,
+                    35.7773968
+                ]
+            },
+            "properties": {
+                "osm_id": "4524668689",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.621475,
+                    32.9949872
+                ]
+            },
+            "properties": {
+                "osm_id": "4540345428",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5974437,
+                    33.5479552
+                ]
+            },
+            "properties": {
+                "osm_id": "4547873290",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "سوق الخليل"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5660893,
+                    33.8514273
+                ]
+            },
+            "properties": {
+                "osm_id": "4584291244",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Atkadaou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5833828,
+                    33.5395666
+                ]
+            },
+            "properties": {
+                "osm_id": "4588766267",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9723653,
+                    31.5436464
+                ]
+            },
+            "properties": {
+                "osm_id": "4591259372",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9942117,
+                    31.6349405
+                ]
+            },
+            "properties": {
+                "osm_id": "4595267177",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9963042,
+                    31.6367975
+                ]
+            },
+            "properties": {
+                "osm_id": "4595267213",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.35372,
+                    35.5801843
+                ]
+            },
+            "properties": {
+                "osm_id": "4636374711",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5682292,
+                    34.2627779
+                ]
+            },
+            "properties": {
+                "osm_id": "4659823956",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6025649,
+                    34.2535383
+                ]
+            },
+            "properties": {
+                "osm_id": "4659861298",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3369137,
+                    35.6034787
+                ]
+            },
+            "properties": {
+                "osm_id": "4660845790",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Jardins de Marjane 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6232716,
+                    34.2531445
+                ]
+            },
+            "properties": {
+                "osm_id": "4667022335",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6003544,
+                    33.540036
+                ]
+            },
+            "properties": {
+                "osm_id": "4680487690",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima آسيما"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9370878,
+                    23.6937547
+                ]
+            },
+            "properties": {
+                "osm_id": "4697641492",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Wanny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5674682,
+                    34.2625095
+                ]
+            },
+            "properties": {
+                "osm_id": "4716440852",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5990013,
+                    34.2550817
+                ]
+            },
+            "properties": {
+                "osm_id": "4720708113",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6086825,
+                    34.2472631
+                ]
+            },
+            "properties": {
+                "osm_id": "4720709530",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Aswak Assalam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5697995,
+                    34.2413753
+                ]
+            },
+            "properties": {
+                "osm_id": "4720710273",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8159498,
+                    34.0188825
+                ]
+            },
+            "properties": {
+                "osm_id": "4720721445",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7956538,
+                    34.0518518
+                ]
+            },
+            "properties": {
+                "osm_id": "4720818378",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane Sale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8014107,
+                    34.0585009
+                ]
+            },
+            "properties": {
+                "osm_id": "4720828168",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9976803,
+                    34.0422706
+                ]
+            },
+            "properties": {
+                "osm_id": "4721869989",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8547176,
+                    31.4274378
+                ]
+            },
+            "properties": {
+                "osm_id": "4729413921",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Souk Hebdomadire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6499745,
+                    33.5745369
+                ]
+            },
+            "properties": {
+                "osm_id": "4745754458",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3609538,
+                    32.343504
+                ]
+            },
+            "properties": {
+                "osm_id": "4749304101",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0037922,
+                    31.6321553
+                ]
+            },
+            "properties": {
+                "osm_id": "4751653227",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9979776,
+                    34.0406817
+                ]
+            },
+            "properties": {
+                "osm_id": "4757716621",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Maroc terroir Bio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0002848,
+                    34.0382784
+                ]
+            },
+            "properties": {
+                "osm_id": "4757790128",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Épicerie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5307738,
+                    33.5952977
+                ]
+            },
+            "properties": {
+                "osm_id": "4760881454",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "kitea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8174203,
+                    33.5236352
+                ]
+            },
+            "properties": {
+                "osm_id": "4799709253",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0111765,
+                    32.3504609
+                ]
+            },
+            "properties": {
+                "osm_id": "4807434846",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "COOP AGRO-ANIR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0241018,
+                    34.0320041
+                ]
+            },
+            "properties": {
+                "osm_id": "4813226521",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "V. Oeufs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8858526,
+                    29.6650478
+                ]
+            },
+            "properties": {
+                "osm_id": "4832179923",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6606484,
+                    32.9443241
+                ]
+            },
+            "properties": {
+                "osm_id": "4838858121",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9567479,
+                    35.421054
+                ]
+            },
+            "properties": {
+                "osm_id": "4854093522",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5904484,
+                    34.2626048
+                ]
+            },
+            "properties": {
+                "osm_id": "4906018423",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3891859,
+                    35.5699052
+                ]
+            },
+            "properties": {
+                "osm_id": "4906881621",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "سوق الإمام مالك"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5223526,
+                    33.5982648
+                ]
+            },
+            "properties": {
+                "osm_id": "4949762492",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9896607,
+                    34.2259503
+                ]
+            },
+            "properties": {
+                "osm_id": "4982964536",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Atacadao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.6577542,
+                    30.4457032
+                ]
+            },
+            "properties": {
+                "osm_id": "4990053724",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marcher anza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.041736,
+                    29.7494481
+                ]
+            },
+            "properties": {
+                "osm_id": "4995130783",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Tahanout"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0427571,
+                    29.7431888
+                ]
+            },
+            "properties": {
+                "osm_id": "4995131659",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Tahanout"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0339406,
+                    29.739067
+                ]
+            },
+            "properties": {
+                "osm_id": "4995131660",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Tahanout"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7567388,
+                    35.7265529
+                ]
+            },
+            "properties": {
+                "osm_id": "5018121679",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane Tanger Ikhlass"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6025444,
+                    34.2662687
+                ]
+            },
+            "properties": {
+                "osm_id": "5022374821",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3385977,
+                    33.687304
+                ]
+            },
+            "properties": {
+                "osm_id": "5051848082",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3290693,
+                    35.8937051
+                ]
+            },
+            "properties": {
+                "osm_id": "5062994852",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8703795,
+                    33.9979884
+                ]
+            },
+            "properties": {
+                "osm_id": "5073821524",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "قسارية وادي الذهب"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5316741,
+                    33.568153
+                ]
+            },
+            "properties": {
+                "osm_id": "5081744174",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.999559,
+                    33.9856729
+                ]
+            },
+            "properties": {
+                "osm_id": "5103625679",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane Fès II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5924065,
+                    33.5866306
+                ]
+            },
+            "properties": {
+                "osm_id": "5126989232",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Tachfine center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8407924,
+                    35.7811613
+                ]
+            },
+            "properties": {
+                "osm_id": "5140231898",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Tanger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9973604,
+                    34.0261205
+                ]
+            },
+            "properties": {
+                "osm_id": "5147303721",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché Ahlan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9962782,
+                    34.0249471
+                ]
+            },
+            "properties": {
+                "osm_id": "5149560023",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Dar Benkirane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9968181,
+                    34.0245012
+                ]
+            },
+            "properties": {
+                "osm_id": "5149569123",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.037374,
+                    35.46106
+                ]
+            },
+            "properties": {
+                "osm_id": "5155853721",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "سوق أنوال"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0078926,
+                    34.0130814
+                ]
+            },
+            "properties": {
+                "osm_id": "5172581321",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Superette Syjilmassa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9855961,
+                    34.0182945
+                ]
+            },
+            "properties": {
+                "osm_id": "5173850522",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0105851,
+                    34.0015593
+                ]
+            },
+            "properties": {
+                "osm_id": "5174338121",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9287226,
+                    35.167636
+                ]
+            },
+            "properties": {
+                "osm_id": "5200384267",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Boucherie Nour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.008184,
+                    34.0061963
+                ]
+            },
+            "properties": {
+                "osm_id": "5201935940",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Vente Produits d'Alimentations"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9769986,
+                    34.0062187
+                ]
+            },
+            "properties": {
+                "osm_id": "5203976244",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Super Distribution"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3452162,
+                    34.2263167
+                ]
+            },
+            "properties": {
+                "osm_id": "5209274745",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9859453,
+                    34.0173626
+                ]
+            },
+            "properties": {
+                "osm_id": "5217812822",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Société Dizig Épicier en demi - gros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.911834,
+                    30.9229977
+                ]
+            },
+            "properties": {
+                "osm_id": "5238042767",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Dades Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9684214,
+                    34.0071558
+                ]
+            },
+            "properties": {
+                "osm_id": "5251784725",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Dia Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5307111,
+                    33.2245952
+                ]
+            },
+            "properties": {
+                "osm_id": "5253600921",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7289155,
+                    29.6931848
+                ]
+            },
+            "properties": {
+                "osm_id": "5284638022",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarkt Al Izdihar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0324193,
+                    28.9685756
+                ]
+            },
+            "properties": {
+                "osm_id": "5286732181",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4937134,
+                    33.2349394
+                ]
+            },
+            "properties": {
+                "osm_id": "5291559512",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5179027,
+                    33.5759943
+                ]
+            },
+            "properties": {
+                "osm_id": "5291843491",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5318442,
+                    33.5725129
+                ]
+            },
+            "properties": {
+                "osm_id": "5291843492",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0095611,
+                    31.6179317
+                ]
+            },
+            "properties": {
+                "osm_id": "5298005021",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9850436,
+                    34.0044845
+                ]
+            },
+            "properties": {
+                "osm_id": "5298492125",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Sghir Abdelmalek Alimentation Générale Tafilalet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9306219,
+                    23.7008191
+                ]
+            },
+            "properties": {
+                "osm_id": "5303397573",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Mod مود"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6178059,
+                    33.6002411
+                ]
+            },
+            "properties": {
+                "osm_id": "5314907624",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9418179,
+                    23.6889456
+                ]
+            },
+            "properties": {
+                "osm_id": "5315113774",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Ait Oubaha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6445744,
+                    33.5739187
+                ]
+            },
+            "properties": {
+                "osm_id": "5321031121",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5692874,
+                    33.8956171
+                ]
+            },
+            "properties": {
+                "osm_id": "5321092421",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6178386,
+                    33.600148
+                ]
+            },
+            "properties": {
+                "osm_id": "5322671621",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0189674,
+                    31.6377663
+                ]
+            },
+            "properties": {
+                "osm_id": "5328041575",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.999541,
+                    33.9856059
+                ]
+            },
+            "properties": {
+                "osm_id": "5333830023",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane Fès Saiss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7829157,
+                    35.7749054
+                ]
+            },
+            "properties": {
+                "osm_id": "5404692623",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8023918,
+                    35.7780638
+                ]
+            },
+            "properties": {
+                "osm_id": "5405965725",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9112842,
+                    34.6858069
+                ]
+            },
+            "properties": {
+                "osm_id": "5415373221",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "لحسن"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8012904,
+                    35.777436
+                ]
+            },
+            "properties": {
+                "osm_id": "5415850758",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0110038,
+                    34.0059391
+                ]
+            },
+            "properties": {
+                "osm_id": "5426295033",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché Ifoulki Hassouni Abdellah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9789212,
+                    34.0657822
+                ]
+            },
+            "properties": {
+                "osm_id": "5430293521",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "ain azliten tannery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8276499,
+                    30.3187927
+                ]
+            },
+            "properties": {
+                "osm_id": "5433264922",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8282457,
+                    30.3184873
+                ]
+            },
+            "properties": {
+                "osm_id": "5433264923",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3117785,
+                    32.7546116
+                ]
+            },
+            "properties": {
+                "osm_id": "5440362557",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Magasin de Mr. Hassan Zaouaoui Elidrissi حانوت حسن الزواوي الإدريسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2273937,
+                    32.3081997
+                ]
+            },
+            "properties": {
+                "osm_id": "5448344623",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marchandis alimentaire محل مواد غدائية"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5641435,
+                    30.7820529
+                ]
+            },
+            "properties": {
+                "osm_id": "5462723221",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Souk (Wednesdays)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3736249,
+                    35.5715107
+                ]
+            },
+            "properties": {
+                "osm_id": "5491678722",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Moda Jeans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7334292,
+                    33.9926885
+                ]
+            },
+            "properties": {
+                "osm_id": "5494715821",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marwa4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5337165,
+                    33.5614104
+                ]
+            },
+            "properties": {
+                "osm_id": "5506425821",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM بيم"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5924335,
+                    30.4263176
+                ]
+            },
+            "properties": {
+                "osm_id": "5525115039",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Aswak Assalam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1414014,
+                    35.14808
+                ]
+            },
+            "properties": {
+                "osm_id": "5543167603",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjane Larache ⵎⴰⵔⵊⴰⵏ ⵍⵄⴰⵔⴰⵉⵛ مرجان العرائش"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8004447,
+                    35.7719634
+                ]
+            },
+            "properties": {
+                "osm_id": "5565593264",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Super Marché"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.599484,
+                    33.5841408
+                ]
+            },
+            "properties": {
+                "osm_id": "5579609066",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8314965,
+                    35.7786883
+                ]
+            },
+            "properties": {
+                "osm_id": "5595586703",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché Zahra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8330681,
+                    35.7445726
+                ]
+            },
+            "properties": {
+                "osm_id": "5605589362",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Ensyr Supermarché"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8177076,
+                    35.7746286
+                ]
+            },
+            "properties": {
+                "osm_id": "5608278321",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Market para"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5174715,
+                    33.5930481
+                ]
+            },
+            "properties": {
+                "osm_id": "5618306120",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Plus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7989172,
+                    35.7654692
+                ]
+            },
+            "properties": {
+                "osm_id": "5620337807",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Super Marché Del Moll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6110077,
+                    33.588586
+                ]
+            },
+            "properties": {
+                "osm_id": "5633523498",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Asia Supermarché"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6125249,
+                    33.5879069
+                ]
+            },
+            "properties": {
+                "osm_id": "5657167238",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6144239,
+                    33.588499
+                ]
+            },
+            "properties": {
+                "osm_id": "5657167250",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6086746,
+                    33.59444
+                ]
+            },
+            "properties": {
+                "osm_id": "5657171554",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marjona market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8218123,
+                    33.5319835
+                ]
+            },
+            "properties": {
+                "osm_id": "5688451820",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Super Marché"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5350861,
+                    31.5340367
+                ]
+            },
+            "properties": {
+                "osm_id": "5692094224",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Ushbi shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5294498,
+                    31.5317779
+                ]
+            },
+            "properties": {
+                "osm_id": "5692094225",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hammu Kaddi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5286685,
+                    31.5320464
+                ]
+            },
+            "properties": {
+                "osm_id": "5692094226",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Kaddi alla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6375868,
+                    33.5842229
+                ]
+            },
+            "properties": {
+                "osm_id": "5700510319",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5503368,
+                    34.2437836
+                ]
+            },
+            "properties": {
+                "osm_id": "5712434040",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0469687,
+                    31.5967789
+                ]
+            },
+            "properties": {
+                "osm_id": "5725891405",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Marché"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0541094,
+                    31.5805536
+                ]
+            },
+            "properties": {
+                "osm_id": "5725991834",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0419842,
+                    31.5874457
+                ]
+            },
+            "properties": {
+                "osm_id": "5725991844",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8447064,
+                    34.0000197
+                ]
+            },
+            "properties": {
+                "osm_id": "5782839870",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Super Marche Addoha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9487848,
+                    23.6971824
+                ]
+            },
+            "properties": {
+                "osm_id": "5789540113",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "متجر سعيد للمواد الغذائية"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8503793,
+                    34.0199852
+                ]
+            },
+            "properties": {
+                "osm_id": "5819328818",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3162526,
+                    33.8932519
+                ]
+            },
+            "properties": {
+                "osm_id": "5842529285",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3338024,
+                    35.5779851
+                ]
+            },
+            "properties": {
+                "osm_id": "5867430685",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Hypermarché Carrefour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0137458,
+                    35.2778619
+                ]
+            },
+            "properties": {
+                "osm_id": "5907871787",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "ⵙⵓⵇ ⴻⵏ ⴰⵢⵜ-ⵛⵉⴽⴻⵔ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9313318,
+                    30.5337947
+                ]
+            },
+            "properties": {
+                "osm_id": "5926829111",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "بن علي براهيم"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.1781302,
+                    29.3780022
+                ]
+            },
+            "properties": {
+                "osm_id": "5981294472",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché Marina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9945148,
+                    34.0460568
+                ]
+            },
+            "properties": {
+                "osm_id": "6013152066",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6158299,
+                    34.2399335
+                ]
+            },
+            "properties": {
+                "osm_id": "6018366488",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6439646,
+                    34.2655985
+                ]
+            },
+            "properties": {
+                "osm_id": "6018399250",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6997912,
+                    33.5553862
+                ]
+            },
+            "properties": {
+                "osm_id": "6027845069",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9161187,
+                    23.7336259
+                ]
+            },
+            "properties": {
+                "osm_id": "6068486285",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "mini market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7330002,
+                    29.6972316
+                ]
+            },
+            "properties": {
+                "osm_id": "6113241086",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Alimentation General"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5934659,
+                    30.4140596
+                ]
+            },
+            "properties": {
+                "osm_id": "6121121086",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9883397,
+                    31.6434803
+                ]
+            },
+            "properties": {
+                "osm_id": "6137878685",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3525165,
+                    33.2837688
+                ]
+            },
+            "properties": {
+                "osm_id": "6144921286",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8117251,
+                    35.7794744
+                ]
+            },
+            "properties": {
+                "osm_id": "6152262985",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9731243,
+                    29.745683
+                ]
+            },
+            "properties": {
+                "osm_id": "6163398485",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5615744,
+                    30.4110976
+                ]
+            },
+            "properties": {
+                "osm_id": "6174963074",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5946783,
+                    34.2529849
+                ]
+            },
+            "properties": {
+                "osm_id": "6185954079",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4488414,
+                    30.6936468
+                ]
+            },
+            "properties": {
+                "osm_id": "6193045785",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Superrette El Assri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0956401,
+                    35.4564152
+                ]
+            },
+            "properties": {
+                "osm_id": "6209800115",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Alimentación General, HamiD Z."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.893822,
+                    34.3976457
+                ]
+            },
+            "properties": {
+                "osm_id": "6226766685",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "El ayachi shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2745595,
+                    35.169015
+                ]
+            },
+            "properties": {
+                "osm_id": "6242644785",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2814577,
+                    35.6278028
+                ]
+            },
+            "properties": {
+                "osm_id": "6247568186",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2838666,
+                    35.6274549
+                ]
+            },
+            "properties": {
+                "osm_id": "6247606787",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Supermarché"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6374127,
+                    33.5998615
+                ]
+            },
+            "properties": {
+                "osm_id": "6260970486",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6380539,
+                    33.6019964
+                ]
+            },
+            "properties": {
+                "osm_id": "6260970985",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6355528,
+                    33.6008678
+                ]
+            },
+            "properties": {
+                "osm_id": "6260971085",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Otob"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5824618,
+                    34.2570224
+                ]
+            },
+            "properties": {
+                "osm_id": "6312866331",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Carrefour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5133281,
+                    33.2434588
+                ]
+            },
+            "properties": {
+                "osm_id": "6348485654",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Acima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4966288,
+                    33.2398086
+                ]
+            },
+            "properties": {
+                "osm_id": "6348485657",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "careffpur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3243236,
+                    35.8917729
+                ]
+            },
+            "properties": {
+                "osm_id": "6377470421",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Mercadona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9894914,
+                    31.6285959
+                ]
+            },
+            "properties": {
+                "osm_id": "6389435988",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9993516,
+                    31.6405958
+                ]
+            },
+            "properties": {
+                "osm_id": "6402250986",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0592616,
+                    31.650452
+                ]
+            },
+            "properties": {
+                "osm_id": "6407333186",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7254623,
+                    33.5343791
+                ]
+            },
+            "properties": {
+                "osm_id": "6411471543",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9270697,
+                    30.9250598
+                ]
+            },
+            "properties": {
+                "osm_id": "6418186986",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5622442,
+                    33.8952978
+                ]
+            },
+            "properties": {
+                "osm_id": "6418187785",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6061698,
+                    33.5944393
+                ]
+            },
+            "properties": {
+                "osm_id": "6427695686",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9129691,
+                    34.6807518
+                ]
+            },
+            "properties": {
+                "osm_id": "6431641086",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Souk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6444846,
+                    33.5189452
+                ]
+            },
+            "properties": {
+                "osm_id": "6567406902",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6455492,
+                    33.5217794
+                ]
+            },
+            "properties": {
+                "osm_id": "6593067875",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Epicier Oujdi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6453389,
+                    33.5147228
+                ]
+            },
+            "properties": {
+                "osm_id": "6593157471",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.649661,
+                    33.5275334
+                ]
+            },
+            "properties": {
+                "osm_id": "6593304003",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6098461,
+                    34.2711754
+                ]
+            },
+            "properties": {
+                "osm_id": "6593589088",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "BIM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9101204,
+                    30.9019848
+                ]
+            },
+            "properties": {
+                "osm_id": "6641922785",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Mini market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0108509,
+                    34.0416535
+                ]
+            },
+            "properties": {
+                "osm_id": "6682010885",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.994138,
+                    33.9541588
+                ]
+            },
+            "properties": {
+                "osm_id": "6720821786",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9244983,
+                    33.9199138
+                ]
+            },
+            "properties": {
+                "osm_id": "6743172086",
+                "code": 2501,
+                "fclass": "supermarket",
+                "NOM": "Bricoma temara"
+            }
+        }
+    ]
+}
